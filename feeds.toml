@@ -1,4 +1,4 @@
-[musinsa]
+[musinsa_news]
 title = "무신사 ─ 패션 뉴스"
 url = "https://magazine.musinsa.com/?m=news"
 entrySelector = "ul[class='news-article-list article-list list'] li[class='listItem']"
@@ -15,3 +15,12 @@ titleSelector = "li a.title"
 linkSelector = "li a.img"
 imageSelector = "a.img img"
 contentSelector = "p[class='job']"
+
+[naverpost_musinsa_snap]
+title = "MSBSOUND ─ Album Special"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=195255&memberNo=22191262"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
