@@ -10,7 +10,7 @@ contentSelector = "div[class='description'] a p"
 [musinsa_recruit]
 title = "무신사 ─ 구인"
 url = "https://magazine.musinsa.com/?m=recruit"
-entrySelector = "div[class='section'] ul[class='recruit-article-list article-list list'] li"
+entrySelector = "ul[class='recruit-article-list article-list list'] li"
 titleSelector = "li a.title"
 linkSelector = "li a.img"
 
