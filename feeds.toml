@@ -11,8 +11,8 @@ contentSelector = "div[class='description'] a p"
 title = "무신사 ─ 구인"
 url = "https://magazine.musinsa.com/?m=recruit"
 entrySelector = "ul[class='recruit-article-list article-list list'] li"
-titleSelector = "li a.title"
-linkSelector = "li a.img"
+titleSelector = "li a[class='title']"
+linkSelector = "a[class='title']"
 
 [naverpost_musinsa_snap]
 title = "무신사 ─ 무신사 스냅"
