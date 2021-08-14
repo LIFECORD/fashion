@@ -32,3 +32,30 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+
+[naverpost_musinsa_stylefactory]
+title = "무신사 ─ 스타일 팩토리"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=369379&memberNo=22191262"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_musinsa_stylelesson]
+title = "무신사 ─ 스타일 레슨"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=225468&memberNo=22191262"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_musinsa_storerank]
+title = "무신사 ─ 무신사 스토어 랭킹"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=195260&memberNo=22191262"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
