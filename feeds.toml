@@ -15,9 +15,10 @@ titleSelector = "li a.title"
 linkSelector = "li a.img"
 imageSelector = "a.img img"
 contentSelector = "p[class='job']"
+waitUntil = "networkidle"
 
 [naverpost_musinsa_snap]
-title = "MSBSOUND ─ Album Special"
+title = "무신사 ─ 무신사 스냅"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=195255&memberNo=22191262"
 entrySelector = "#el_list_container ul ul li"
 titleSelector = "div.spot_post_name span.ell"
