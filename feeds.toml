@@ -6,3 +6,12 @@ titleSelector = "p[class='title'] a"
 linkSelector = "div.articleImg > a"
 imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
+
+[musinsa_recruit]
+title = "무신사 ─ 구인"
+url = "https://magazine.musinsa.com/?m=recruit"
+entrySelector = "ul[class='recruit-article-list article-list list'] li"
+titleSelector = "ul li a[class='title']"
+linkSelector = "ul li a[class='title']"
+imageSelector = "a.img > img"
+contentSelector = "p[class='job']"
