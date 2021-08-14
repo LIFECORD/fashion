@@ -13,6 +13,8 @@ url = "https://magazine.musinsa.com/?m=recruit"
 entrySelector = "ul[class='recruit-article-list article-list list'] li"
 titleSelector = "a.title"
 linkSelector = "a[class='title']"
+imageSelector = "a[class='img']"
+contentSelector = "p[class='job']"
 
 [naverpost_musinsa_snap]
 title = "무신사 ─ 무신사 스냅"
