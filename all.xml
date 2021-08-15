@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Aug 2021 14:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 16:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,13 +294,6 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 디자이너 / 마케터 모집 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2020</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2020</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[진행] 네스티킥 웹디자이너 채용 (경력무관) (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2018</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2018</guid>
@@ -371,11 +364,11 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 웹디자인, 온라인MD 경력 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2004</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2004</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
+            <title><![CDATA[[진행] 본챔스 마케팅 모집 (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2003</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2003</guid>
+            <pubDate>Sun, 15 Aug 2021 16:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉽게 따라 하기 좋은 미니멀룩 스타일링 (무신사 ─ 무신사 스냅)]]></title>
