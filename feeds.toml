@@ -21,7 +21,7 @@ url = "https://magazine.musinsa.com/?m=magazine"
 entrySelector = "ul[class='magazine-article-list article-list list'] li[class='listItem']"
 titleSelector = "div.title"
 linkSelector = "div[class='articleImg'] a"
-contentSelector = "p.description"
+contentSelector = "p[class='description']:not(.mediumName)"
 imageSelector = "img.lazy-load-image"
 
 [naverpost_musinsa_snap]
