@@ -19,9 +19,9 @@ contentSelector = "p[class='job']"
 title = "무신사 ─ 매거진"
 url = "https://magazine.musinsa.com/?m=magazine"
 entrySelector = "ul[class='magazine-article-list article-list list'] li[class='listItem']"
-titleSelector = "div.title"
+titleSelector = "//li/div[2]/div[1]/a/text()"
 linkSelector = "div[class='articleImg'] a"
-contentSelector = "p[class='description']:not(.mediumName)"
+contentSelector = "//li/div[2]/p/text()"
 imageSelector = "img.lazy-load-image"
 
 [naverpost_musinsa_snap]
