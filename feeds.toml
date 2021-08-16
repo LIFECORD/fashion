@@ -15,6 +15,15 @@ titleSelector = "a.title"
 linkSelector = "a[class='title']"
 contentSelector = "p[class='job']"
 
+[musinsa_magazine]
+title = "무신사 ─ 매거진"
+url = "https://magazine.musinsa.com/?m=magazine"
+entrySelector = "ul[class='magazine-article-list article-list list'] li[class='listItem']"
+titleSelector = "div.title"
+linkSelector = "div[class='articleImg'] a"
+contentSelector = "p.description"
+imageSelector = "img.lazy-load-image"
+
 [naverpost_musinsa_snap]
 title = "무신사 ─ 무신사 스냅"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=195255&memberNo=22191262"
