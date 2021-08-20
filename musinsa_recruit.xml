@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-08-20T14:18:26.053Z</updated>
+    <updated>2021-08-20T18:24:00.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[진행] [스위치] 경력직 패션 MD 채용]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2037</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2037"/>
-        <updated>2021-08-14T09:19:18.511Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[진행] 로맨틱크라운 쇼룸 스태프 구인공고]]></title>
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2036</id>
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2036"/>
@@ -214,5 +207,12 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2018"/>
         <updated>2021-08-14T09:19:18.528Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] NOT4NERD (낫포너드) 디자이너/MD 모집]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2017</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2017"/>
+        <updated>2021-08-20T18:23:28.118Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content>
     </entry>
 </feed>
