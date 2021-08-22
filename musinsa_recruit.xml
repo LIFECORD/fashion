@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-08-22T08:21:17.074Z</updated>
+    <updated>2021-08-22T15:21:24.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -153,13 +153,6 @@
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[진행] 온라인MD경력자 모집(급구)]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2029</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2029"/>
-        <updated>2021-08-14T09:19:18.518Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[진행] 로파이 신입 / 경력직 MD 채용]]></title>
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</id>
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028"/>
@@ -214,5 +207,12 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2017"/>
         <updated>2021-08-20T18:23:28.118Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] 디미트리블랙 에서 물류 채용합니다.]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2016</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2016"/>
+        <updated>2021-08-22T15:20:52.019Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a>]]></content>
     </entry>
 </feed>

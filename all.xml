@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Aug 2021 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 15:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,13 +315,6 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 온라인MD경력자 모집(급구) (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2029</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2029</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[진행] 로파이 신입 / 경력직 MD 채용 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</guid>
@@ -376,6 +369,13 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2017</guid>
             <pubDate>Fri, 20 Aug 2021 18:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[진행] 디미트리블랙 에서 물류 채용합니다. (무신사 ─ 구인)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2016</link>
+            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2016</guid>
+            <pubDate>Sun, 22 Aug 2021 15:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리포트 | 환절기 코디를 완성하는 필수 아이템은? (무신사 ─ 매거진)]]></title>
@@ -906,6 +906,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[대세는 실버! 앤티크한 실버 주얼리 (무신사 ─ 무신사 스냅)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32204772&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32204772&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 22 Aug 2021 15:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjBfOCAg/MDAxNjI5NDIyNjkzMzIy.BMYMdR-jbzLzw6wMJYM_L0AlXQLtYKrELXkUu8Xd-HEg.MuKMgRXBaUUWUzM2kbq08R-a56N4HyUvaE1OKYcJdckg.JPEG/I8tGGQIdT8ObuYMNwbrYwZEssyQA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저장했다가 참고하기 좋은 여자 가방 코디 (무신사 ─ 무신사 스냅)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32204585&amp;memberNo=22191262&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32204585&amp;memberNo=22191262&amp;navigationType=push</guid>
@@ -1056,14 +1064,6 @@
             <pubDate>Tue, 17 Aug 2021 09:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjc0/MDAxNjI5MTYyMDI1NjU2.yrDkm0vxmVg3xext7KhWLKl4nTyeP4KrAaQawXrZXBog.qLe48zISRrSl_0RIjLbqR86Yfr6rJziqfDz6pGSmAqcg.JPEG/IDFbsxTTQE47YpvM-GST-3BgDpWY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 학생 느낌~ 따라하고픈 프레피 룩 (무신사 ─ 무신사 스냅)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32181054&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32181054&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Tue, 17 Aug 2021 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjAy/MDAxNjI5MTYxNTM4NTIw.foXXXxuJ0TCzynz44-KDwbnp2K3v6n9fKALmIIsxTvkg.mGdXi_hG94HSKUcDjXBjkYfzzbF2coR4P8dJy4mRchsg.JPEG/IUA-6-MK0d_iVAodB14boRLB-PCQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잔스포츠와 함께 웃어봐요, 스마일~! (무신사 ─ 무신사 리포트)]]></title>
