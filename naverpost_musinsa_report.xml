@@ -4,7 +4,7 @@
         <title>무신사 ─ 무신사 리포트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Aug 2021 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 08:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 20 Aug 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjBfNTgg/MDAxNjI5NDM5NjIxODU0.2Zpg3mCLAI5H4n5VrgbAVf53XtbPJNG4KDNkt2yOUtsg.EKEgGZGNWjhVZ4p3GXhdXsHHQaJp21DKZCLIPFYB9okg.JPEG/IfmRUQcI2yznBv75Jo4i4t5V2qGM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이스티파이 × 장 미쉘 바스키아 컬렉션 단독 재발매]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32200332&amp;memberNo=22191262&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32200332&amp;memberNo=22191262&amp;navigationType=push</guid>
+            <pubDate>Sun, 22 Aug 2021 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTlfMjY0/MDAxNjI5MzU4MzkyNDcw.VB0MuKwbR5oGg8CCVDs-4ycEWWQp3GUyWsRFO-xbLHEg.KS9kEkDQF0W75G0REubJzzJ6hzLB8RDR8gMM4K1RjkQg.JPEG/IEhY4mGctICa404-hAo8IFPB9T3k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패셔니스타 류승범이 추천하는 아웃도어 룩은?]]></title>
@@ -160,14 +168,6 @@
             <pubDate>Sat, 14 Aug 2021 13:03:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjdfMTE1/MDAxNjI3MzY3MDYxNjQ1.0gaMuEZupzWWDTWoxy7M2mpjQQPagfpPl0WAz7nU4kEg.yTtI9uEgCo4HPhv-ScO-_SbGnV33mD6V643IHScsNeIg.JPEG/IFoP8D56xv458V1YbQ4odndQHAgY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 알던 척 70이 아니야! 컨버스 공식을 깨부순 척 70의 등장!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32029881&amp;memberNo=22191262&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32029881&amp;memberNo=22191262&amp;navigationType=push</guid>
-            <pubDate>Sat, 14 Aug 2021 13:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">무신사</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjNfNTAg/MDAxNjI3MDIxNzM2ODk2.OOR9SrsF6WVMxEjjvWK4PqCevRwxjBm28UkVFa_xqaIg.1xJc5OeXbR7NqzMqx87U5hQC6GwvXWbliIbKG95mg5gg.JPEG/I3edZCS34h-vB1V6EmkIih0R8o7E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
