@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-08-23T17:20:53.369Z</updated>
+    <updated>2021-08-24T03:20:19.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -174,13 +174,6 @@
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[진행] 유니폼브릿지 영업 MD 구인]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2022</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2022"/>
-        <updated>2021-08-14T09:19:18.527Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[진행] 네스티킥 웹디자이너 채용 (경력무관)]]></title>
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2018</id>
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2018"/>
@@ -214,5 +207,12 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2014"/>
         <updated>2021-08-23T11:16:04.644Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] WaiKei (와이케이) 디자이너 채용 (신입/경력)]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2013</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2013"/>
+        <updated>2021-08-24T03:19:50.044Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
     </entry>
 </feed>
