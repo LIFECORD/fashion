@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 13:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 16:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,13 +222,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2052</guid>
             <pubDate>Fri, 20 Aug 2021 07:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 키르시 CS 담당자 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2051</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2051</guid>
-            <pubDate>Fri, 20 Aug 2021 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=128">CS</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[진행] 온라인 AMD 채용 (무신사 ─ 구인)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-08-27T13:24:13.280Z</updated>
+    <updated>2021-08-27T16:30:11.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2052"/>
         <updated>2021-08-20T07:18:25.180Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진행] 키르시 CS 담당자 채용]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2051</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2051"/>
-        <updated>2021-08-20T07:18:25.184Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=128">CS</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[진행] 온라인 AMD 채용]]></title>
