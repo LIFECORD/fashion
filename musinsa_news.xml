@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 01:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 03:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 요즘 가장 핫한 로고! 브라운브레스 21 F/W 오리지널 로고 컬렉션 한정 발매]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47813</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47813</guid>
+            <pubDate>Sat, 28 Aug 2021 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[브라운브레스 21 F/W 오리지널 로고 컬렉션 한정 발매최대 20% 할인환절기 및 겨울 시즌 이너로 활용하기 좋은 셋업 아이템 구성최대 50% 할인 혜택 더한 시즌 오프 기획전 진행도시에 거주하는 사람들의 라이프스타일에 적합한 아이템을 선보이는 브라운브레스가 21 F/W 오리지널 로고 컬렉션을 한정 발매한다. 브라운브레스...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/27/7b4c2c4abfb0cb3c9156510a32d5d839.jpg.0?v20210828120001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[신발 | 전세계 패피 관심 폭발! 닥터마틴 × 수이코크 한정 발매]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47808</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Aug 2021 01:02:58 GMT</pubDate>
             <content:encoded><![CDATA[엠엠지엘 21 가을 컬렉션 한정 발매발매와 함께 단독 최대 22% 할인 혜택블루종, 트러커 재킷, 피코트 등 다양한 아우터 선보여데일리로 활용 가능한 스웨터, 울 셔츠, 팬츠도 함께 구성미니멀한 디자인과 깊고 부드러운 컬러 어우러져 눈길미니멀 디자인에 트렌디한 실루엣을 녹인 엠엠지엘 21 가을 컬렉션이 한정 발매된다. 엠...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/26/30354aafe094c802af99dd9e24681d7f.jpg.0?v20210827100002" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 역대급 할인 등장! 파르티멘토 무신사 라이브]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47792</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47792</guid>
-            <pubDate>Fri, 27 Aug 2021 01:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[파르티멘토 무신사 라이브 8월 30일 오후 8시 시작무신사 라이브 통해 21 F/W 신상품 40% 할인기존 인기 상품은 최대 70% 할인 혜택재킷, 스웨트셔츠, 크롭 팬츠 등 다채로운 구성무신사 라이브 중 7만원 이상 구매 시 심벌 로고 티 선착순 증정무신사 라이브에 댓글 참여 시 추첨 통해 런던 스트라이프 롱 슬리브 선...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/26/5d4eb9a33535d739289570e16b69b538.jpg.0?v20210827100001" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
