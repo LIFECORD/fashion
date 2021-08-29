@@ -6,6 +6,7 @@ titleSelector = "p[class='title'] a"
 linkSelector = "div.articleImg > a"
 imageSelector = "div[class='articleImg'] a img"
 contentSelector = "div[class='description'] a p"
+waitUntil = "networkidle"
 
 [musinsa_recruit]
 title = "무신사 ─ 구인"
@@ -14,6 +15,7 @@ entrySelector = "ul[class='recruit-article-list article-list list'] li"
 titleSelector = "a.title"
 linkSelector = "a[class='title']"
 contentSelector = "p[class='job']"
+waitUntil = "networkidle"
 
 [musinsa_magazine]
 title = "무신사 ─ 매거진"
@@ -23,6 +25,7 @@ titleSelector = "div.articleInfo > div.title > a:nth-child(1)"
 linkSelector = "div[class='articleImg'] a"
 contentSelector = "div.articleInfo p"
 imageSelector = "img.lazy-load-image"
+waitUntil = "networkidle"
 
 [naverpost_musinsa_snap]
 title = "무신사 ─ 무신사 스냅"
