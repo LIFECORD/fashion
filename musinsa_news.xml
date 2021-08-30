@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 07:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 파스텔 컬러 니트, 로씨로씨 × 니티드 선발매에서 챙기자]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47828</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47828</guid>
+            <pubDate>Mon, 30 Aug 2021 07:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[로씨로씨 × 니티드 21 A/W 컬래버레이션 컬렉션 선발매단독 최대 10% 할인파스텔 톤 컬러로 유니크한 데일리 웨어 제안&nbsp;&nbsp;풀오버, 니트 베스트, 와플 니트, 크롭 카디건 등 구성선물 증정하는 댓글 이벤트 시작꽃을 모티브로 유니크한 데일리 웨어를 선보이는 로씨로씨가 니티드와 함께 A/W 컬렉션을 선발매...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/30/9f61f4977e440014f76b0a27d1d3738e.jpg.0?v20210830160001" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 빈티지 감성 블루종으로 1위 오른 미나브]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47815</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Aug 2021 01:54:53 GMT</pubDate>
             <content:encoded><![CDATA[닥터마틴 × 수이코크 한정 발매발등을 덮는 레더 어퍼가 돋보이는 두 종류의 레더 샌들크로커다일 패턴, 은은한 광택 돋보이는 천연 가죽 사용올해 3월에 첫 협업을 진행하며 세계적인 주목을 받은 닥터마틴과 수이코크. 오랜 시간 부츠를 제작해온 꼼꼼한 봉제, 고급 레더 소재 등 닥터마틴의 퀄리티와 아웃도어, 스포츠 샌들로 유명...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/27/66e19681abaff740216ccb21576fcdc9.jpg.0?v20210828100001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 | 9월 1주차 발매되는 놓치지 말아야 할 신상품 리스트]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47806</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47806</guid>
-            <pubDate>Fri, 27 Aug 2021 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[브리티시 클래식 무드 레더 슈즈를 선보이는 슈펜 × 깡스타일리스트사랑스러운 컬러를 담은 퀄리티 높은 니트 웨어, 로씨로씨 × 니티드아노블리어의 퀄리티에 키르시의 디자인 감성을 더한 셔츠 컬렉션식물과 패션이 만나면? 예일 × 플랜트 소사이어티 1 한정 발매단독 할인 혜택을 누리자! 로맨틱크라운 21 F/W 아우터 프리오더영...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/08/27/8d557f0f2c17f62cff4e2c3d2f7fddb8.jpg.0?v20210830101925" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
