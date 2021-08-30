@@ -4,7 +4,7 @@
         <title>무신사 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 00:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 02:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -157,6 +157,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16345</guid>
             <pubDate>Mon, 16 Aug 2021 09:22:57 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 컬러의 재발매 혹은, 완전히 새로운 컬러의 등장.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[아이템 | 리복의 뉴 클래식 스니커즈]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16577</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16577</guid>
+            <pubDate>Mon, 30 Aug 2021 02:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[고전과 현대의 조화가 담긴 리복 스니커즈를 소개한다.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -549,14 +557,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16475</guid>
             <pubDate>Mon, 16 Aug 2021 09:22:57 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름, 스타일링에 환기가 필요하다면 스커트를 입어보자!									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 러닝화, 제대로 알고 신자!]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16474</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16474</guid>
-            <pubDate>Mon, 16 Aug 2021 09:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[약은 약사에게, 러닝화는 전문 브랜드에게! 러닝화 쇼핑 가이드.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
