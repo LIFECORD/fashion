@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,25 +189,11 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 본챔스 디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2056</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2056</guid>
-            <pubDate>Tue, 24 Aug 2021 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[진행] 디자이너 및 생산관리자 모집 합니다!. (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2055</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2055</guid>
             <pubDate>Tue, 24 Aug 2021 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 머슬암드 경력직 웹디자이너 & 물류 직원 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2054</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2054</guid>
-            <pubDate>Tue, 24 Aug 2021 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[진행] (주)비바스튜디오 브랜드 UC버클리 로컬스포츠 디자이너(경력) (무신사 ─ 구인)]]></title>
@@ -231,20 +217,6 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 마크에이토리 경력직 MD 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2049</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2049</guid>
-            <pubDate>Wed, 18 Aug 2021 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 마크에이토리 디자이너 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2048</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2048</guid>
-            <pubDate>Wed, 18 Aug 2021 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[진행] 낫포너드 CS / AMD 구인 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2047</guid>
@@ -257,13 +229,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2046</guid>
             <pubDate>Tue, 17 Aug 2021 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 함께 일할 경력직 웹디자이너 모집. (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2044</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2044</guid>
-            <pubDate>Tue, 17 Aug 2021 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[진행] (주)비바스튜디오 산하 여성브랜드 커렌트(current) 디자이너 채용 (무신사 ─ 구인)]]></title>
@@ -308,25 +273,11 @@
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=32">판매</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[진행] 랩트웰브 신입 디자이너 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2034</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2034</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[진행] 본하이커 온라인 MD 모집 (무신사 ─ 구인)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</link>
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</guid>
             <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 바잘 온라인 웹디자이너 경력직 채용 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2031</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2031</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[진행] 웹그래픽 디자이너를 모십니다. (무신사 ─ 구인)]]></title>
@@ -341,34 +292,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</guid>
             <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] [진행] 물류 / CS 모집 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2027</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2027</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=128">CS</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 그래픽/컨텐츠 메이킹 디자이너 채용 공고(신입) (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2026</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2026</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 필이너프 그래픽디자이너 모집 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2024</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2024</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] (디자인팀) 제품개발 / 그래픽 디자이너 구인 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2023</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2023</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리포트 | 초겨울부터 한겨울까지, 미리 준비하는 포근한 아우터! (무신사 ─ 매거진)]]></title>
@@ -491,14 +414,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[코디 | 백팩 하면 잔스포츠, 잔스포츠 하면 백팩! (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16552</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16552</guid>
-            <pubDate>Wed, 25 Aug 2021 02:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[캠퍼스 룩부터 스포츠 룩까지 다양하게 활용 가능한 12가지 백팩 추천.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[코디 | 무탠다드에서 찾은 인생 데님 팬츠 (무신사 ─ 매거진)]]></title>
             <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16535</link>
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16535</guid>
@@ -584,6 +499,14 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16560</guid>
             <pubDate>Wed, 25 Aug 2021 04:25:21 GMT</pubDate>
             <content:encoded><![CDATA[깔끔하고 실용적인 무신사 스탠다드 우먼즈 데님 컬렉션을 살펴보자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[코디 | 백팩 하면 잔스포츠, 잔스포츠 하면 백팩! (무신사 ─ 매거진)]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16552</link>
+            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16552</guid>
+            <pubDate>Wed, 25 Aug 2021 02:32:25 GMT</pubDate>
+            <content:encoded><![CDATA[캠퍼스 룩부터 스포츠 룩까지 다양하게 활용 가능한 12가지 백팩 추천.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -904,14 +827,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16492</guid>
             <pubDate>Mon, 16 Aug 2021 09:22:57 GMT</pubDate>
             <content:encoded><![CDATA[기분이 좋아지는 씨에이의 새러데이 캡을 인플루언서 코디로 확인하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[리포트 | 셔츠의 시작과 끝, 다이아몬드 레이라! (무신사 ─ 매거진)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16488</link>
-            <guid>https://magazine.musinsa.com/index.php?m=magazine&amp;uid=16488</guid>
-            <pubDate>Mon, 16 Aug 2021 09:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 셔츠의 계절, 다이아몬드 레이라로 미리 준비하자.									 <a href="//magazine.musinsa.com/index.php?m=magazine&amp;media=musinsa" class="mediumName">무신사 매거진</a>]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
