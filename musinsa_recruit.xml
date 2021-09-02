@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-09-02T04:26:10.672Z</updated>
+    <updated>2021-09-02T05:18:07.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2064</id>
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2064"/>
         <updated>2021-09-02T02:01:40.285Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진행] 마케팅MD 모집]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2063</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2063"/>
-        <updated>2021-09-02T02:01:40.287Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=16">마케팅</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content>
     </entry>
     <entry>
