@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-09-03T01:00:47.647Z</updated>
+    <updated>2021-09-03T02:03:00.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[진행] 물류]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2069</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2069"/>
+        <updated>2021-09-03T02:02:24.884Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] 모노소잉 디자인팀 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2068</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2068"/>
+        <updated>2021-09-03T02:02:24.884Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] 미나브 [CS/물류/MD] 담당자 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2067</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2067"/>
+        <updated>2021-09-03T02:02:24.884Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=64">물류</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=128">CS</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] 여성 패셔디자이너 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2066</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2066"/>
+        <updated>2021-09-03T02:02:24.885Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=4">생산</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] (디자인팀) 제품개발 디자이너 구인]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2065</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2065"/>
+        <updated>2021-09-03T02:02:24.888Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진행] 마케팅MD 모집]]></title>
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2064</id>
