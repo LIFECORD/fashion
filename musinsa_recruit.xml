@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-09-03T14:18:28.166Z</updated>
+    <updated>2021-09-03T15:21:07.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -172,13 +172,6 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033"/>
         <updated>2021-08-14T09:19:18.515Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진행] 웹그래픽 디자이너를 모십니다.]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2030</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2030"/>
-        <updated>2021-08-14T09:19:18.517Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[진행] 로파이 신입 / 경력직 MD 채용]]></title>
