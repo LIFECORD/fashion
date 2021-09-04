@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-09-04T14:17:56.262Z</updated>
+    <updated>2021-09-04T15:20:29.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
     <entry>
@@ -172,12 +172,5 @@
         <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033"/>
         <updated>2021-08-14T09:19:18.515Z</updated>
         <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진행] 로파이 신입 / 경력직 MD 채용]]></title>
-        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028</id>
-        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2028"/>
-        <updated>2021-08-14T09:19:18.519Z</updated>
-        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content>
     </entry>
 </feed>
