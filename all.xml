@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 14:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,13 +327,6 @@
             <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2036</guid>
             <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=32">판매</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[진행] 본하이커 온라인 MD 모집 (무신사 ─ 구인)]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</link>
-            <guid>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2033</guid>
-            <pubDate>Sat, 14 Aug 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=8">영업</a> / <a href="//magazine.musinsa.com/?m=recruit&amp;workpart=512">기타</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리포트 | 미처 알지 못했던 셔츠&블라우스의 모든 것 (무신사 ─ 매거진)]]></title>
