@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazine.musinsa.com/?m=recruit</id>
     <title>무신사 ─ 구인</title>
-    <updated>2021-09-06T02:31:15.754Z</updated>
+    <updated>2021-09-06T03:21:09.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazine.musinsa.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[진행] [스위치] 가방 / 제품 디자이너 모집]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2074</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2074"/>
+        <updated>2021-09-06T03:20:37.319Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] [스위치] 그래픽 디자이너 / 브랜딩 인턴 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2073</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2073"/>
+        <updated>2021-09-06T03:20:37.319Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] [스위치] 그래픽 디자이너 / 브랜딩 인턴 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2072</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2072"/>
+        <updated>2021-09-06T03:20:37.320Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=1">디자인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] [스위치] 경력직 패션 MD 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2071</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2071"/>
+        <updated>2021-09-06T03:20:37.321Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=2">MD</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[진행] 키르시 CS 담당자 채용]]></title>
+        <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2070</id>
+        <link href="https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2070"/>
+        <updated>2021-09-06T03:20:37.322Z</updated>
+        <content type="html"><![CDATA[<a href="//magazine.musinsa.com/?m=recruit&amp;workpart=128">CS</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진행] 물류]]></title>
         <id>https://magazine.musinsa.com/index.php?m=recruit&amp;uid=2069</id>
