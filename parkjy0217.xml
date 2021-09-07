@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>[동아사이언스] 박진영 심리학 칼럼니스트</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Tue, 07 Sep 2021 23:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 사랑받는 게 두려운 사람들 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] 사랑받는 게 두려운 사람들]]></title>
             <link>https://www.dongascience.com/news.php?idx=49138</link>
             <guid>https://www.dongascience.com/news.php?idx=49138</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/09/16306445530701.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜]]></title>
             <link>https://www.dongascience.com/news.php?idx=48996</link>
             <guid>https://www.dongascience.com/news.php?idx=48996</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16300485989949.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]어른이 더 하면 더 했지 덜 하지 않다 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학]어른이 더 하면 더 했지 덜 하지 않다]]></title>
             <link>https://www.dongascience.com/news.php?idx=48842</link>
             <guid>https://www.dongascience.com/news.php?idx=48842</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16294369456036.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 까만 양을 색출하자는 진짜 까만 양들의 심리 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] 까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
             <link>https://www.dongascience.com/news.php?idx=48713</link>
             <guid>https://www.dongascience.com/news.php?idx=48713</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16289024213559.png&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 진정한 위로와 조언의 조건 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] 진정한 위로와 조언의 조건]]></title>
             <link>https://www.dongascience.com/news.php?idx=48542</link>
             <guid>https://www.dongascience.com/news.php?idx=48542</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/08/16282337562254.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]눈 앞에 보이는 괴롭힘을 방관하는 사람들 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학]눈 앞에 보이는 괴롭힘을 방관하는 사람들]]></title>
             <link>https://www.dongascience.com/news.php?idx=48368</link>
             <guid>https://www.dongascience.com/news.php?idx=48368</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -56,7 +56,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/07/16276261374054.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]"우리는 딱 하나이기보다 여러가지다" ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학]"우리는 딱 하나이기보다 여러가지다"]]></title>
             <link>https://www.dongascience.com/news.php?idx=48203</link>
             <guid>https://www.dongascience.com/news.php?idx=48203</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -64,7 +64,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/07/16270231808541.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] SNS 사용에 지쳐가고 있다면 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] SNS 사용에 지쳐가고 있다면]]></title>
             <link>https://www.dongascience.com/news.php?idx=48035</link>
             <guid>https://www.dongascience.com/news.php?idx=48035</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/07/1626428521962.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학]좌절과 실망이 습관인 사람에게 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학]좌절과 실망이 습관인 사람에게]]></title>
             <link>https://www.dongascience.com/news.php?idx=47813</link>
             <guid>https://www.dongascience.com/news.php?idx=47813</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
@@ -80,7 +80,7 @@
             <enclosure url="https://api.dongascience.com/portal/common/getThumbnail?src=https://image.dongascience.com/Photo/2021/07/16258187350516.jpg&w=160&h=90" length="0" type="image//portal/common/getThumbnail"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 목표하는 순간 더 멀어지는 것들 ([동아사이언스] 박진영 심리학 칼럼니스트)]]></title>
+            <title><![CDATA[[박진영의 사회심리학] 목표하는 순간 더 멀어지는 것들]]></title>
             <link>https://www.dongascience.com/news.php?idx=47677</link>
             <guid>https://www.dongascience.com/news.php?idx=47677</guid>
             <pubDate>Tue, 07 Sep 2021 23:15:31 GMT</pubDate>
