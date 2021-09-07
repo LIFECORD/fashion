@@ -1,8 +1,8 @@
 [parkjy0217]
-title = "[동아사이언스] 박진영 심리학 칼럼니스트"
+title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
 url = "https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com"
 entrySelector = "div.article-A2 ul li"
-titleSelector = "span.tit"
-linkSelector = "a"
+titleSelector = "dd span.tit"
+linkSelector = "div.article-A2 ul li a"
 imageSelector = "dt.thum img"
 contentSelector = "span.cont"
