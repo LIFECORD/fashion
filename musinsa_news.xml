@@ -4,9 +4,17 @@
         <title>무신사 ─ 패션 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 00:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 02:00:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 | 아름다운 한국 전통 문양을 품은 로맨틱크라운]]></title>
+            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47922</link>
+            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47922</guid>
+            <pubDate>Tue, 07 Sep 2021 02:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱크라운 × 단청장 한정 발매발매와 함께 최대 15% 할인 혜택한국 전통 문양인 '단청'을 소재로 한 협업국가무형문화재 제48호 최문정 단청장 참여해치, 모란 등 아름다운 그래픽과 모던한 패션의 만남협업 신상품 증정하는 댓글 이벤트도 시작시그니처 컬러를 활용한 프레피 무드의 컬렉션을 전개하는 로맨틱크라운이 국가무형문화...]]></content:encoded>
+            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/07/f007fe7e9403a98eee0ca7f815cfc36e.jpg.0?v20210907110000" length="0" type="image/0"/>
+        </item>
         <item>
             <title><![CDATA[패션 | 9월 1주차 무신사 주간 랭킹 : 센스 넘치는 아이비리그 룩 완성하는 인기템은?]]></title>
             <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47917</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Sep 2021 01:06:49 GMT</pubDate>
             <content:encoded><![CDATA[프리즘웍스 무신사 라이브 9월 8일 오후 8시 시작인기 시니어 모델 김칠두 등장 예정프리즘웍스 21 F/W 신상품 선발매와 함께 15% 할인인기 상품은 최대 75% 할인 혜택무신사 라이브 중 10만원 이상 구매 시 선착순 사은품 증정댓글 통해 무신사 라이브 참여하면 추첨 통해 후드 티셔츠 선물모델 김칠두와 함께하는 프리즘...]]></content:encoded>
             <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/03/e5ba022964578e2505bec93e8b4a7100.jpg.0?v20210906100001" length="0" type="image/0"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 | 놓치지 말자! 아디다스 이지 슬라이드 한정 발매]]></title>
-            <link>https://magazine.musinsa.com/index.php?m=news&amp;uid=47894</link>
-            <guid>https://magazine.musinsa.com/index.php?m=news&amp;uid=47894</guid>
-            <pubDate>Mon, 06 Sep 2021 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[아디다스 이지 슬라이드 3종 한정 발매선명한 옐로 컬러로 디자인한 GLOW GREEN 신상품 발매높은 프리미엄 기록하는 인기 모델 SOOT 무신사 첫 발매뉴트럴 감성으로 꾸민 인기 상품 PURE 재입고아디다스가 최근 새로운 앨범 공개로 주목받는 카니예 웨스트의 감성을 담은 이지 슬라이드를 한정 발매한다. 이지 슬라이드는 ...]]></content:encoded>
-            <enclosure url="https://image.musinsa.com/mfile_s01/2021/09/03/4683360ac0040b2c6bf58a4088aeafe6.jpg.0?v20210906090000" length="0" type="image/0"/>
         </item>
     </channel>
 </rss>
