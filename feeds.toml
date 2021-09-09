@@ -21,7 +21,7 @@ title = "SNU 팩트체크 ─ 네이버 뉴스"
 url = "https://m.news.naver.com/factcheck/main"
 entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
 titleSelector = "p.factcheck_subject_summary a"
-linkSelector = "p a"
+linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div.factcheck_source_bundle"
 waitUntil = "networkidle"
 
