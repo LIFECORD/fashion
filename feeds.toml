@@ -23,6 +23,8 @@ entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
 titleSelector = "p.factcheck_subject_summary a"
 linkSelector = "p[class='factcheck_subject_summary'] a"
 contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+
 
 [hyunddaily]
 title = "디지털데일리 박현영 기자 ─ 네이버 뉴스"
