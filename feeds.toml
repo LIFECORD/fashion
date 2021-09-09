@@ -24,11 +24,11 @@ titleSelector = "p.factcheck_subject_summary a"
 linkSelector = "p.factcheck_subject_summary a"
 contentSelector = "div.factcheck_source_text_inner._article_body"
 
-[parkjy_naver]
+[hyunddaily]
 title = "디지털데일리 박현영 기자 ─ 네이버 뉴스"
-url = "https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&sid1=110&cid=1077376"
+url = "https://media.naver.com/journalist/138/74334"
 entrySelector = "ul.press_edit_news_list li.press_edit_news_item.as_thumb"
 titleSelector = "span.press_edit_news_title"
-linkSelector = "dl > dt > a"
-contentSelector = "dd.c"
-imageSelector = "div.thumb a img"
+linkSelector = "a.press_edit_news_link"
+contentSelector = "span.r_ico_b.r_modify"
+imageSelector = "span.press_edit_news_thumb img"
