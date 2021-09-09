@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.naver.com/main/factcheck/main.naver</id>
+    <title>SNU 팩트체크 ─ 네이버 뉴스</title>
+    <updated>2021-09-09T18:55:10.033Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.naver.com/main/factcheck/favicon.ico</icon>
+</feed>
