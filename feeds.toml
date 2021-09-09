@@ -8,10 +8,19 @@ contentSelector = "span.cont"
 waitUntil = "networkidle"
 
 [parkjy_naver]
-title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
+title = "동아사이언스 ─ 박진영 심리학 칼럼니스트 네이버 뉴스"
 url = "https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&sid1=110&cid=1077376"
 entrySelector = "ul.tmp_bx li.tmp.small2"
 titleSelector = "dl.cnt dt.t a"
 linkSelector = "dl > dt > a"
 contentSelector = "dd.c"
 imageSelector = "div.thumb a img"
+
+
+[factcheck_naver]
+title = "SNU 팩트체크 ─ 네이버 뉴스"
+url = "https://news.naver.com/main/factcheck/main.naver"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p.factcheck_subject_summary a"
+linkSelector = "p.factcheck_subject_summary a"
+contentSelector = "div.factcheck_source_text_inner._article_body"
