@@ -24,11 +24,3 @@ titleSelector = "span.press_edit_news_title"
 linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
-
-[factcheck_naver]
-title = "SNU 팩트체크 ─ 네이버 뉴스"
-url = "https://m.news.naver.com/factcheck/main"
-entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
-titleSelector = "p[class='factcheck_subject_summary']"
-linkSelector = "p[class='factcheck_subject_summary'] a"
-waitUntil = "networkidle"
