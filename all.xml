@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 01:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,11 +308,19 @@
             <content:encoded><![CDATA[절반의 사실]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[거래소 외 가상자산 업체들도 ISMS 러시…“특금법 대상 아니지만 미리 준비” (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110096</link>
+            <guid>https://n.news.naver.com/article/138/0002110096</guid>
+            <pubDate>Fri, 10 Sep 2021 01:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<b>14분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110096.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빗썸, 가상자산 거래소 중 두번째로 특금법 영업신고 완료 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110083</link>
             <guid>https://n.news.naver.com/article/138/0002110083</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +328,7 @@
             <link>https://n.news.naver.com/article/138/0002110070</link>
             <guid>https://n.news.naver.com/article/138/0002110070</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +336,7 @@
             <link>https://n.news.naver.com/article/138/0002110059</link>
             <guid>https://n.news.naver.com/article/138/0002110059</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +344,7 @@
             <link>https://n.news.naver.com/article/138/0002110033</link>
             <guid>https://n.news.naver.com/article/138/0002110033</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +352,7 @@
             <link>https://n.news.naver.com/article/138/0002110031</link>
             <guid>https://n.news.naver.com/article/138/0002110031</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110031.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -408,7 +416,7 @@
             <link>https://n.news.naver.com/article/138/0002109876</link>
             <guid>https://n.news.naver.com/article/138/0002109876</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/07/2109876.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -416,16 +424,8 @@
             <link>https://n.news.naver.com/article/138/0002109871</link>
             <guid>https://n.news.naver.com/article/138/0002109871</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/07/2109871.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농협은행 달라졌나…빗썸‧코인원 영업신고 이번주 내 가닥 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002109865</link>
-            <guid>https://n.news.naver.com/article/138/0002109865</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/06/2109865.jpg?type=nf212_140" length="0" type="image/jpg"/>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/07/2109871.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
