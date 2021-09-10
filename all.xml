@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 08:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 09:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,27 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/04/24/13944.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[(한국이) 최근 세계에서 가장 빠른 접종 속도를 보이고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3284</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3284</guid>
+            <pubDate>Fri, 10 Sep 2021 09:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 사실]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전자발찌 찬 성범죄자, 화장품 방문 판매 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3287</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3287</guid>
+            <pubDate>Fri, 10 Sep 2021 09:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 사실]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성충동 약물치료(화학적 거세) 받으면 재범률 0%다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3286</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3286</guid>
+            <pubDate>Fri, 10 Sep 2021 09:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[절반의 사실]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국관광공사 '머드맥스'는 유튜버 아이디어를 도용해 저작권을 침해했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
             <link>https://m.news.naver.com/factcheck/end?id=3282</link>
             <guid>https://m.news.naver.com/factcheck/end?id=3282</guid>
@@ -287,32 +308,11 @@
             <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔케이맥스의 세포치료제는 고형암 완전관해 효능이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3275</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3275</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[절반의 사실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국회의원의 세비 반납은 불가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3274</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3274</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[사실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[난민 받은 해외 국가 범죄 증가했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3270</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3270</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[절반의 사실]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일단 ‘코인 마켓’만 살린다…영업신고 앞둔 거래소들, 원화마켓 중단 잇따라 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110137</link>
             <guid>https://n.news.naver.com/article/138/0002110137</guid>
             <pubDate>Fri, 10 Sep 2021 08:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -320,7 +320,7 @@
             <link>https://n.news.naver.com/article/138/0002110130</link>
             <guid>https://n.news.naver.com/article/138/0002110130</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>57분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -328,7 +328,7 @@
             <link>https://n.news.naver.com/article/138/0002110123</link>
             <guid>https://n.news.naver.com/article/138/0002110123</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -336,7 +336,7 @@
             <link>https://n.news.naver.com/article/138/0002110122</link>
             <guid>https://n.news.naver.com/article/138/0002110122</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -344,7 +344,7 @@
             <link>https://n.news.naver.com/article/138/0002110116</link>
             <guid>https://n.news.naver.com/article/138/0002110116</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -352,7 +352,7 @@
             <link>https://n.news.naver.com/article/138/0002110096</link>
             <guid>https://n.news.naver.com/article/138/0002110096</guid>
             <pubDate>Fri, 10 Sep 2021 01:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -360,7 +360,7 @@
             <link>https://n.news.naver.com/article/138/0002110083</link>
             <guid>https://n.news.naver.com/article/138/0002110083</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -424,7 +424,7 @@
             <link>https://n.news.naver.com/article/138/0002109924</link>
             <guid>https://n.news.naver.com/article/138/0002109924</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/07/2109924.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
