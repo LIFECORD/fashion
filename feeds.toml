@@ -5,7 +5,6 @@ entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='co
 titleSelector = "h4[class='f-w:700 h9 m5']"
 linkSelector = "h4[class='f-w:700 h9 m5'] a"
 contentSelector = "h4.h12.talk-link__speaker"
-imageSelector = "img.thumb__image"
 
 [parkjy0217]
 title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
