@@ -1,12 +1,11 @@
 [ted]
 title = "TED Talks 한국어"
 url = "https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com"
-entrySelector = "div.article-A2 ul li"
-titleSelector = "h4.f-w:700.h9.m5"
-linkSelector = "h4.f-w:700.h9.m5 > a"
+entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
+titleSelector = "h4[class='f-w:700 h9 m5']"
+linkSelector = "h4[class='f-w:700 h9 m5'] a"
 contentSelector = "h4.h12.talk-link__speaker"
 imageSelector = "img.thumb__image"
-waitUntil = "networkidle"
 
 [parkjy0217]
 title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
