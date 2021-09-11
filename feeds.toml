@@ -1,13 +1,3 @@
-[jisike]
-title = "지식채널e"
-url = "https://home.ebs.co.kr/jisike/replayList"
-entrySelector = "ul.list li"
-titleSelector = "p.tit"
-linkSelector = "p.pic a"
-contentSelector = "p.con"
-imageSelector = "p.pic a img"
-waitUntil = "networkidle"
-
 [parkjy0217]
 title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
 url = "https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com"
