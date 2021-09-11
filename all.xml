@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 16:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 18:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,7 +238,14 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언론중재법, 1년 전부터 수많은 사람과 논의되었다. (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <title><![CDATA[화이자 백신에 발암 물질 ‘산화 그래핀’이 들어있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3289</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3289</guid>
+            <pubDate>Sat, 11 Sep 2021 18:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[언론중재법, 1년 전부터 수많은 사람과 논의되었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
             <link>https://m.news.naver.com/factcheck/end?id=3288</link>
             <guid>https://m.news.naver.com/factcheck/end?id=3288</guid>
             <pubDate>Fri, 10 Sep 2021 11:16:44 GMT</pubDate>
@@ -264,6 +271,13 @@
             <guid>https://m.news.naver.com/factcheck/end?id=3286</guid>
             <pubDate>Fri, 10 Sep 2021 09:23:40 GMT</pubDate>
             <content:encoded><![CDATA[절반의 사실]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[100조에 달하는 미국의 첨단 무기가 탈레반에게 넘어갔다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3283</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3283</guid>
+            <pubDate>Sat, 11 Sep 2021 18:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국관광공사 '머드맥스'는 유튜버 아이디어를 도용해 저작권을 침해했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -292,20 +306,6 @@
             <guid>https://m.news.naver.com/factcheck/end?id=3280</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
             <content:encoded><![CDATA[절반의 사실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사랑제일교회 야외 예배는 방역법을 준수했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3278</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3278</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[12~17세 백신 접종, 부작용보다 예방 효과 더 크다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3277</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3277</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[판단유보]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[업비트·빗썸 이어 코인원·코빗도 특금법 영업신고 완료 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>

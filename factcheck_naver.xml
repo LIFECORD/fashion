@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2021-09-11T16:28:51.416Z</updated>
+    <updated>2021-09-11T18:28:23.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언론중재법, 1년 전부터 수많은 사람과 논의되었다.]]></title>
+        <title type="html"><![CDATA[화이자 백신에 발암 물질 ‘산화 그래핀’이 들어있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3289</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3289"/>
+        <updated>2021-09-11T18:28:14.901Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언론중재법, 1년 전부터 수많은 사람과 논의되었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3288</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3288"/>
         <updated>2021-09-10T11:16:44.803Z</updated>
@@ -32,6 +39,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3286"/>
         <updated>2021-09-10T09:23:40.466Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100조에 달하는 미국의 첨단 무기가 탈레반에게 넘어갔다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3283</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3283"/>
+        <updated>2021-09-11T18:28:14.907Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국관광공사 '머드맥스'는 유튜버 아이디어를 도용해 저작권을 침해했다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3280"/>
         <updated>2021-09-09T20:41:06.666Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑제일교회 야외 예배는 방역법을 준수했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3278</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3278"/>
-        <updated>2021-09-09T20:41:06.667Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12~17세 백신 접종, 부작용보다 예방 효과 더 크다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3277</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3277"/>
-        <updated>2021-09-09T20:41:06.669Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
