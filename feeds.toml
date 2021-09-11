@@ -1,6 +1,6 @@
 [ted]
 title = "TED Talks 한국어"
-url = "https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com"
+url = "https://www.ted.com/talks?sort=newest&language=ko"
 entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
 titleSelector = "h4[class='f-w:700 h9 m5']"
 linkSelector = "h4[class='f-w:700 h9 m5'] a"
