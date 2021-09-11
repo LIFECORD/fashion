@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 05:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 06:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,15 @@
             <link>https://n.news.naver.com/article/138/0002110146</link>
             <guid>https://n.news.naver.com/article/138/0002110146</guid>
             <pubDate>Fri, 10 Sep 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>19시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110146.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단 ‘코인 마켓’만 살린다…영업신고 앞둔 거래소들, 원화마켓 중단 잇따라]]></title>
-            <link>https://n.news.naver.com/article/138/0002110137</link>
-            <guid>https://n.news.naver.com/article/138/0002110137</guid>
-            <pubDate>Fri, 10 Sep 2021 08:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110137.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특금법 대비 막판 스퍼트…후오비코리아, 코인 62종 대거 상폐]]></title>
             <link>https://n.news.naver.com/article/138/0002110130</link>
             <guid>https://n.news.naver.com/article/138/0002110130</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002110123</link>
             <guid>https://n.news.naver.com/article/138/0002110123</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002110122</link>
             <guid>https://n.news.naver.com/article/138/0002110122</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110122.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110116</link>
             <guid>https://n.news.naver.com/article/138/0002110116</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110116.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -80,6 +72,14 @@
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110070.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 거래소, 4개면 된다고? “4개 남아도 피해액 3조원 추산”]]></title>
+            <link>https://n.news.naver.com/article/138/0002110059</link>
+            <guid>https://n.news.naver.com/article/138/0002110059</guid>
+            <pubDate>Sat, 11 Sep 2021 06:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110059.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뽀로로 NFT 나온다…더 샌드박스 플랫폼서 발행]]></title>
             <link>https://n.news.naver.com/article/138/0002110033</link>
             <guid>https://n.news.naver.com/article/138/0002110033</guid>
@@ -100,7 +100,7 @@
             <link>https://n.news.naver.com/article/138/0002109980</link>
             <guid>https://n.news.naver.com/article/138/0002109980</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109980.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002109974</link>
             <guid>https://n.news.naver.com/article/138/0002109974</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109974.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
