@@ -1,7 +1,7 @@
 [jisike]
 title = "지식채널e"
 url = "https://home.ebs.co.kr/jisike/replayList"
-entrySelector = ul.list li"
+entrySelector = "ul.list li"
 titleSelector = "p.tit"
 linkSelector = "div.vodmeta a"
 contentSelector = "p.con"
