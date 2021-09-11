@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-09-11T01:00:39.868Z</updated>
+    <updated>2021-09-11T02:01:08.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
+        <id>https://www.dongascience.com/news.php?idx=49260</id>
+        <link href="https://www.dongascience.com/news.php?idx=49260"/>
+        <updated>2021-09-11T02:00:46.582Z</updated>
+        <content type="html"><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 깨달았다. 이전에 살던 도시에는 도심에 큰 공연장이 있었는데 역시 언제든 가면 된다고 생각하고서는 가본 적이 없었고, 갑자기 떠나게 되어서야 크게 후회한 적이 있었다. 나중에 다시 그 도시를 들러서야 이렇게 아름다운 곳이었냐며 뒤늦게 도시를 구경하고는 왜 정작 그곳에서 살 때는 그 아름다움을 누리지 못했는지 후회 막심이었다. 그런 후회에 힘입어 어제 처음으로 영화관에 들렀다. 역시...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 사랑받는 게 두려운 사람들]]></title>
         <id>https://www.dongascience.com/news.php?idx=49138</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=47813"/>
         <updated>2021-09-07T23:23:24.414Z</updated>
         <content type="html"><![CDATA[존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는 얘기였다. 이유는 간단하다. 사람이라면 누구나 겪을 수 밖에 없는 실수나 실패에 대해서도 스스로에게 실망하고 마는 것은 ‘보통 사람들이라면 몰라도 나는 이것보다 더 나은 존재여야 한다’는 믿음이 어딘가에 자리하고 있는 것이기 때문라는 것이었다. 처음에는 그런가? 싶었던 이야기에 어느덧 끄덕이고 있는 나를 발견했다. 나는 왜 습관적으로 내게 항상 많은 것을 기대하는 걸까? 좌절과 실망이 생...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 목표하는 순간 더 멀어지는 것들]]></title>
-        <id>https://www.dongascience.com/news.php?idx=47677</id>
-        <link href="https://www.dongascience.com/news.php?idx=47677"/>
-        <updated>2021-09-07T23:23:24.416Z</updated>
-        <content type="html"><![CDATA[산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 싶을 때가 있다. 날이 더워지면 몸도 지치고 작은 일에도 금새 짜증을 내는 등 스트레스 거리가 증폭되므로, 특히 요즘같이 덥고 눅눅한 날이 지속될 때면 스트레스 관리의 필요성을 느낀다. 그런 의미에서 우선 하루 10분 씩 꼬박꼬박 명상을 하기로 했다. 스트레스나 짜증 제로 같은 목표는 비현실적이므로 일단 스트레스 관리를 하지 않을 때 내가 보이는 스트레스 반응이 8이라면 5-6 정도로 반응하는 정도가 되고 싶다...]]></content>
     </entry>
 </feed>

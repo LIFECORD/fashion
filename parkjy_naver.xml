@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 01:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 02:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</guid>
+            <pubDate>Sat, 11 Sep 2021 02:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/11/15921.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 사랑받는 게 두려운 사람들]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26542639&amp;oid=584&amp;aid=0000015822&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
             <content:encoded><![CDATA['통제감의 환상'이란 내 힘으로는 사실상 통제할 수 없는 일도 통제할 수 있을 것처럼 느끼는 것을 말한다. 게티이미지뱅크 제공 얼마 전 현대인의 직…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 친구도 '양'보다 '질']]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26532661&amp;oid=584&amp;aid=0000013944&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26532661&amp;oid=584&amp;aid=0000013944&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[행복한 사람들에게 있어 가장 두드러지게 나타나는 특징은 위대한 성취 같은 것들 보다도 ‘양질의 인간관계’였다. 픽사베이 제공 점점 사는 게 바빠지…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/04/24/13944.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
