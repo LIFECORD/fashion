@@ -1,5 +1,8 @@
 # 인사이트  
 
+## 강의
+TED Talks 한국어: https://lifecord.github.io/insight/ted.xml  
+
 ## 심리학
 **박진영의 사회심리학**  
 동아사이언스: https://lifecord.github.io/insight/parkjy0217.xml  
