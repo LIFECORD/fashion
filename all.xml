@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 23:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 02:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,6 +560,14 @@
             <content:encoded><![CDATA[절반의 사실]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 블록체인] 거래소 ‘빅4’ 위한 특금법, 美 SEC의 코인베이스 제재와 ‘평행이론’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110156</link>
+            <guid>https://n.news.naver.com/article/138/0002110156</guid>
+            <pubDate>Sun, 12 Sep 2021 02:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/12/2110156.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업비트·빗썸 이어 코인원·코빗도 특금법 영업신고 완료 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110146</link>
             <guid>https://n.news.naver.com/article/138/0002110146</guid>
@@ -604,7 +612,7 @@
             <link>https://n.news.naver.com/article/138/0002110096</link>
             <guid>https://n.news.naver.com/article/138/0002110096</guid>
             <pubDate>Fri, 10 Sep 2021 01:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110096.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -636,7 +644,7 @@
             <link>https://n.news.naver.com/article/138/0002110033</link>
             <guid>https://n.news.naver.com/article/138/0002110033</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110033.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -644,7 +652,7 @@
             <link>https://n.news.naver.com/article/138/0002110031</link>
             <guid>https://n.news.naver.com/article/138/0002110031</guid>
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110031.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109953.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, ISMS 이어 ISMS-P 인증 획득 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002109943</link>
-            <guid>https://n.news.naver.com/article/138/0002109943</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109943.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
