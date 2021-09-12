@@ -51,3 +51,12 @@ titleSelector = "h2[class^='euiTitle euiTitle']"
 linkSelector = "a"
 contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
 waitForSelector = ".ServiceItemList_item__1PzdI"
+
+[disquiet]
+title = "Disquiet"
+url = "https://disquiet.io/"
+entrySelector = "div.sc-gVgnHT.bfDGHw div.sc-XhUPp.kiNLFp"
+titleSelector = "h3.title"
+linkSelector = "div.sc-fbNXWD.emHwAg"
+contentSelector = "div.sc-gsxnyZ.gILzWP"
+waitUntil = "networkidle"
