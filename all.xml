@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 18:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 18:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -783,6 +783,76 @@
             <guid>https://the-hit.co/services/Gs6F71rEcgCJevk6hfyI</guid>
             <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
             <content:encoded><![CDATA[뉴스레터용 메일함 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박스히어로 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[모두를 위한 쉬운 재고관리]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위버딩 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 디지털 문방구]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인별엔터 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[인스타 유저를 위한 필수 도구]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리집은 도서관 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[문 앞 배송 기반의 비대면 도서공유서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마을 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[힘들게 만든 서베이, 근데 해줄 사람이 없다면..?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로우차트 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡 가격 변동 추적 - 쿠팡 로켓배송 싸게 사기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Feedst 피드스트 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[Entertainment &amp; Sports분야 1:1 전문 피드백플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[얼마집 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 최신 호가 발견 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파우치 Pauch (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 즐겨찾기 플랫폼입니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이노톡 (Disquiet)]]></title>
+            <link>https://LIFECORD.github.io/insight/all.xml</link>
+            <guid>https://LIFECORD.github.io/insight/all.xml</guid>
+            <pubDate>Sun, 12 Sep 2021 18:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 플랫폼]]></content:encoded>
         </item>
     </channel>
 </rss>
