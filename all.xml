@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 16:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 17:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -564,7 +564,7 @@
             <link>https://n.news.naver.com/article/138/0002110156</link>
             <guid>https://n.news.naver.com/article/138/0002110156</guid>
             <pubDate>Sun, 12 Sep 2021 02:30:11 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/12/2110156.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -678,6 +678,111 @@
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109953.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dio (디오) (THE HIT)]]></title>
+            <link>https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab</link>
+            <guid>https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[나를 이해하는 사람에게 조언을 들어보세요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바뱌 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</link>
+            <guid>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 폼 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</link>
+            <guid>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모티너스 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</link>
+            <guid>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프리젠트 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</link>
+            <guid>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 프리젠테이션 플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비보트 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</link>
+            <guid>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[가치소비 큐레이션 커머스 비보트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달링크 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</link>
+            <guid>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[가장 쉬운 멀티링크 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바바리뷰 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</link>
+            <guid>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[통합 미디어 리뷰 플랫폼(동영상+텍스트+사진)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[낸내 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/hgGPrv5rKw8CQTEyxf0B</link>
+            <guid>https://the-hit.co/services/hgGPrv5rKw8CQTEyxf0B</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[상업적으로 이용할 수 있는 무료 한글 폰트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오큐파이 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/70AJnoRseyJ9cKLEPdlo</link>
+            <guid>https://the-hit.co/services/70AJnoRseyJ9cKLEPdlo</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[고객센터 구축부터 상담·리뷰 관리까지, 고객센터 솔루션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청소연구소 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU</link>
+            <guid>https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[가사도우미 플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘수거 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4</link>
+            <guid>https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[런드리고 쓰레기 버전, 비대면 생활폐기물 수거 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아웃코드 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs</link>
+            <guid>https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[운영업무 자동화,  아웃코드에서 개발자 없이 쉽게]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KoreanHoon (THE HIT)]]></title>
+            <link>https://the-hit.co/services/JDXxrHzgWyD7Hxnfqb5u</link>
+            <guid>https://the-hit.co/services/JDXxrHzgWyD7Hxnfqb5u</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[엔터테이닝한 한국어 학습 플랫폼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[heybunny (THE HIT)]]></title>
+            <link>https://the-hit.co/services/Gs6F71rEcgCJevk6hfyI</link>
+            <guid>https://the-hit.co/services/Gs6F71rEcgCJevk6hfyI</guid>
+            <pubDate>Sun, 12 Sep 2021 17:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스레터용 메일함 서비스]]></content:encoded>
         </item>
     </channel>
 </rss>
