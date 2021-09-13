@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 03:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,6 +560,22 @@
             <content:encoded><![CDATA[절반의 사실]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[특금법 신고 마친 빗썸, 몸집 키운다…IT 인력 200명 채용 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110189</link>
+            <guid>https://n.news.naver.com/article/138/0002110189</guid>
+            <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>44분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110189.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빗썸 최대주주 버킷스튜디오, 빗썸과 메타버스‧NFT 플랫폼 연다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110187</link>
+            <guid>https://n.news.naver.com/article/138/0002110187</guid>
+            <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<b>45분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110187.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 블록체인] 거래소 ‘빅4’ 위한 특금법, 美 SEC의 코인베이스 제재와 ‘평행이론’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110156</link>
             <guid>https://n.news.naver.com/article/138/0002110156</guid>
@@ -662,22 +678,6 @@
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109980.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람을 대체하는 '초자동화시대' 성큼…IBM의  놀라운 '비즈니스 자동화 플랫폼' (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002109974</link>
-            <guid>https://n.news.naver.com/article/138/0002109974</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109974.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산블록체인산업협회 출범…신한은행‧미래에셋증권 등 참여 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002109953</link>
-            <guid>https://n.news.naver.com/article/138/0002109953</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/08/2109953.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[dio (디오) (THE HIT)]]></title>
@@ -788,70 +788,70 @@
             <title><![CDATA[박스히어로 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[모두를 위한 쉬운 재고관리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[위버딩 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 디지털 문방구]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인별엔터 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[인스타 유저를 위한 필수 도구]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리집은 도서관 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[문 앞 배송 기반의 비대면 도서공유서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마을 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[힘들게 만든 서베이, 근데 해줄 사람이 없다면..?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로우차트 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡 가격 변동 추적 - 쿠팡 로켓배송 싸게 사기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Feedst 피드스트 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[Entertainment &amp; Sports분야 1:1 전문 피드백플랫폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼마집 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[아파트 최신 호가 발견 서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파우치 Pauch (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[온라인 즐겨찾기 플랫폼입니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이노톡 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Mon, 13 Sep 2021 02:30:16 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 03:20:38 GMT</pubDate>
             <content:encoded><![CDATA[스타트업 플랫폼]]></content:encoded>
         </item>
     </channel>
