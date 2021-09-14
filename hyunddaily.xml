@@ -4,15 +4,47 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 07:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 11:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원, 정보보호 역량 강화…"정부 규제 준수한다"]]></title>
+            <link>https://n.news.naver.com/article/138/0002110315</link>
+            <guid>https://n.news.naver.com/article/138/0002110315</guid>
+            <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110315.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오픈 테크넷 2021]  레드햇 “클라우드 여정, 컨테이너 표준화가 핵심…위협요소 관리해야”]]></title>
+            <link>https://n.news.naver.com/article/138/0002110314</link>
+            <guid>https://n.news.naver.com/article/138/0002110314</guid>
+            <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110314.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘D-1’ 스페이스X의 일반인 우주여행 실험, NFT로 남는다]]></title>
+            <link>https://n.news.naver.com/article/138/0002110313</link>
+            <guid>https://n.news.naver.com/article/138/0002110313</guid>
+            <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110313.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상자산 거래소 '미래 먹거리' 된 메타버스…배경은?]]></title>
+            <link>https://n.news.naver.com/article/138/0002110303</link>
+            <guid>https://n.news.naver.com/article/138/0002110303</guid>
+            <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110303.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월마트, 라이트코인 결제 지원한다? 가격 35% 끌어올린 가짜뉴스 소동]]></title>
             <link>https://n.news.naver.com/article/138/0002110264</link>
             <guid>https://n.news.naver.com/article/138/0002110264</guid>
             <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002110253</link>
             <guid>https://n.news.naver.com/article/138/0002110253</guid>
             <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002110233</link>
             <guid>https://n.news.naver.com/article/138/0002110233</guid>
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110233.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://n.news.naver.com/article/138/0002110231</link>
             <guid>https://n.news.naver.com/article/138/0002110231</guid>
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +108,7 @@
             <link>https://n.news.naver.com/article/138/0002110146</link>
             <guid>https://n.news.naver.com/article/138/0002110146</guid>
             <pubDate>Fri, 10 Sep 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110146.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +116,7 @@
             <link>https://n.news.naver.com/article/138/0002110130</link>
             <guid>https://n.news.naver.com/article/138/0002110130</guid>
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,38 +126,6 @@
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110123.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 플랫폼 디파인, 클레이튼 블록체인 지원]]></title>
-            <link>https://n.news.naver.com/article/138/0002110122</link>
-            <guid>https://n.news.naver.com/article/138/0002110122</guid>
-            <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110122.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담보대출 비교 플랫폼 담비, DGB대구은행과 제휴]]></title>
-            <link>https://n.news.naver.com/article/138/0002110116</link>
-            <guid>https://n.news.naver.com/article/138/0002110116</guid>
-            <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110116.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거래소 외 가상자산 업체들도 ISMS 러시…“특금법 대상 아니지만 미리 준비”]]></title>
-            <link>https://n.news.naver.com/article/138/0002110096</link>
-            <guid>https://n.news.naver.com/article/138/0002110096</guid>
-            <pubDate>Fri, 10 Sep 2021 01:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110096.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 가상자산 거래소 중 두번째로 특금법 영업신고 완료]]></title>
-            <link>https://n.news.naver.com/article/138/0002110083</link>
-            <guid>https://n.news.naver.com/article/138/0002110083</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110083.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
