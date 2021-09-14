@@ -4,15 +4,31 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 01:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 04:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월마트, 라이트코인 결제 지원한다? 가격 35% 끌어올린 가짜뉴스 소동]]></title>
+            <link>https://n.news.naver.com/article/138/0002110264</link>
+            <guid>https://n.news.naver.com/article/138/0002110264</guid>
+            <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110264.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 투자 트렌드 된 ‘편리미엄’…증권플러스 비상장 “2030 회원 45%까지 증가”]]></title>
+            <link>https://n.news.naver.com/article/138/0002110253</link>
+            <guid>https://n.news.naver.com/article/138/0002110253</guid>
+            <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110253.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부, ISMS 인증 거래소 28곳 공개…폐업 거래소 주의 당부]]></title>
             <link>https://n.news.naver.com/article/138/0002110233</link>
             <guid>https://n.news.naver.com/article/138/0002110233</guid>
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>15시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110233.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002110231</link>
             <guid>https://n.news.naver.com/article/138/0002110231</guid>
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110198</link>
             <guid>https://n.news.naver.com/article/138/0002110198</guid>
             <pubDate>Mon, 13 Sep 2021 07:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>21시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110198.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002110189</link>
             <guid>https://n.news.naver.com/article/138/0002110189</guid>
             <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://n.news.naver.com/article/138/0002110187</link>
             <guid>https://n.news.naver.com/article/138/0002110187</guid>
             <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110083.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 만남 약속했던 고승범 금융위원장…FIU 통해 의견 청취]]></title>
-            <link>https://n.news.naver.com/article/138/0002110070</link>
-            <guid>https://n.news.naver.com/article/138/0002110070</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110070.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소, 4개면 된다고? “4개 남아도 피해액 3조원 추산”]]></title>
-            <link>https://n.news.naver.com/article/138/0002110059</link>
-            <guid>https://n.news.naver.com/article/138/0002110059</guid>
-            <pubDate>Sat, 11 Sep 2021 06:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/09/2110059.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
