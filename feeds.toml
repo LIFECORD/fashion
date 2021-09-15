@@ -8,7 +8,7 @@ contentSelector = "h4.h12.talk-link__speaker"
 waitUntil = "networkidle"
 
 [kakaotv_eanakim]
-title = "kakaoTV ─ 톡이나 할까?"
+title = "kakaoTV ─ 톡이나 할까"
 url = "https://tv.kakao.com/channel/3647846/video"
 entrySelector = "ul.list_vertical li"
 titleSelector = "strong.tit_item"
