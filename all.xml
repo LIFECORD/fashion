@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 01:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,11 +560,19 @@
             <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코인 거래소 폐업 공지기한 D-2…테더마켓 등 코인 전용 마켓 신설 ‘속도’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110333</link>
+            <guid>https://n.news.naver.com/article/138/0002110333</guid>
+            <pubDate>Wed, 15 Sep 2021 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110333.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코인원, 정보보호 역량 강화…"정부 규제 준수한다" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110315</link>
             <guid>https://n.news.naver.com/article/138/0002110315</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110315.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -572,7 +580,7 @@
             <link>https://n.news.naver.com/article/138/0002110314</link>
             <guid>https://n.news.naver.com/article/138/0002110314</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110314.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -580,7 +588,7 @@
             <link>https://n.news.naver.com/article/138/0002110313</link>
             <guid>https://n.news.naver.com/article/138/0002110313</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>16시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110313.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -588,7 +596,7 @@
             <link>https://n.news.naver.com/article/138/0002110303</link>
             <guid>https://n.news.naver.com/article/138/0002110303</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -596,7 +604,7 @@
             <link>https://n.news.naver.com/article/138/0002110264</link>
             <guid>https://n.news.naver.com/article/138/0002110264</guid>
             <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110264.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -604,7 +612,7 @@
             <link>https://n.news.naver.com/article/138/0002110253</link>
             <guid>https://n.news.naver.com/article/138/0002110253</guid>
             <pubDate>Tue, 14 Sep 2021 04:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110253.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -636,7 +644,7 @@
             <link>https://n.news.naver.com/article/138/0002110189</link>
             <guid>https://n.news.naver.com/article/138/0002110189</guid>
             <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110189.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -644,7 +652,7 @@
             <link>https://n.news.naver.com/article/138/0002110187</link>
             <guid>https://n.news.naver.com/article/138/0002110187</guid>
             <pubDate>Mon, 13 Sep 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110187.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -670,14 +678,6 @@
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 핀테크 기업 글루와, 투자자-금융소외자 잇는 투자플랫폼 출시 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110123</link>
-            <guid>https://n.news.naver.com/article/138/0002110123</guid>
-            <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[dio (디오) (THE HIT)]]></title>
@@ -788,70 +788,70 @@
             <title><![CDATA[오늘은 라이더 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[배달 라이더를 위한 킥보드 대여 서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박스히어로 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[모두를 위한 쉬운 재고관리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[위버딩 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 디지털 문방구]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인별엔터 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[인스타 유저를 위한 필수 도구]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리집은 도서관 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[문 앞 배송 기반의 비대면 도서공유서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마을 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[힘들게 만든 서베이, 근데 해줄 사람이 없다면..?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로우차트 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡 가격 변동 추적 - 쿠팡 로켓배송 싸게 사기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Feedst 피드스트 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[Entertainment &amp; Sports분야 1:1 전문 피드백플랫폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼마집 (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[아파트 최신 호가 발견 서비스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파우치 Pauch (Disquiet)]]></title>
             <link>https://LIFECORD.github.io/insight/all.xml</link>
             <guid>https://LIFECORD.github.io/insight/all.xml</guid>
-            <pubDate>Wed, 15 Sep 2021 01:02:27 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[온라인 즐겨찾기 플랫폼입니다.]]></content:encoded>
         </item>
     </channel>
