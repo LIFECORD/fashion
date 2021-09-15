@@ -4,7 +4,7 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://n.news.naver.com/article/138/0002110333</link>
             <guid>https://n.news.naver.com/article/138/0002110333</guid>
             <pubDate>Wed, 15 Sep 2021 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://n.news.naver.com/article/138/0002110315</link>
             <guid>https://n.news.naver.com/article/138/0002110315</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>17시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110315.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002110314</link>
             <guid>https://n.news.naver.com/article/138/0002110314</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110314.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,16 +36,8 @@
             <link>https://n.news.naver.com/article/138/0002110313</link>
             <guid>https://n.news.naver.com/article/138/0002110313</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>20시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110313.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 '미래 먹거리' 된 메타버스…배경은?]]></title>
-            <link>https://n.news.naver.com/article/138/0002110303</link>
-            <guid>https://n.news.naver.com/article/138/0002110303</guid>
-            <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>18시간전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110303.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월마트, 라이트코인 결제 지원한다? 가격 35% 끌어올린 가짜뉴스 소동]]></title>
@@ -84,7 +76,7 @@
             <link>https://n.news.naver.com/article/138/0002110198</link>
             <guid>https://n.news.naver.com/article/138/0002110198</guid>
             <pubDate>Mon, 13 Sep 2021 07:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110198.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 핀테크 기업 글루와, 투자자-금융소외자 잇는 투자플랫폼 출시]]></title>
+            <link>https://n.news.naver.com/article/138/0002110123</link>
+            <guid>https://n.news.naver.com/article/138/0002110123</guid>
+            <pubDate>Wed, 15 Sep 2021 06:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110123.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
