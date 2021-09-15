@@ -51,21 +51,3 @@ linkSelector = "a.press_edit_news_link"
 contentSelector = "span.r_ico_b.r_modify"
 imageSelector = "span.press_edit_news_thumb img"
 waitUntil = "networkidle"
-
-[thehit]
-title = "THE HIT"
-url = "https://the-hit.co/"
-entrySelector = "ul li.ServiceItemList_item__1PzdI"
-titleSelector = "h2[class^='euiTitle euiTitle']"
-linkSelector = "a"
-contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
-waitForSelector = ".ServiceItemList_item__1PzdI"
-
-[disquiet]
-title = "Disquiet"
-url = "https://disquiet.io/"
-entrySelector = "div.sc-gVgnHT.bfDGHw div.sc-XhUPp.kiNLFp"
-titleSelector = "h3.title"
-linkSelector = "div.sc-fbNXWD.emHwAg"
-contentSelector = "div.sc-gsxnyZ.gILzWP"
-waitUntil = "networkidle"
