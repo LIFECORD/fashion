@@ -4,15 +4,23 @@
         <title>디지털데일리 박현영 기자 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 07:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오픈 테크넷 2021] 큐브리드 “오픈소스 커뮤니티, 신규 기여자 위한 가이드 중요”]]></title>
+            <link>https://n.news.naver.com/article/138/0002110387</link>
+            <guid>https://n.news.naver.com/article/138/0002110387</guid>
+            <pubDate>Wed, 15 Sep 2021 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<b>20분전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110387.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 기반 포인트 통합 플랫폼 밀크, CU 편의점과 제휴]]></title>
             <link>https://n.news.naver.com/article/138/0002110378</link>
             <guid>https://n.news.naver.com/article/138/0002110378</guid>
             <pubDate>Wed, 15 Sep 2021 07:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://n.news.naver.com/article/138/0002110333</link>
             <guid>https://n.news.naver.com/article/138/0002110333</guid>
             <pubDate>Wed, 15 Sep 2021 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://n.news.naver.com/article/138/0002110315</link>
             <guid>https://n.news.naver.com/article/138/0002110315</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110315.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://n.news.naver.com/article/138/0002110314</link>
             <guid>https://n.news.naver.com/article/138/0002110314</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110314.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://n.news.naver.com/article/138/0002110313</link>
             <guid>https://n.news.naver.com/article/138/0002110313</guid>
             <pubDate>Tue, 14 Sep 2021 11:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/14/2110313.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Sep 2021 12:30:05 GMT</pubDate>
             <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110146.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특금법 대비 막판 스퍼트…후오비코리아, 코인 62종 대거 상폐]]></title>
-            <link>https://n.news.naver.com/article/138/0002110130</link>
-            <guid>https://n.news.naver.com/article/138/0002110130</guid>
-            <pubDate>Fri, 10 Sep 2021 07:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/10/2110130.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

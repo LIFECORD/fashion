@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/</id>
     <title>Disquiet</title>
-    <updated>2021-09-15T07:19:34.652Z</updated>
+    <updated>2021-09-15T08:23:04.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[오늘은 라이더]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.951Z</updated>
+        <updated>2021-09-15T08:23:03.906Z</updated>
         <content type="html"><![CDATA[배달 라이더를 위한 킥보드 대여 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박스히어로]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.953Z</updated>
+        <updated>2021-09-15T08:23:03.906Z</updated>
         <content type="html"><![CDATA[모두를 위한 쉬운 재고관리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위버딩]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.954Z</updated>
+        <updated>2021-09-15T08:23:03.907Z</updated>
         <content type="html"><![CDATA[국내 최대 디지털 문방구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인별엔터]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.955Z</updated>
+        <updated>2021-09-15T08:23:03.908Z</updated>
         <content type="html"><![CDATA[인스타 유저를 위한 필수 도구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리집은 도서관]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.956Z</updated>
+        <updated>2021-09-15T08:23:03.909Z</updated>
         <content type="html"><![CDATA[문 앞 배송 기반의 비대면 도서공유서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마을]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.957Z</updated>
+        <updated>2021-09-15T08:23:03.911Z</updated>
         <content type="html"><![CDATA[힘들게 만든 서베이, 근데 해줄 사람이 없다면..?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로우차트]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.959Z</updated>
+        <updated>2021-09-15T08:23:03.914Z</updated>
         <content type="html"><![CDATA[쿠팡 가격 변동 추적 - 쿠팡 로켓배송 싸게 사기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Feedst 피드스트]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.961Z</updated>
+        <updated>2021-09-15T08:23:03.915Z</updated>
         <content type="html"><![CDATA[Entertainment &amp; Sports분야 1:1 전문 피드백플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼마집]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.963Z</updated>
+        <updated>2021-09-15T08:23:03.916Z</updated>
         <content type="html"><![CDATA[아파트 최신 호가 발견 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파우치 Pauch]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-09-15T07:19:33.964Z</updated>
+        <updated>2021-09-15T08:23:03.917Z</updated>
         <content type="html"><![CDATA[온라인 즐겨찾기 플랫폼입니다.]]></content>
     </entry>
 </feed>
