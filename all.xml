@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 06:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 07:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -810,6 +810,13 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경찰이 근무시간에 동료에게 운전 지도를 받거나 운전을 연습하는 것은 세금 낭비다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3298</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3298</guid>
+            <pubDate>Thu, 16 Sep 2021 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[휴대전화 사용 등으로 악성 사고가 은폐될 수 없는 병영환경으로 바뀌어 가고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
             <link>https://m.news.naver.com/factcheck/end?id=3297</link>
             <guid>https://m.news.naver.com/factcheck/end?id=3297</guid>
@@ -873,18 +880,11 @@
             <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국관광공사 '머드맥스'는 유튜버 아이디어를 도용해 저작권을 침해했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3282</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3282</guid>
-            <pubDate>Thu, 09 Sep 2021 20:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[노웅래 "가상자산 과세 유예, 기재부 허락받을 필요 없어…국회서 처리할 것" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110423</link>
             <guid>https://n.news.naver.com/article/138/0002110423</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -892,7 +892,7 @@
             <link>https://n.news.naver.com/article/138/0002110422</link>
             <guid>https://n.news.naver.com/article/138/0002110422</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -900,7 +900,7 @@
             <link>https://n.news.naver.com/article/138/0002110421</link>
             <guid>https://n.news.naver.com/article/138/0002110421</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -908,7 +908,7 @@
             <link>https://n.news.naver.com/article/138/0002110419</link>
             <guid>https://n.news.naver.com/article/138/0002110419</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -916,7 +916,7 @@
             <link>https://n.news.naver.com/article/138/0002110387</link>
             <guid>https://n.news.naver.com/article/138/0002110387</guid>
             <pubDate>Wed, 15 Sep 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>22시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -924,7 +924,7 @@
             <link>https://n.news.naver.com/article/138/0002110378</link>
             <guid>https://n.news.naver.com/article/138/0002110378</guid>
             <pubDate>Wed, 15 Sep 2021 07:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110378.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
