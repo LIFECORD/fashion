@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 21:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 21:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,76 @@
             <guid>https://www.ted.com/talks/jen_gunter_why_healthy_bones_are_about_so_much_more_than_milk?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[필수 노동자라면서 존중해주진 않아요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/careworker</link>
+            <guid>https://articles.dotface.kr/careworker</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[할 말 많은 요양보호사 노동 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이스팩이라고 쓰고 미세플라스틱 폭탄이라고 읽는다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/icepack</link>
+            <guid>https://articles.dotface.kr/icepack</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[주민센터 갖다주면 뜻밖에 선물이?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 가스 점검 나왔습니다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/gasworker</link>
+            <guid>https://articles.dotface.kr/gasworker</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/anorecticdrug2</link>
+            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[약사가 설명해주는 식욕억제제의 부작용 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/anorecticdrug</link>
+            <guid>https://articles.dotface.kr/anorecticdrug</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈시설 지원법이 생기면 뭐가 달라질까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife10</link>
+            <guid>https://articles.dotface.kr/righttolife10</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[국회의원 장혜영, 최혜영에게 물었습니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[발달장애인을 위한 ‘통역’ 같은 거죠 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife9</link>
+            <guid>https://articles.dotface.kr/righttolife9</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[수어, 점자처럼 발달장애인을 위한 소통 수단을 만듭니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당신 곁에 내가 살기 위해 필요한 것들 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife8</link>
+            <guid>https://articles.dotface.kr/righttolife8</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인을 무시하는 사회와 지지고 볶고 싸우는 게 제 직업이에요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife7</link>
+            <guid>https://articles.dotface.kr/righttolife7</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['결혼 특구' 대구 달서구엔 결혼전담부서가 있다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/weddingproject</link>
+            <guid>https://articles.dotface.kr/weddingproject</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[결혼장려엔 8천만 원, '양성평등 사업'엔 1백만 원 예산을 쓴다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[🎧톡이나 문학전집📖] (kakaoTV ─ 톡이나 할까)]]></title>
@@ -892,7 +962,7 @@
             <link>https://n.news.naver.com/article/138/0002110462</link>
             <guid>https://n.news.naver.com/article/138/0002110462</guid>
             <pubDate>Thu, 16 Sep 2021 08:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>13시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>14시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
