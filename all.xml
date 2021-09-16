@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 13:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -884,7 +884,7 @@
             <link>https://n.news.naver.com/article/138/0002110482</link>
             <guid>https://n.news.naver.com/article/138/0002110482</guid>
             <pubDate>Thu, 16 Sep 2021 09:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110482.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -892,7 +892,7 @@
             <link>https://n.news.naver.com/article/138/0002110462</link>
             <guid>https://n.news.naver.com/article/138/0002110462</guid>
             <pubDate>Thu, 16 Sep 2021 08:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -900,7 +900,7 @@
             <link>https://n.news.naver.com/article/138/0002110423</link>
             <guid>https://n.news.naver.com/article/138/0002110423</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -908,7 +908,7 @@
             <link>https://n.news.naver.com/article/138/0002110422</link>
             <guid>https://n.news.naver.com/article/138/0002110422</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -916,7 +916,7 @@
             <link>https://n.news.naver.com/article/138/0002110421</link>
             <guid>https://n.news.naver.com/article/138/0002110421</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -924,7 +924,7 @@
             <link>https://n.news.naver.com/article/138/0002110419</link>
             <guid>https://n.news.naver.com/article/138/0002110419</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>12시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -942,14 +942,6 @@
             <pubDate>Wed, 15 Sep 2021 07:19:17 GMT</pubDate>
             <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110378.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인 거래소 폐업 공지기한 D-2…테더마켓 등 코인 전용 마켓 신설 ‘속도’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110333</link>
-            <guid>https://n.news.naver.com/article/138/0002110333</guid>
-            <pubDate>Wed, 15 Sep 2021 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110333.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인원, 정보보호 역량 강화…"정부 규제 준수한다" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
@@ -998,6 +990,14 @@
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110233.jpg?type=nf212_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 색깔, 모자 하나가 희소가치 높인다…캐릭터 NFT 컬렉션 인기 ‘고공행진’ (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110231</link>
+            <guid>https://n.news.naver.com/article/138/0002110231</guid>
+            <pubDate>Thu, 16 Sep 2021 15:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110231.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
