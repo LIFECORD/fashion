@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 07:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 08:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -810,6 +810,20 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국 기준으로 한국 국회의원 수는 70~80명이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3299</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3299</guid>
+            <pubDate>Thu, 16 Sep 2021 08:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 사실]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드라마 'D.P.' 출연배우 군복 착용은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3300</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3300</guid>
+            <pubDate>Thu, 16 Sep 2021 08:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[경찰이 근무시간에 동료에게 운전 지도를 받거나 운전을 연습하는 것은 세금 낭비다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
             <link>https://m.news.naver.com/factcheck/end?id=3298</link>
             <guid>https://m.news.naver.com/factcheck/end?id=3298</guid>
@@ -866,25 +880,19 @@
             <content:encoded><![CDATA[대체로 사실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성충동 약물치료(화학적 거세) 받으면 재범률 0%다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3286</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3286</guid>
-            <pubDate>Fri, 10 Sep 2021 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[절반의 사실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[100조에 달하는 미국의 첨단 무기가 탈레반에게 넘어갔다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3283</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3283</guid>
-            <pubDate>Sat, 11 Sep 2021 18:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
+            <title><![CDATA[[취재수첩] 거래소 영업신고, 우려는 현실이 됐다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
+            <link>https://n.news.naver.com/article/138/0002110462</link>
+            <guid>https://n.news.naver.com/article/138/0002110462</guid>
+            <pubDate>Thu, 16 Sep 2021 08:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<b>1시간전</b>]]></content:encoded>
+            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노웅래 "가상자산 과세 유예, 기재부 허락받을 필요 없어…국회서 처리할 것" (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110423</link>
             <guid>https://n.news.naver.com/article/138/0002110423</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -892,7 +900,7 @@
             <link>https://n.news.naver.com/article/138/0002110422</link>
             <guid>https://n.news.naver.com/article/138/0002110422</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -900,7 +908,7 @@
             <link>https://n.news.naver.com/article/138/0002110421</link>
             <guid>https://n.news.naver.com/article/138/0002110421</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -908,7 +916,7 @@
             <link>https://n.news.naver.com/article/138/0002110419</link>
             <guid>https://n.news.naver.com/article/138/0002110419</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -916,7 +924,7 @@
             <link>https://n.news.naver.com/article/138/0002110387</link>
             <guid>https://n.news.naver.com/article/138/0002110387</guid>
             <pubDate>Wed, 15 Sep 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>23시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>1일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -990,14 +998,6 @@
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110231.jpg?type=nf212_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 토큰-클레이, 위믹스 월렛에서 맞교환한다 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
-            <link>https://n.news.naver.com/article/138/0002110198</link>
-            <guid>https://n.news.naver.com/article/138/0002110198</guid>
-            <pubDate>Mon, 13 Sep 2021 07:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
-            <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110198.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
