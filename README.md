@@ -5,6 +5,7 @@ TED Talks 한국어: https://lifecord.github.io/insight/ted.xml
 
 ## 인터뷰
 카카오TV 톡이나 할까: https://lifecord.github.io/insight/kakaotv_eanakim.xml  
+닷페이스: https://lifecord.github.io/insight/dotface.xml  
 
 ## 심리학
 **박진영의 사회심리학**  
