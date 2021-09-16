@@ -7,6 +7,15 @@ linkSelector = "h4[class='f-w:700 h9 m5'] a"
 contentSelector = "h4.h12.talk-link__speaker"
 waitUntil = "networkidle"
 
+[dotface]
+title = "닷페이스 ─ 아티클"
+url = "https://articles.dotface.kr/"
+entrySelector = "div.css-1oskuwq div.css-1pnb0mm-Item"
+titleSelector = "div.css-1jg502e"
+linkSelector = "a.css-yvles8-MainSection"
+contentSelector = "div.css-jc8v6j"
+waitUntil = "networkidle"
+
 [kakaotv_eanakim]
 title = "kakaoTV ─ 톡이나 할까"
 url = "https://tv.kakao.com/channel/3647846/video"
