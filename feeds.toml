@@ -34,6 +34,7 @@ titleSelector = "dl.cnt dt.t a"
 linkSelector = "dl > dt > a"
 contentSelector = "dd.c"
 imageSelector = "div.thumb a img"
+waitUntil = "networkidle"
 
 [factcheck_naver]
 title = "SNU 팩트체크 ─ 네이버 뉴스"
