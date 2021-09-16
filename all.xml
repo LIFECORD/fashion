@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 09:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 13:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko</link>
+            <guid>https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko</guid>
+            <pubDate>Thu, 16 Sep 2021 13:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[Susan Graham]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MSG는 무엇이며, 정말 우리 몸에 안 좋을까요? - 사라 E. 트레이시(Sarah E. Tracy) (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko</link>
@@ -251,13 +258,6 @@
             <guid>https://www.ted.com/talks/naomi_mwaura_a_feminist_reimagining_of_kenya_s_public_transport?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Naomi Mwaura]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부끄러운 역사: 미국의 매독 실험 - 수잔 엠 리버비 (Susan M. Reverby) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/susan_m_reverby_ugly_history_the_us_syphilis_experiment?language=ko</link>
-            <guid>https://www.ted.com/talks/susan_m_reverby_ugly_history_the_us_syphilis_experiment?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Susan M. Reverby]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[🎧톡이나 문학전집📖] (kakaoTV ─ 톡이나 할까)]]></title>
@@ -884,7 +884,7 @@
             <link>https://n.news.naver.com/article/138/0002110482</link>
             <guid>https://n.news.naver.com/article/138/0002110482</guid>
             <pubDate>Thu, 16 Sep 2021 09:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>37분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>4시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110482.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -892,7 +892,7 @@
             <link>https://n.news.naver.com/article/138/0002110462</link>
             <guid>https://n.news.naver.com/article/138/0002110462</guid>
             <pubDate>Thu, 16 Sep 2021 08:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110462.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -900,7 +900,7 @@
             <link>https://n.news.naver.com/article/138/0002110423</link>
             <guid>https://n.news.naver.com/article/138/0002110423</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110423.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -908,7 +908,7 @@
             <link>https://n.news.naver.com/article/138/0002110422</link>
             <guid>https://n.news.naver.com/article/138/0002110422</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110422.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -916,7 +916,7 @@
             <link>https://n.news.naver.com/article/138/0002110421</link>
             <guid>https://n.news.naver.com/article/138/0002110421</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110421.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -924,7 +924,7 @@
             <link>https://n.news.naver.com/article/138/0002110419</link>
             <guid>https://n.news.naver.com/article/138/0002110419</guid>
             <pubDate>Thu, 16 Sep 2021 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110419.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -996,7 +996,7 @@
             <link>https://n.news.naver.com/article/138/0002110233</link>
             <guid>https://n.news.naver.com/article/138/0002110233</guid>
             <pubDate>Mon, 13 Sep 2021 10:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/13/2110233.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
     </channel>

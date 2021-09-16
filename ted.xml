@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-09-16T09:20:27.587Z</updated>
+    <updated>2021-09-16T13:27:32.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트]]></title>
+        <id>https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko</id>
+        <link href="https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko"/>
+        <updated>2021-09-16T13:26:39.395Z</updated>
+        <content type="html"><![CDATA[Susan Graham]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSG는 무엇이며, 정말 우리 몸에 안 좋을까요? - 사라 E. 트레이시(Sarah E. Tracy)]]></title>
         <id>https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/naomi_mwaura_a_feminist_reimagining_of_kenya_s_public_transport?language=ko"/>
         <updated>2021-09-11T20:51:18.400Z</updated>
         <content type="html"><![CDATA[Naomi Mwaura]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부끄러운 역사: 미국의 매독 실험 - 수잔 엠 리버비 (Susan M. Reverby)]]></title>
-        <id>https://www.ted.com/talks/susan_m_reverby_ugly_history_the_us_syphilis_experiment?language=ko</id>
-        <link href="https://www.ted.com/talks/susan_m_reverby_ugly_history_the_us_syphilis_experiment?language=ko"/>
-        <updated>2021-09-11T20:51:18.401Z</updated>
-        <content type="html"><![CDATA[Susan M. Reverby]]></content>
     </entry>
 </feed>
