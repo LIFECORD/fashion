@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-09-17T02:34:21.392Z</updated>
+    <updated>2021-09-17T03:21:53.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리의 존재는 농담이 아니다]]></title>
+        <id>https://articles.dotface.kr/equalityact4</id>
+        <link href="https://articles.dotface.kr/equalityact4"/>
+        <updated>2021-09-17T03:21:08.235Z</updated>
+        <content type="html"><![CDATA[한 연극인이 차별금지법에 대해 목소리를 높이기까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필수 노동자라면서 존중해주진 않아요]]></title>
         <id>https://articles.dotface.kr/careworker</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/righttolife7"/>
         <updated>2021-09-16T21:34:04.243Z</updated>
         <content type="html"><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼 특구' 대구 달서구엔 결혼전담부서가 있다]]></title>
-        <id>https://articles.dotface.kr/weddingproject</id>
-        <link href="https://articles.dotface.kr/weddingproject"/>
-        <updated>2021-09-16T21:34:04.245Z</updated>
-        <content type="html"><![CDATA[결혼장려엔 8천만 원, '양성평등 사업'엔 1백만 원 예산을 쓴다]]></content>
     </entry>
 </feed>

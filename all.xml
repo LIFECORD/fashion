@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 02:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 03:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,13 @@
             <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/equalityact4</link>
+            <guid>https://articles.dotface.kr/equalityact4</guid>
+            <pubDate>Fri, 17 Sep 2021 03:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[한 연극인이 차별금지법에 대해 목소리를 높이기까지]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[필수 노동자라면서 존중해주진 않아요 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/careworker</link>
             <guid>https://articles.dotface.kr/careworker</guid>
@@ -321,13 +328,6 @@
             <guid>https://articles.dotface.kr/righttolife7</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['결혼 특구' 대구 달서구엔 결혼전담부서가 있다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/weddingproject</link>
-            <guid>https://articles.dotface.kr/weddingproject</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[결혼장려엔 8천만 원, '양성평등 사업'엔 1백만 원 예산을 쓴다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[🎧톡이나 문학전집📖] (kakaoTV ─ 톡이나 할까)]]></title>
@@ -954,7 +954,7 @@
             <link>https://n.news.naver.com/article/138/0002110497</link>
             <guid>https://n.news.naver.com/article/138/0002110497</guid>
             <pubDate>Fri, 17 Sep 2021 02:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>58분전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>55분전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
