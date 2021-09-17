@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 19:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 21:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</guid>
+            <pubDate>Fri, 17 Sep 2021 21:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/18/16005.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
             <content:encoded><![CDATA[유머러스하기 위해 꼭 필요한 요소는 무엇일까. 픽사베이 제공 마음이 울적할 때면 인터넷에서 귀엽거나 재미있다고 하는 영상이나 스탠드업 코미디를 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/08/14154.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 통제감 환상, 의지력처럼 보이는 잘 포장된 객기]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26533212&amp;oid=584&amp;aid=0000014051&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26533212&amp;oid=584&amp;aid=0000014051&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA['통제감의 환상'이란 내 힘으로는 사실상 통제할 수 없는 일도 통제할 수 있을 것처럼 느끼는 것을 말한다. 게티이미지뱅크 제공 얼마 전 현대인의 직…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

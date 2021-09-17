@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-09-17T19:17:39.005Z</updated>
+    <updated>2021-09-17T21:18:49.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
+        <id>https://www.dongascience.com/news.php?idx=49383</id>
+        <link href="https://www.dongascience.com/news.php?idx=49383"/>
+        <updated>2021-09-17T21:18:27.565Z</updated>
+        <content type="html"><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 대상으로 조사한 결과 여러 사회적 관계 중 ‘친척’들과 함께 하는 자리가 가장 불편하고 응답했다는 조사 결과도 있다. 여기에 제사나 명절 음식 차리기, 여성에게 과하게 편중된 명절 노동, 개인의 삶을 누구든 참견할 수 있는 공공재처럼 여기며 사생활을 존중하지 않는 집단주의적 문화, 선을 넘는 것이 친밀감의 표현이라는 사고방식 등 한국만의 특수한 문화적 특성들이 스트레스를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
         <id>https://www.dongascience.com/news.php?idx=49260</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=48035"/>
         <updated>2021-09-07T23:23:24.413Z</updated>
         <content type="html"><![CDATA[소셜네트워크서비스(SNS) 사용이 많아지면서 피로감을 호소하는 하소연들이 심심치 않게 들린다. SNS에서 다른 친구들이 무슨 이야기를 하고 친구들 사이에서 무슨 일이 벌어지고 있는지 끊임없이 확인해야 한다는 압박을 받는 십대들이나, 유행과 최신 트렌드를 따라가야 하고 혹시라도 놓치는 정보가 있어서는 안 된다고 생각하는 20~30대들이다. 재미로 시작했던 SNS가 어느덧 수시로 체크해야 하는 '일'이 되어버렸기 때문이다. 미국 워싱턴주립대의 크리스토버 배리 교수에 따르면 SNS를 강박적으로 사용하게 되는 데에는 다들 아는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]좌절과 실망이 습관인 사람에게]]></title>
-        <id>https://www.dongascience.com/news.php?idx=47813</id>
-        <link href="https://www.dongascience.com/news.php?idx=47813"/>
-        <updated>2021-09-07T23:23:24.414Z</updated>
-        <content type="html"><![CDATA[존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는 얘기였다. 이유는 간단하다. 사람이라면 누구나 겪을 수 밖에 없는 실수나 실패에 대해서도 스스로에게 실망하고 마는 것은 ‘보통 사람들이라면 몰라도 나는 이것보다 더 나은 존재여야 한다’는 믿음이 어딘가에 자리하고 있는 것이기 때문라는 것이었다. 처음에는 그런가? 싶었던 이야기에 어느덧 끄덕이고 있는 나를 발견했다. 나는 왜 습관적으로 내게 항상 많은 것을 기대하는 걸까? 좌절과 실망이 생...]]></content>
     </entry>
 </feed>
