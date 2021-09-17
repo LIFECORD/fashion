@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 11:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 12:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -880,6 +880,20 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/01/14051.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가로세로연구소 진행자 체포는 공권력 남용이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3309</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3309</guid>
+            <pubDate>Fri, 17 Sep 2021 12:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OECD 국가 중 27개국이 만 16~18세 미만까지 아동수당을 지급하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+            <link>https://m.news.naver.com/factcheck/end?id=3308</link>
+            <guid>https://m.news.naver.com/factcheck/end?id=3308</guid>
+            <pubDate>Fri, 17 Sep 2021 12:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[절반의 사실]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공무원 연금 및 군인연금 적자를 보전하기 위해 청년 소득 20~30%를 부담하게 하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
             <link>https://m.news.naver.com/factcheck/end?id=3305</link>
             <guid>https://m.news.naver.com/factcheck/end?id=3305</guid>
@@ -936,25 +950,11 @@
             <content:encoded><![CDATA[대체로 사실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화이자 백신에 발암 물질 ‘산화 그래핀’이 들어있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3289</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3289</guid>
-            <pubDate>Sat, 11 Sep 2021 18:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 사실 아님]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[언론중재법, 1년 전부터 수많은 사람과 논의되었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-            <link>https://m.news.naver.com/factcheck/end?id=3288</link>
-            <guid>https://m.news.naver.com/factcheck/end?id=3288</guid>
-            <pubDate>Fri, 10 Sep 2021 11:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[대체로 사실이 아님]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고팍스 “실명계좌 가능할 것으로 판단”…‘5대 거래소’ 될까 (디지털데일리 박현영 기자 ─ 네이버 뉴스)]]></title>
             <link>https://n.news.naver.com/article/138/0002110540</link>
             <guid>https://n.news.naver.com/article/138/0002110540</guid>
             <pubDate>Fri, 17 Sep 2021 06:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110540.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -962,7 +962,7 @@
             <link>https://n.news.naver.com/article/138/0002110532</link>
             <guid>https://n.news.naver.com/article/138/0002110532</guid>
             <pubDate>Fri, 17 Sep 2021 06:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>6시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110532.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -970,7 +970,7 @@
             <link>https://n.news.naver.com/article/138/0002110530</link>
             <guid>https://n.news.naver.com/article/138/0002110530</guid>
             <pubDate>Fri, 17 Sep 2021 06:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110530.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -978,7 +978,7 @@
             <link>https://n.news.naver.com/article/138/0002110529</link>
             <guid>https://n.news.naver.com/article/138/0002110529</guid>
             <pubDate>Fri, 17 Sep 2021 06:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<b>5시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>7시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110529.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -986,7 +986,7 @@
             <link>https://n.news.naver.com/article/138/0002110511</link>
             <guid>https://n.news.naver.com/article/138/0002110511</guid>
             <pubDate>Fri, 17 Sep 2021 04:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110511.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -994,7 +994,7 @@
             <link>https://n.news.naver.com/article/138/0002110497</link>
             <guid>https://n.news.naver.com/article/138/0002110497</guid>
             <pubDate>Fri, 17 Sep 2021 02:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[<b>9시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>11시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/17/2110497.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
