@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 01:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 02:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422321315?act=clip</guid>
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc2ee4b4ce9c909b8c42801faae71343d65db6beb" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc2ee4b4ce9c909b8c42801faae71343d65db6beb" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[본격 월급 노예의 소중함을 깨닫게 해주는 영상(?!)]]></title>
