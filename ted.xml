@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-09-17T10:23:19.898Z</updated>
+    <updated>2021-09-17T11:18:04.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -237,6 +237,13 @@
         <content type="html"><![CDATA[Rohan Pavuluri]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[숲에서 사냥하는 상어들]]></title>
+        <id>https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko</id>
+        <link href="https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko"/>
+        <updated>2021-09-17T11:17:07.103Z</updated>
+        <content type="html"><![CDATA[Luka Seamus Wright]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시리아 난민을 돕는 현실판 영웅들]]></title>
         <id>https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko</id>
         <link href="https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/sheila_marie_orfano_how_do_you_know_what_s_true?language=ko"/>
         <updated>2021-09-11T20:51:18.394Z</updated>
         <content type="html"><![CDATA[Sheila Marie Orfano]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 건강한 뼈에는 우유 외에도 훨씬 더 많은 것이 필요할까요]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_why_healthy_bones_are_about_so_much_more_than_milk?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_why_healthy_bones_are_about_so_much_more_than_milk?language=ko"/>
-        <updated>2021-09-11T20:51:18.398Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
