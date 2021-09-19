@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 09:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 10:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko</guid>
             <pubDate>Thu, 16 Sep 2021 16:29:53 GMT</pubDate>
             <content:encoded><![CDATA[Kayla Mandel Sheets]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지구에 나타나는 의문의 붉은 빛과 원인 - 조이 피어렛(Zoe Pierrat) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=ko</link>
+            <guid>https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=ko</guid>
+            <pubDate>Sun, 19 Sep 2021 10:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[Zoe Pierrat]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트 (TED Talks 한국어)]]></title>
@@ -251,13 +258,6 @@
             <guid>https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Feras Fayyad]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여러분의 기억을 믿을 수 있을까요? - 셰일라 마리 오파노(Sheila Marie Orfano) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/sheila_marie_orfano_how_do_you_know_what_s_true?language=ko</link>
-            <guid>https://www.ted.com/talks/sheila_marie_orfano_how_do_you_know_what_s_true?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Sheila Marie Orfano]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
@@ -954,7 +954,7 @@
             <link>https://n.news.naver.com/article/138/0002110570</link>
             <guid>https://n.news.naver.com/article/138/0002110570</guid>
             <pubDate>Sun, 19 Sep 2021 01:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[<b>8시간전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>10시간전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/19/2110570.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1010,7 +1010,7 @@
             <link>https://n.news.naver.com/article/138/0002110482</link>
             <guid>https://n.news.naver.com/article/138/0002110482</guid>
             <pubDate>Thu, 16 Sep 2021 09:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<b>2일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>3일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/16/2110482.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>
