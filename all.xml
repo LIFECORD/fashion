@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 08:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,6 +141,13 @@
             <content:encoded><![CDATA[Jonathan Smith]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[완경과 직장 내 성 불평등의 연관성 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</link>
+            <guid>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</guid>
+            <pubDate>Mon, 20 Sep 2021 08:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[Andrea Berchowitz]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트라우마에 대한 다큐멘터리와 치료를 위한 공간을 만드는 것 (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</link>
             <guid>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</guid>
@@ -251,13 +258,6 @@
             <guid>https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko</guid>
             <pubDate>Fri, 17 Sep 2021 11:17:07 GMT</pubDate>
             <content:encoded><![CDATA[Luka Seamus Wright]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시리아 난민을 돕는 현실판 영웅들 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko</link>
-            <guid>https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Feras Fayyad]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
@@ -1050,7 +1050,7 @@
             <link>https://n.news.naver.com/article/138/0002110387</link>
             <guid>https://n.news.naver.com/article/138/0002110387</guid>
             <pubDate>Wed, 15 Sep 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<b>4일전</b>]]></content:encoded>
+            <content:encoded><![CDATA[<b>5일전</b>]]></content:encoded>
             <enclosure url="https://mimgnews.pstatic.net/image/origin/138/2021/09/15/2110387.jpg?type=nf212_140" length="0" type="image/jpg"/>
         </item>
         <item>

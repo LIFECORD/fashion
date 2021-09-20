@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-09-20T07:20:43.836Z</updated>
+    <updated>2021-09-20T08:24:16.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[Jonathan Smith]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[완경과 직장 내 성 불평등의 연관성]]></title>
+        <id>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</id>
+        <link href="https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko"/>
+        <updated>2021-09-20T08:23:19.432Z</updated>
+        <content type="html"><![CDATA[Andrea Berchowitz]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[트라우마에 대한 다큐멘터리와 치료를 위한 공간을 만드는 것]]></title>
         <id>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</id>
         <link href="https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko"/>
         <updated>2021-09-17T11:17:07.103Z</updated>
         <content type="html"><![CDATA[Luka Seamus Wright]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시리아 난민을 돕는 현실판 영웅들]]></title>
-        <id>https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko</id>
-        <link href="https://www.ted.com/talks/feras_fayyad_the_real_life_superheroes_helping_syrian_refugees?language=ko"/>
-        <updated>2021-09-11T20:51:18.394Z</updated>
-        <content type="html"><![CDATA[Feras Fayyad]]></content>
     </entry>
 </feed>
