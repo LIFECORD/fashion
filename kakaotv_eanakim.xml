@@ -4,9 +4,41 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 23:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 01:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마음을 채우는 '우리 지은이' 콘서트처럼 츄도 할 수 있어요!"]]></title>
+            <link>https://tv.kakao.com/channel/3647846/cliplink/422473597?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473597?act=clip</guid>
+            <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf23cbd7c242ef4f5dbc391a9770a9abf456ebb0" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[고민을 말 못하는 게 고민일때는 츄쌤을 찾아가세요]]></title>
+            <link>https://tv.kakao.com/channel/3647846/cliplink/422473536?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473536?act=clip</guid>
+            <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb3bf43beadafc694749007419cf042361a1479f9" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[츄가 선보이는 '벚꽃잎 떨어지는 몸짓'에 김이나 깜놀!]]></title>
+            <link>https://tv.kakao.com/channel/3647846/cliplink/422473476?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473476?act=clip</guid>
+            <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff3f9f0e9465f621aab807da6a9b0c2e07ef62c84" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[55회. 츄석특집 (with 이달의 소녀 츄)]]></title>
+            <link>https://tv.kakao.com/channel/3647846/cliplink/422471150?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3647846/cliplink/422471150?act=clip</guid>
+            <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:38]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1874fc24a9504bc4ce86a56cf6328c927fe47f71" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[🎧톡이나 문학전집📖]]]></title>
             <link>https://tv.kakao.com/channel/3647846/cliplink/422321315?act=clip</link>
@@ -141,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/421745060?act=clip</guid>
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F740760181c0fbcb7b7359c8bee5698cb362f21fe" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F740760181c0fbcb7b7359c8bee5698cb362f21fe" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[유정에게 행복 그 자체였던 레전드 예능 촬영 후기♥ (Feat. 1박2일)]]></title>
@@ -149,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/421565262?act=clip</guid>
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe8fd1b16b9ec1de6a9a9e8c3d490c68367a6a7b1" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe8fd1b16b9ec1de6a9a9e8c3d490c68367a6a7b1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(실제상황) 박보검에 빙의한 김이나와 멜로 연기하는 김유정!]]></title>
@@ -157,7 +189,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/421565210?act=clip</guid>
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff07195dcc7fba799fde3cd25a9922081568a1c50" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff07195dcc7fba799fde3cd25a9922081568a1c50" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[김유정 실물을 본 랜선이모 김이나의 주접력 넘치는 후기]]></title>
@@ -165,7 +197,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/421565130?act=clip</guid>
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F086623ae0aa825ea5e855c134e7896a791920986" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F086623ae0aa825ea5e855c134e7896a791920986" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[50회. 김유정]]></title>
@@ -294,38 +326,6 @@
             <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:05]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F797846222a48c6ba7615a5e2006c567ba7064b2b" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[46회. 여러분과 고민]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/420867424?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/420867424?act=clip</guid>
-            <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4ae89c5b16d08e48ee2e62f3076b413143868dcf" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴사하기 아쉬울 만큼 좋은 회사가 세상에 존재하다니..!! 믿을 수 없thㅓ!!]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/420683921?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/420683921?act=clip</guid>
-            <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc837ef2c6d21036d57911624fffbc3163bd24ccc" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[갑자기 밍아웃 시키더니 팬 단톡방에 하트 전달하는 쏘 서윗한 이나]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/420683844?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/420683844?act=clip</guid>
-            <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa0c31663a5dafb3db380b508e2c39350dafc9179" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[덕후는 덕후를 알아보는 법! 팬들 맘을 너무 잘 알아주시니 성은이 망극할 따름,,♥]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/420683733?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/420683733?act=clip</guid>
-            <pubDate>Wed, 15 Sep 2021 22:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a14177d95953dbb5cfd17514e79e04496c1330b" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
