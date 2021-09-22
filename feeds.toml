@@ -1,11 +1,10 @@
-[ted]
-title = "TED Talks 한국어"
-url = "https://www.ted.com/talks?sort=newest&language=ko"
-entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
-titleSelector = "h4[class='f-w:700 h9 m5']"
-linkSelector = "h4[class='f-w:700 h9 m5'] a"
-contentSelector = "h4.h12.talk-link__speaker"
-waitUntil = "networkidle"
+[newspeppermint]
+title = "뉴스페퍼민트"
+url = "https://newspeppermint.com/"
+entrySelector = "ul.block2 li"
+titleSelector = "h6.regular.art-title a"
+linkSelector = "a"
+contentSelector = "span.meta:nth-child(1)"
 
 [dotface]
 title = "닷페이스 ─ 아티클"
@@ -14,6 +13,15 @@ entrySelector = "div.css-1oskuwq div.css-1pnb0mm-Item"
 titleSelector = "div.css-1jg502e"
 linkSelector = "a.css-yvles8-MainSection"
 contentSelector = "div.css-jc8v6j"
+waitUntil = "networkidle"
+
+[ted]
+title = "TED Talks 한국어"
+url = "https://www.ted.com/talks?sort=newest&language=ko"
+entrySelector = "div[class='row row-sm-4up row-lg-6up row-skinny'] div[class='col']"
+titleSelector = "h4[class='f-w:700 h9 m5']"
+linkSelector = "h4[class='f-w:700 h9 m5'] a"
+contentSelector = "h4.h12.talk-link__speaker"
 waitUntil = "networkidle"
 
 [kakaotv_eanakim]
