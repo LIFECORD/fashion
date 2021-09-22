@@ -4,9 +4,79 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 17:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 17:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/equalityact4</link>
+            <guid>https://articles.dotface.kr/equalityact4</guid>
+            <pubDate>Fri, 17 Sep 2021 03:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[한 연극인이 차별금지법에 대해 목소리를 높이기까지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[필수 노동자라면서 존중해주진 않아요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/careworker</link>
+            <guid>https://articles.dotface.kr/careworker</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[할 말 많은 요양보호사 노동 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이스팩이라고 쓰고 미세플라스틱 폭탄이라고 읽는다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/icepack</link>
+            <guid>https://articles.dotface.kr/icepack</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[주민센터 갖다주면 뜻밖에 선물이?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 가스 점검 나왔습니다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/gasworker</link>
+            <guid>https://articles.dotface.kr/gasworker</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/anorecticdrug2</link>
+            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[약사가 설명해주는 식욕억제제의 부작용 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/anorecticdrug</link>
+            <guid>https://articles.dotface.kr/anorecticdrug</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈시설 지원법이 생기면 뭐가 달라질까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife10</link>
+            <guid>https://articles.dotface.kr/righttolife10</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[국회의원 장혜영, 최혜영에게 물었습니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[발달장애인을 위한 ‘통역’ 같은 거죠 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife9</link>
+            <guid>https://articles.dotface.kr/righttolife9</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[수어, 점자처럼 발달장애인을 위한 소통 수단을 만듭니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당신 곁에 내가 살기 위해 필요한 것들 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife8</link>
+            <guid>https://articles.dotface.kr/righttolife8</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인을 무시하는 사회와 지지고 볶고 싸우는 게 제 직업이에요 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/righttolife7</link>
+            <guid>https://articles.dotface.kr/righttolife7</guid>
+            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[여러분에게 숨겨진 쌍둥이가 있을 수 있습니다 - 케일라 맨델 쉬츠 (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko</link>
@@ -258,76 +328,6 @@
             <guid>https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko</guid>
             <pubDate>Fri, 17 Sep 2021 11:17:07 GMT</pubDate>
             <content:encoded><![CDATA[Luka Seamus Wright]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/equalityact4</link>
-            <guid>https://articles.dotface.kr/equalityact4</guid>
-            <pubDate>Fri, 17 Sep 2021 03:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[한 연극인이 차별금지법에 대해 목소리를 높이기까지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필수 노동자라면서 존중해주진 않아요 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/careworker</link>
-            <guid>https://articles.dotface.kr/careworker</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[할 말 많은 요양보호사 노동 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이스팩이라고 쓰고 미세플라스틱 폭탄이라고 읽는다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/icepack</link>
-            <guid>https://articles.dotface.kr/icepack</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[주민센터 갖다주면 뜻밖에 선물이?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘도 가스 점검 나왔습니다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/gasworker</link>
-            <guid>https://articles.dotface.kr/gasworker</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/anorecticdrug2</link>
-            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[약사가 설명해주는 식욕억제제의 부작용 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/anorecticdrug</link>
-            <guid>https://articles.dotface.kr/anorecticdrug</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탈시설 지원법이 생기면 뭐가 달라질까 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife10</link>
-            <guid>https://articles.dotface.kr/righttolife10</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[국회의원 장혜영, 최혜영에게 물었습니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[발달장애인을 위한 ‘통역’ 같은 거죠 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife9</link>
-            <guid>https://articles.dotface.kr/righttolife9</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[수어, 점자처럼 발달장애인을 위한 소통 수단을 만듭니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[당신 곁에 내가 살기 위해 필요한 것들 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife8</link>
-            <guid>https://articles.dotface.kr/righttolife8</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장애인을 무시하는 사회와 지지고 볶고 싸우는 게 제 직업이에요 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife7</link>
-            <guid>https://articles.dotface.kr/righttolife7</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["마음을 채우는 '우리 지은이' 콘서트처럼 츄도 할 수 있어요!" (kakaoTV ─ 톡이나 할까)]]></title>
