@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 09:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 10:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422473597?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf23cbd7c242ef4f5dbc391a9770a9abf456ebb0" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf23cbd7c242ef4f5dbc391a9770a9abf456ebb0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[고민을 말 못하는 게 고민일때는 츄쌤을 찾아가세요]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422473536?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb3bf43beadafc694749007419cf042361a1479f9" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb3bf43beadafc694749007419cf042361a1479f9" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[츄가 선보이는 '벚꽃잎 떨어지는 몸짓'에 김이나 깜놀!]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422473476?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff3f9f0e9465f621aab807da6a9b0c2e07ef62c84" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff3f9f0e9465f621aab807da6a9b0c2e07ef62c84" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[55회. 츄석특집 (with 이달의 소녀 츄)]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422471150?act=clip</guid>
             <pubDate>Tue, 21 Sep 2021 01:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1874fc24a9504bc4ce86a56cf6328c927fe47f71" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1874fc24a9504bc4ce86a56cf6328c927fe47f71" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[🎧톡이나 문학전집📖]]]></title>
