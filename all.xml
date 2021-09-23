@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,13 @@
             <guid>https://articles.dotface.kr/righttolife7</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</link>
+            <guid>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</guid>
+            <pubDate>Thu, 23 Sep 2021 15:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[Alex Rosenthal]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여러분에게 숨겨진 쌍둥이가 있을 수 있습니다 - 케일라 맨델 쉬츠 (TED Talks 한국어)]]></title>
@@ -405,13 +412,6 @@
             <guid>https://www.ted.com/talks/rohan_pavuluri_an_app_that_empowers_people_to_solve_their_legal_problems?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Rohan Pavuluri]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[숲에서 사냥하는 상어들 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko</link>
-            <guid>https://www.ted.com/talks/luka_seamus_wright_the_sharks_that_hunt_in_forests?language=ko</guid>
-            <pubDate>Fri, 17 Sep 2021 11:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[Luka Seamus Wright]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["마음을 채우는 '우리 지은이' 콘서트처럼 츄도 할 수 있어요!" (kakaoTV ─ 톡이나 할까)]]></title>
