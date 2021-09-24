@@ -7,6 +7,15 @@ linkSelector = "a.css-yvles8-MainSection"
 contentSelector = "div.css-jc8v6j"
 waitUntil = "networkidle"
 
+[newspeppermint]
+title = "뉴스페퍼민트"
+url = "https://newspeppermint.com/"
+entrySelector = "ul.block2 li"
+titleSelector = "h6.regular.art-title a"
+linkSelector = "a"
+contentSelector = "span.meta:nth-child(1)"
+onFail = "stale"
+
 [ted]
 title = "TED Talks 한국어"
 url = "https://www.ted.com/talks?sort=newest&language=ko"
