@@ -1,12 +1,3 @@
-[newspeppermint]
-title = "뉴스페퍼민트"
-url = "https://newspeppermint.com/"
-entrySelector = "ul.block2 li"
-titleSelector = "h6.regular.art-title a"
-linkSelector = "a"
-contentSelector = "span.meta:nth-child(1)"
-onFail = "stale"
-
 [dotface]
 title = "닷페이스 ─ 아티클"
 url = "https://articles.dotface.kr/"
