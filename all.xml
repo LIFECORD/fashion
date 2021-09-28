@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 이후, 쿠팡에서 퇴근한 아들이 눈을 뜨지 않았다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/coupang-death</link>
+            <guid>https://articles.dotface.kr/coupang-death</guid>
+            <pubDate>Tue, 28 Sep 2021 09:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[고 장덕준 씨의 부모님이 1년 째 계속 싸우는 이유]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리의 존재는 농담이 아니다 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/equalityact4</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/righttolife8</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장애인을 무시하는 사회와 지지고 볶고 싸우는 게 제 직업이에요 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife7</link>
-            <guid>https://articles.dotface.kr/righttolife7</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[장애인의 자립을 지원하는 정주리 씨 이야기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
