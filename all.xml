@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 03:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 04:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,6 +330,13 @@
             <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우주에 갈 때 우리는 무엇을 챙기고, 무엇을 남기고 와야 할까요? (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</link>
+            <guid>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</guid>
+            <pubDate>Tue, 28 Sep 2021 04:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[Jorge Mañes Rubio]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[목재로 고층 건물을 만들 수 있을까요? - 스테판 알(Stefan Al) (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</link>
             <guid>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</guid>
@@ -405,13 +412,6 @@
             <guid>https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Luvvie Ajayi Jones]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사람들이 스스로 법률 문제를 해결할 수 있게 해주는 앱 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/rohan_pavuluri_an_app_that_empowers_people_to_solve_their_legal_problems?language=ko</link>
-            <guid>https://www.ted.com/talks/rohan_pavuluri_an_app_that_empowers_people_to_solve_their_legal_problems?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Rohan Pavuluri]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["당첨금 13.5억" 생방송으로 로또 1등 인증한 최현우 (kakaoTV ─ 톡이나 할까)]]></title>

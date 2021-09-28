@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-09-28T03:14:37.078Z</updated>
+    <updated>2021-09-28T04:16:26.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우주에 갈 때 우리는 무엇을 챙기고, 무엇을 남기고 와야 할까요?]]></title>
+        <id>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</id>
+        <link href="https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko"/>
+        <updated>2021-09-28T04:15:45.238Z</updated>
+        <content type="html"><![CDATA[Jorge Mañes Rubio]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[목재로 고층 건물을 만들 수 있을까요? - 스테판 알(Stefan Al)]]></title>
         <id>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</id>
         <link href="https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko"/>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko"/>
         <updated>2021-09-11T20:51:18.394Z</updated>
         <content type="html"><![CDATA[Luvvie Ajayi Jones]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람들이 스스로 법률 문제를 해결할 수 있게 해주는 앱]]></title>
-        <id>https://www.ted.com/talks/rohan_pavuluri_an_app_that_empowers_people_to_solve_their_legal_problems?language=ko</id>
-        <link href="https://www.ted.com/talks/rohan_pavuluri_an_app_that_empowers_people_to_solve_their_legal_problems?language=ko"/>
-        <updated>2021-09-11T20:51:18.394Z</updated>
-        <content type="html"><![CDATA[Rohan Pavuluri]]></content>
     </entry>
 </feed>
