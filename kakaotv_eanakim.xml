@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 08:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 10:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422645953?act=clip</guid>
             <pubDate>Tue, 28 Sep 2021 00:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cbddc4248f5f25d2b783d379f4ddb844d86ca60" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cbddc4248f5f25d2b783d379f4ddb844d86ca60" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[해리포터 호그와트 세계관 덕분에 매직샵 매출 급등한 썰]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422645879?act=clip</guid>
             <pubDate>Tue, 28 Sep 2021 00:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6df2076a7da96e36129ea780131e6189ba738eee" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6df2076a7da96e36129ea780131e6189ba738eee" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[※기절초풍주의※ 국내원탑 마술사 최현우의 대충격 마술ㄷㄷ (feat. 샤이니)]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422645792?act=clip</guid>
             <pubDate>Tue, 28 Sep 2021 00:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff78c51689589cee280b4525430f93d241eed6634" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff78c51689589cee280b4525430f93d241eed6634" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[56회. 마술사 최현우]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422628383?act=clip</guid>
             <pubDate>Tue, 28 Sep 2021 00:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>29:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F71788289957a162fe8ebe600473ecaeedecdb414" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F71788289957a162fe8ebe600473ecaeedecdb414" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["마음을 채우는 '우리 지은이' 콘서트처럼 츄도 할 수 있어요!"]]></title>
