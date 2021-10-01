@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 박진영의 사회심리학</title>
-    <updated>2021-10-01T20:13:26.513Z</updated>
+    <updated>2021-10-01T21:12:36.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
+        <id>https://v.daum.net/v/20211002060033949</id>
+        <link href="https://v.daum.net/v/20211002060033949"/>
+        <updated>2021-10-01T21:12:36.263Z</updated>
+        <content type="html"><![CDATA[인간은 '인지적 구두쇠(cognitive miser)'라는 말이 있다. 한정된 인지적 자원으로 세상 모든 것을 하나하나 다 신경쓰고 사는 것은 불가능하므로 삶의 큰 부분을 습관, 고정관념, 편견, 인상, 동조 등에 기대 별 생각 없이 처리하고 정말 필요한 일에만 사고과정을 개입시킨다는 뜻이다.&nbsp; 예컨대 사람들에게는 10년 후 또는 당장 내년에 자신이 몸 담]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
         <id>https://v.daum.net/v/20210918060024179</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210703090027699"/>
         <updated>2021-09-26T09:09:40.855Z</updated>
         <content type="html"><![CDATA[산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 싶을 때가 있다. 날이 더워지면 몸도 지치고 작은 일에도 금새 짜증을 내는 등 스트레스 거리가 증폭되므로, 특히 요즘같이 덥고 눅눅한 날이 지속될 때면 스트레스 관리의 필요성을 느낀다.&nbsp; 그런 의미에서 우선 하루 10분 씩 꼬박꼬박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 왜 힘들까?]]></title>
-        <id>https://v.daum.net/v/20210626150024518</id>
-        <link href="https://v.daum.net/v/20210626150024518"/>
-        <updated>2021-09-26T09:09:40.857Z</updated>
-        <content type="html"><![CDATA[하루하루를 보내기가 참 버겁다고 생각했던 적이 있다. ‘사는 건 왜 이렇게 힘들까? 그래, 산다는 건 원래 힘든 거지’ 하고 체념하기로 마음먹었다. 하지만 문득 ‘그런데 왜 이렇게 힘든 걸까’라는 질문을 스스로에게 던지게 되었다.&nbsp; 오늘 무슨 안 좋은 일이 있었나? 정말 나쁜 일, 그러니까 나의 행복과 건강에 해가 될 만큼 영향력이 큰 사건이 있었나? 감정]]></content>
     </entry>
 </feed>

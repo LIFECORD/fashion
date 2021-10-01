@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 20:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 21:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</guid>
+            <pubDate>Fri, 01 Oct 2021 21:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[SNS나 가짜 뉴스 채널 등을 통해 잘못된 정보들이 쉽고 빠르게 퍼져 나가고 있는 상황에서는 이전에 비해 시시각각 더 많은 사고력과 정확한 판단력…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/02/16166.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
             <content:encoded><![CDATA[지루함이란 감정이 위험을 감당하는 용기가 될 때가 있다. 게티이미지뱅크 제공 무료함은 흥미로운 감정이다. 종일 할 일이 없어서 가만히 있거나 전혀…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/15/14250.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 예의 바르고 아무도 다치지 않는 위반, 유머]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26533668&amp;oid=584&amp;aid=0000014154&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26533668&amp;oid=584&amp;aid=0000014154&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[유머러스하기 위해 꼭 필요한 요소는 무엇일까. 픽사베이 제공 마음이 울적할 때면 인터넷에서 귀엽거나 재미있다고 하는 영상이나 스탠드업 코미디를 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/08/14154.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

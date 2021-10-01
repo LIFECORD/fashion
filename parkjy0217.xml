@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-10-01T20:13:26.506Z</updated>
+    <updated>2021-10-01T21:12:36.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
+        <id>https://www.dongascience.com/news.php?idx=49600</id>
+        <link href="https://www.dongascience.com/news.php?idx=49600"/>
+        <updated>2021-10-01T21:12:14.009Z</updated>
+        <content type="html"><![CDATA[인간은 '인지적 구두쇠(cognitive miser)'라는 말이 있다. 한정된 인지적 자원으로 세상 모든 것을 하나하나 다 신경쓰고 사는 것은 불가능하므로 삶의 큰 부분을 습관, 고정관념, 편견, 인상, 동조 등에 기대 별 생각 없이 처리하고 정말 필요한 일에만 사고과정을 개입시킨다는 뜻이다. 예컨대 사람들에게는 10년 후 또는 당장 내년에 자신이 몸 담고 있는 환경에 큰 변화가 생긴다고 알린다(예, 10년 후 VS. 당장 내년부터 졸업 심사 과정이 변하는 상황). 즉 전자는 앞으로 다가올 변화가 현재 자신과 크게 상관이 없고 중요성이 덜한 반면...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
         <id>https://www.dongascience.com/news.php?idx=49383</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=48203"/>
         <updated>2021-09-25T09:13:07.297Z</updated>
         <content type="html"><![CDATA[아이들을 모아놓고 무작위로 그룹을 지어 한 그룹에는 '독수리팀'이라는 이름을 붙여주고 또 다른 그룹에는 '사자팀'이라는 이름을 붙였다. 독수리팀에 속한 아이들은 같은 독수리팀 아이들이, 사자팀에 속한 아이들은 사자팀 아이들이 각각 더 외모도 출중하고 성격도 좋고 운동도 잘 하고 똑똑하며 더 도덕적이기까지 하다고 주장했다. 서로 누가 누군지 잘 모르면서 어쨌든 우리팀 사람들이 상대팀보다 더 다방면에서 우월하다고 생각하는 경향을 보인 것이다. 자신이 속한 집단 사람들은 더 여러가지 측면에서 자신과 공통점이 많다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] SNS 사용에 지쳐가고 있다면]]></title>
-        <id>https://www.dongascience.com/news.php?idx=48035</id>
-        <link href="https://www.dongascience.com/news.php?idx=48035"/>
-        <updated>2021-09-25T09:13:07.298Z</updated>
-        <content type="html"><![CDATA[소셜네트워크서비스(SNS) 사용이 많아지면서 피로감을 호소하는 하소연들이 심심치 않게 들린다. SNS에서 다른 친구들이 무슨 이야기를 하고 친구들 사이에서 무슨 일이 벌어지고 있는지 끊임없이 확인해야 한다는 압박을 받는 십대들이나, 유행과 최신 트렌드를 따라가야 하고 혹시라도 놓치는 정보가 있어서는 안 된다고 생각하는 20~30대들이다. 재미로 시작했던 SNS가 어느덧 수시로 체크해야 하는 '일'이 되어버렸기 때문이다. 미국 워싱턴주립대의 크리스토버 배리 교수에 따르면 SNS를 강박적으로 사용하게 되는 데에는 다들 아는...]]></content>
     </entry>
 </feed>
