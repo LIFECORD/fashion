@@ -7,6 +7,16 @@ linkSelector = "a.css-yvles8-MainSection"
 contentSelector = "div.css-jc8v6j"
 waitUntil = "networkidle"
 
+[longblack]
+title = "LongBlack"
+url = "https://www.longblack.co/"
+entrySelector = "div[id='main-today-note']"
+titleSelector = "h2.today-note-title"
+linkSelector = "a"
+contentSelector = "p.today-note-desc"
+imageSelector = "div.bg-img.ratio-4-3"
+waitUntil = "networkidle"
+
 [newspeppermint]
 title = "뉴스페퍼민트"
 url = "https://newspeppermint.com/"
@@ -14,6 +24,7 @@ entrySelector = "ul.block2 li"
 titleSelector = "h6.regular.art-title a"
 linkSelector = "a"
 contentSelector = "span.meta:nth-child(1)"
+waitForSelector = "ul.block2"
 onFail = "stale"
 
 [ted]
