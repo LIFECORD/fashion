@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>LongBlack</title>
-    <updated>2021-10-01T16:18:51.052Z</updated>
+    <updated>2021-10-01T17:20:16.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/33</id>
         <link href="https://www.longblack.co/note/33"/>
         <updated>2021-10-01T15:12:14.756Z</updated>
-        <content type="html"><![CDATA[&lt;맛의 달인&gt;이라는 일본 만화를 아시나요? 제가 참 좋아하는 만화인데요. 고급 요정을 운영하는 천재 요리사 유우잔이 주인공이에요.그 유우잔의 모델이 기타오지 로산진입니<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[&lt;맛의 달인&gt;이라는 일본 만화를 아시나요? 제가 참 좋아하는 만화인데요. 고급 요정을 운영하는 천재 요리사 유우잔이 주인공이에요.그 유우잔의 모델이 기타오지 로산진<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
