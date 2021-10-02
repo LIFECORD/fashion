@@ -17,15 +17,6 @@ contentSelector = "p.today-note-desc"
 imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
 
-[publy]
-title = "PUBLY ─ ALL"
-url = "https://publy.co/topic/all"
-entrySelector = "div.col-4.mb-4"
-titleSelector = "div > a > h6"
-linkSelector = "a.d-block.position-relative"
-contentSelector = "p.font-size-xsmall.text-gray-600"
-waitUntil = "networkidle"
-
 [newspeppermint]
 title = "뉴스페퍼민트"
 url = "https://newspeppermint.com/"
