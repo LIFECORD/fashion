@@ -91,3 +91,12 @@ titleSelector = "a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+
+[daum_khan_plusratioquamvis]
+title = "다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이"
+url = "https://news.daum.net/series/5024350"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
