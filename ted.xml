@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-10-05T03:15:13.345Z</updated>
+    <updated>2021-10-05T04:21:02.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://www.ted.com/talks/kathryn_a_whitehead_the_tiny_balls_of_fat_that_could_revolutionize_medicine?language=ko"/>
         <updated>2021-09-11T20:51:18.338Z</updated>
         <content type="html"><![CDATA[Kathryn A. Whitehead]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밖으로 몰아 비난하지 말고, 안으로 들여 포용하세요.]]></title>
+        <id>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</id>
+        <link href="https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko"/>
+        <updated>2021-10-05T04:19:51.685Z</updated>
+        <content type="html"><![CDATA[Loretta J. Ross]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mRNA 백신 혁명을 이끄는 부부 과학자가  전하는 메세지]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/francis_de_los_reyes_a_brief_history_of_toilets?language=ko"/>
         <updated>2021-09-11T20:51:18.387Z</updated>
         <content type="html"><![CDATA[Francis de los Reyes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 전문적인 말썽꾼이 될 수 있는가]]></title>
-        <id>https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko</id>
-        <link href="https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko"/>
-        <updated>2021-09-11T20:51:18.394Z</updated>
-        <content type="html"><![CDATA[Luvvie Ajayi Jones]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 03:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 04:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,6 +253,13 @@
             <content:encoded><![CDATA[Kathryn A. Whitehead]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밖으로 몰아 비난하지 말고, 안으로 들여 포용하세요. (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</link>
+            <guid>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</guid>
+            <pubDate>Tue, 05 Oct 2021 04:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[Loretta J. Ross]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[mRNA 백신 혁명을 이끄는 부부 과학자가  전하는 메세지 (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko</link>
             <guid>https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko</guid>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/francis_de_los_reyes_a_brief_history_of_toilets?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Francis de los Reyes]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 하면 전문적인 말썽꾼이 될 수 있는가 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko</link>
-            <guid>https://www.ted.com/talks/luvvie_ajayi_jones_how_to_be_a_professional_troublemaker?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Luvvie Ajayi Jones]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개 (kakaoTV ─ 톡이나 할까)]]></title>
