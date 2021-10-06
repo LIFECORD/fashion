@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 22:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 00:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[나는 요즘 연쇄 창업가들에게 관심이 가. 한번도 어려운 창업을 두번이나 해내다니! 그것도 연달아 의미있는 성과를 낸 경우는 더 존경스럽고 말이야.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</link>
+            <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
+            <pubDate>Wed, 06 Oct 2021 00:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 10월 6일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[컴퓨터에 파일을 보관하는 방식과 세대 차이 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</link>
             <guid>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</guid>
@@ -158,13 +165,6 @@
             <title><![CDATA[뇌과학자들, 설명할 수 없는 현상을 발견하다(2/2) (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/08/19/drift2/</link>
             <guid>https://newspeppermint.com/2021/08/19/drift2/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 20일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뇌과학자들, 설명할 수 없는 현상을 발견하다(1/2) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/19/drift1/</link>
-            <guid>https://newspeppermint.com/2021/08/19/drift1/</guid>
             <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 20일]]></content:encoded>
         </item>

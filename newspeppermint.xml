@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-10-05T22:14:25.397Z</updated>
+    <updated>2021-10-06T00:42:03.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플]]></title>
+        <id>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</id>
+        <link href="https://newspeppermint.com/2021/10/05/appstoregameantitrust/"/>
+        <updated>2021-10-06T00:40:06.788Z</updated>
+        <content type="html"><![CDATA[2021년 10월 6일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴퓨터에 파일을 보관하는 방식과 세대 차이]]></title>
         <id>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</id>
@@ -80,13 +87,6 @@
         <id>https://newspeppermint.com/2021/08/19/drift2/</id>
         <link href="https://newspeppermint.com/2021/08/19/drift2/"/>
         <updated>2021-10-01T00:40:14.379Z</updated>
-        <content type="html"><![CDATA[2021년 8월 20일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌과학자들, 설명할 수 없는 현상을 발견하다(1/2)]]></title>
-        <id>https://newspeppermint.com/2021/08/19/drift1/</id>
-        <link href="https://newspeppermint.com/2021/08/19/drift1/"/>
-        <updated>2021-10-01T00:40:14.380Z</updated>
         <content type="html"><![CDATA[2021년 8월 20일]]></content>
     </entry>
 </feed>
