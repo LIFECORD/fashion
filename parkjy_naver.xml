@@ -1,171 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:13:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</guid>
-            <pubDate>Fri, 01 Oct 2021 21:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[SNS나 가짜 뉴스 채널 등을 통해 잘못된 정보들이 쉽고 빠르게 퍼져 나가고 있는 상황에서는 이전에 비해 시시각각 더 많은 사고력과 정확한 판단력…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/02/16166.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543812&amp;oid=584&amp;aid=0000016005&amp;ptype=021</guid>
-            <pubDate>Fri, 17 Sep 2021 21:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/18/16005.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26543274&amp;oid=584&amp;aid=0000015921&amp;ptype=021</guid>
-            <pubDate>Sat, 11 Sep 2021 02:00:51 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/11/15921.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 사랑받는 게 두려운 사람들]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26542639&amp;oid=584&amp;aid=0000015822&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26542639&amp;oid=584&amp;aid=0000015822&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[가혹한 양육자를 둔 사람은 이후에도 그들의 기준을 자기 안에 내면화함으로써 스스로를 채찍질하는 경향을 보인다. 게티이미지뱅크 제공 안타깝지만 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/09/04/15822.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541943&amp;oid=584&amp;aid=0000015734&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541943&amp;oid=584&amp;aid=0000015734&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/28/15734.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]어른이 더 하면 더 했지 덜 하지 않다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541500&amp;oid=584&amp;aid=0000015630&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541500&amp;oid=584&amp;aid=0000015630&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[교모한 괴롭힘은 피해자가 자신의 피해 사실을 호소하는 것조차 어려울 때가 많다. 게티이미지뱅크 제공 직장 내 괴롭힘을 연구하는 연구자로부터 R…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/21/15630.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541116&amp;oid=584&amp;aid=0000015552&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26541116&amp;oid=584&amp;aid=0000015552&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[픽사베이 제공 '프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/14/15552.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 진정한 위로와 조언의 조건]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540663&amp;oid=584&amp;aid=0000015454&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540663&amp;oid=584&amp;aid=0000015454&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘불안’이 문제였던 상황에는 구체적인 조언이, ‘슬픔’이 문제였던 상황에는 조언보다는 위로가 각각 더 큰 도움이 된다. 게티이미지뱅크 제공 조언이나…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/08/07/15454.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]눈 앞에 보이는 괴롭힘을 방관하는 사람들]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540300&amp;oid=584&amp;aid=0000015349&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26540300&amp;oid=584&amp;aid=0000015349&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 학교에서 일어나는 폭력이나 성적 괴롭힘을 방지하는 데 있어 가장 중요하게 여겨지는 요소가 '제3자의 적극적 개입'이다. 교실 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/31/15349.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]"우리는 딱 하나이기보다 여러가지다"]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539742&amp;oid=584&amp;aid=0000015244&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539742&amp;oid=584&amp;aid=0000015244&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 아이들을 모아놓고 무작위로 그룹을 지어 한 그룹에는 '독수리팀'이라는 이름을 붙여주고 또 다른 그룹에는 '사자팀'이라는 이름…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/24/15244.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] SNS 사용에 지쳐가고 있다면]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539232&amp;oid=584&amp;aid=0000015141&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26539232&amp;oid=584&amp;aid=0000015141&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[픽사베이 제공 소셜네트워크서비스(SNS) 사용이 많아지면서 피로감을 호소하는 하소연들이 심심치 않게 들린다. SNS에서 다른 친구들이 무슨 이야기…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/17/15141.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]좌절과 실망이 습관인 사람에게]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538717&amp;oid=584&amp;aid=0000015044&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538717&amp;oid=584&amp;aid=0000015044&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/10/15044.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 목표하는 순간 더 멀어지는 것들]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538212&amp;oid=584&amp;aid=0000014944&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538212&amp;oid=584&amp;aid=0000014944&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/03/14944.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 나는 왜 힘들까?]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537495&amp;oid=584&amp;aid=0000014836&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537495&amp;oid=584&amp;aid=0000014836&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 하루하루를 보내기가 참 버겁다고 생각했던 적이 있다. ‘사는 건 왜 이렇게 힘들까? 그래, 산다는 건 원래 힘든 거지’…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/26/14836.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 생각없이 해야 잘 되는 일]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 많은 고민과 고심 끝에 무엇을 한다든가, 어떤 일을 시작할 때의 장점과 단점을 열 가지씩 써 가면서 철저하게 분석을 하거나, 그…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/19/14746.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]누군가 내 분노의 버튼을 누른다면]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26536367&amp;oid=584&amp;aid=0000014656&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26536367&amp;oid=584&amp;aid=0000014656&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[왜 우리는 사소한 일에 화를 낼까? 분노 '버튼'을 쉽게 누르는 데는 몇 가지 특징이 있다. 게티이미지뱅크 제공 부정적인 정서 특히 ‘화’…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/12/14656.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]우리는 왜 '미루기의 달인'이 되어가는가]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535795&amp;oid=584&amp;aid=0000014534&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535795&amp;oid=584&amp;aid=0000014534&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 고백하자면 필자는 미루기의 달인이다. 내일의 일은 내일의 내가 할 거라거나 어차피 마감이 가까워지면 글을 쓰게 되어 있다는 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/05/14534.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]그때로 돌아가도 후회할 선택을 할 가능성이 높다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535221&amp;oid=584&amp;aid=0000014431&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535221&amp;oid=584&amp;aid=0000014431&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 꼬리뼈를 다쳤다. 일주일 전쯤 침대에서 내려오다가 하필 미끄러운 플라스틱 포장재 같은 것을 밟고 빙판에서 미끄러지듯 순식간…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/29/14431.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]'두 번째 팬데믹'을 슬기롭게 극복하려면]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534740&amp;oid=584&amp;aid=0000014341&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534740&amp;oid=584&amp;aid=0000014341&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 장기화로 많은 이들이 지속적인 우울과 무기력을 호소하고 있다. 이런 때일수록 마음에 새겨야 할 사항들이 있다. 연합뉴스 제공 신종코로나…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/23/14341.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]무료함은 때로 과감한 도전 정신을 낳는다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534345&amp;oid=584&amp;aid=0000014250&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534345&amp;oid=584&amp;aid=0000014250&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[지루함이란 감정이 위험을 감당하는 용기가 될 때가 있다. 게티이미지뱅크 제공 무료함은 흥미로운 감정이다. 종일 할 일이 없어서 가만히 있거나 전혀…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/15/14250.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.daum.net/series/943444</id>
+    <title>다음 뉴스 ─ 박진영의 사회심리학</title>
+    <updated>2021-10-07T06:16:08.669Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
+        <id>https://v.daum.net/v/20211002060033949</id>
+        <link href="https://v.daum.net/v/20211002060033949"/>
+        <updated>2021-10-07T06:15:39.498Z</updated>
+        <content type="html"><![CDATA[인간은 '인지적 구두쇠(cognitive miser)'라는 말이 있다. 한정된 인지적 자원으로 세상 모든 것을 하나하나 다 신경쓰고 사는 것은 불가능하므로 삶의 큰 부분을 습관, 고정관념, 편견, 인상, 동조 등에 기대 별 생각 없이 처리하고 정말 필요한 일에만 사고과정을 개입시킨다는 뜻이다.&nbsp; 예컨대 사람들에게는 10년 후 또는 당장 내년에 자신이 몸 담]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절에 만난 사랑하는 사람에게 삼가야할 오지랖]]></title>
+        <id>https://v.daum.net/v/20210918060024179</id>
+        <link href="https://v.daum.net/v/20210918060024179"/>
+        <updated>2021-10-07T06:15:39.500Z</updated>
+        <content type="html"><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 대상으로 조사한 결과 여러 사회적 관계 중 ‘친척’들과 함께 하는 자리가 가장 불편하고 응답했다는 조사 결과도&nbsp;있다. 여기에 제사나 명절 음식 차리기, 여성에게 과하게 편중된 명절 노동, 개인의 삶을 누구든 참견할]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
+        <id>https://v.daum.net/v/20210911103012768</id>
+        <link href="https://v.daum.net/v/20210911103012768"/>
+        <updated>2021-10-07T06:15:39.502Z</updated>
+        <content type="html"><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 깨달았다. 이전에 살던 도시에는 도심에 큰 공연장이 있었는데 역시 언제든 가면 된다고 생각하고서는 가본 적이 없었고, 갑자기 떠나게 되어서야 크게 후회한 적이 있었다. 나중에 다시 그 도시를 들러서야 이렇게 아름]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑받는 게 두려운 사람들]]></title>
+        <id>https://v.daum.net/v/20210904060046225</id>
+        <link href="https://v.daum.net/v/20210904060046225"/>
+        <updated>2021-10-07T06:15:39.504Z</updated>
+        <content type="html"><![CDATA[안타깝지만 모든 아이들이 사랑받고 크는 것은 아니다. 조금이라도 따듯한 시선을 얻기 위해 매 순간 자신의 가치를 증명하려 애쓰는 아이들이 있다. 예컨대 보수적인 집안에서 딸로 태어나 사랑보다 차별에 먼저 익숙해지고 그럼에도 양육자의 칭찬 한 마디가 고파서 '좋은 성적'&nbsp;같이 뛰어난 성과를 보이는 데 집착하게 된 경우, 또 어린 나이에도 불구하고 양육자의 감]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글쓰기 세미나에서 배운 삶의 지혜]]></title>
+        <id>https://v.daum.net/v/20210828101012595</id>
+        <link href="https://v.daum.net/v/20210828101012595"/>
+        <updated>2021-10-07T06:15:39.505Z</updated>
+        <content type="html"><![CDATA[어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야 하냐는 질문을 받는다면 좋은 답을 내놓을 수 없을 것 같아서 기대가 크다. 아직 수업은 갈 길이 멀지만 벌써&nbsp;중요한 몇 가지를 배울 수 있었다.&nbsp; ①집중할 수 있는 시간 고르기 대충&nbsp;아침에 아니면 저녁에 더 힘이 넘친다고 생각하는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어른이 더 하면 더 했지 덜 하지 않다]]></title>
+        <id>https://v.daum.net/v/20210821060022094</id>
+        <link href="https://v.daum.net/v/20210821060022094"/>
+        <updated>2021-10-07T06:15:39.507Z</updated>
+        <content type="html"><![CDATA[직장 내 괴롭힘을 연구하는 연구자로부터 “어른이 더 하면 더 했지 덜 하지 않다”는 이야기를 들은 적이 있다. 어느 정도 나이가 들면 악의적으로 타인을 괴롭히는 일에 에너지를 쓰지 않을 정도의 성숙함은 자동으로 갖추게 될 것 같지만 그렇지 않다는 것이다. 그래도 사람이 크면 전반적으로 더 좋아질 거라는 믿음이 있던터라&nbsp;내심 실망했던 기억이 있다.&nbsp; 생각해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
+        <id>https://v.daum.net/v/20210814104012703</id>
+        <link href="https://v.daum.net/v/20210814104012703"/>
+        <updated>2021-10-07T06:15:39.508Z</updated>
+        <content type="html"><![CDATA['프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를 합한 말로 인터넷상에서 ‘이런 거 보기가 불편하지 않냐’고 지적하면서 다른 사람의 공조를 이끌어내는 이들을 뜻하는 말이다. 이 단어가 시사하는 것처럼 우리는 의문을 제기하는 사람들을 고운 시선으로 바라보지 않는 편이다. 특히 사회적 차별처럼 누구나 가해자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진정한 위로와 조언의 조건]]></title>
+        <id>https://v.daum.net/v/20210807060035898</id>
+        <link href="https://v.daum.net/v/20210807060035898"/>
+        <updated>2021-10-07T06:15:39.509Z</updated>
+        <content type="html"><![CDATA[조언이나 도움이 의외로 실질적인&nbsp;도움이 별로 되지 않음을 보여주는 연구들이 있다. 이런 상황이 벌어지는&nbsp;이유에 대해 학자들은 우선&nbsp;상대가 ‘요청한’ 조언인가 여부가 중요하게 작용한다고 보고 있다.&nbsp; 먼저 청하지 않았는데 도움이나 조언이 주어지는 상황에서는 “나를 무능하다고 생각하나” 같은 부정적인 메시지를 받게 되므로 그&nbsp;대상인 사람은 자신감의 하락을 겪]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈 앞에 보이는 괴롭힘을 방관하는 사람들]]></title>
+        <id>https://v.daum.net/v/20210731060025336</id>
+        <link href="https://v.daum.net/v/20210731060025336"/>
+        <updated>2021-10-07T06:15:39.510Z</updated>
+        <content type="html"><![CDATA[학교에서 일어나는 폭력이나 성적 괴롭힘을 방지하는 데 있어 가장 중요하게 여겨지는 요소가 '제3자의 적극적&nbsp;개입'이다. 교실 한 구석에서 뻔히 잘못이 일어나는 것을 보고 있으면서 본체만체 그냥 넘기는 것은 가해자에게 계속 폭력을 휘둘러도 된다고 용인하는 메시지를 주기 때문이다.&nbsp; 반면 “그건 아니지. 선을 넘었네. 하나도 재미있지 않다”며 적극적으로 막거]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우리는 딱 하나이기보다 여러가지다"]]></title>
+        <id>https://v.daum.net/v/20210724060040643</id>
+        <link href="https://v.daum.net/v/20210724060040643"/>
+        <updated>2021-10-07T06:15:39.512Z</updated>
+        <content type="html"><![CDATA[아이들을 모아놓고 무작위로 그룹을 지어 한 그룹에는 '독수리팀'이라는 이름을 붙여주고 또 다른 그룹에는 '사자팀'이라는 이름을 붙였다. 독수리팀에 속한 아이들은 같은 독수리팀 아이들이, 사자팀에 속한 아이들은 사자팀 아이들이 각각 더 외모도 출중하고 성격도 좋고 운동도 잘 하고 똑똑하며 더 도덕적이기까지 하다고 주장했다.&nbsp;서로 누가 누군지 잘 모르면서 어쨌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좌절과 실망이 습관인 사람에게]]></title>
+        <id>https://v.daum.net/v/20210710060031102</id>
+        <link href="https://v.daum.net/v/20210710060031102"/>
+        <updated>2021-10-07T06:15:39.513Z</updated>
+        <content type="html"><![CDATA[존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는 얘기였다.&nbsp;이유는 간단하다. 사람이라면 누구나 겪을 수 밖에 없는 실수나 실패에 대해서도 스스로에게 실망하고 마는 것은 ‘보통 사람들이라면 몰라도 나는 이것보다 더 나은 존재여야 한다’는 믿음이 어딘가에 자리하고 있는 것이기 때문라는]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목표하는 순간 더 멀어지는 것들]]></title>
+        <id>https://v.daum.net/v/20210703090027699</id>
+        <link href="https://v.daum.net/v/20210703090027699"/>
+        <updated>2021-10-07T06:15:39.514Z</updated>
+        <content type="html"><![CDATA[산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 싶을 때가 있다. 날이 더워지면 몸도 지치고 작은 일에도 금새 짜증을 내는 등 스트레스 거리가 증폭되므로, 특히 요즘같이 덥고 눅눅한 날이 지속될 때면 스트레스 관리의 필요성을 느낀다.&nbsp; 그런 의미에서 우선 하루 10분 씩 꼬박꼬박]]></content>
+    </entry>
+</feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,90 +83,6 @@
             <guid>https://www.longblack.co/note/49</guid>
             <pubDate>Wed, 06 Oct 2021 15:11:41 GMT</pubDate>
             <content:encoded><![CDATA[난 뒤를 파보는 걸 좋아해. 앞에서 보이는 게 다가 아니잖아. 잘 나가는 카페를 봐도 머릿 속으론 손익부터 계산해보지. 한달 매출은 얼마일지, 유지 비용은 얼마나 들지, 어림하면서<span class="circle-punctuation"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/10/06/fanceshaugen/</link>
-            <guid>https://newspeppermint.com/2021/10/06/fanceshaugen/</guid>
-            <pubDate>Thu, 07 Oct 2021 03:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 10월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</link>
-            <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
-            <pubDate>Wed, 06 Oct 2021 00:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 10월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컴퓨터에 파일을 보관하는 방식과 세대 차이 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</link>
-            <guid>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘산업정책’의 귀환, 중국을 정조준해 산업정책을 꺼내 든 미국 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/23/industrial-policy-is-back/</link>
-            <guid>https://newspeppermint.com/2021/09/23/industrial-policy-is-back/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 이후 도시의 모습은 어떻게 바뀔까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/16/globalcitiesafterpandemic/</link>
-            <guid>https://newspeppermint.com/2021/09/16/globalcitiesafterpandemic/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 17일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포스트 팬데믹 시대, 일터에서의 성별간 격차가 커질 수도 있다? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/15/men-dominated-offices-of-the-future/</link>
-            <guid>https://newspeppermint.com/2021/09/15/men-dominated-offices-of-the-future/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인간은 불확실성을 두려워한다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/10/uncertainty/</link>
-            <guid>https://newspeppermint.com/2021/09/10/uncertainty/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10년 넘게 말 못 하던 환자, 뇌와 컴퓨터를 연결해 말하기에 성공하다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/06/brain-implant-lets-man-speak/</link>
-            <guid>https://newspeppermint.com/2021/09/06/brain-implant-lets-man-speak/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[센서스 결과와 선거구 재획정 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/30/censusredistricting/</link>
-            <guid>https://newspeppermint.com/2021/08/30/censusredistricting/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 31일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내수용 감각(interoception): 행복감을 주는 숨겨진 감각 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/29/m-interoception/</link>
-            <guid>https://newspeppermint.com/2021/08/29/m-interoception/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 30일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탄핵이 연례 행사가 되지 않으려면 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/24/usimpeachement/</link>
-            <guid>https://newspeppermint.com/2021/08/24/usimpeachement/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넥스트 테슬라로 가는 길 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</link>
-            <guid>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
