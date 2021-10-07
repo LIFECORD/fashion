@@ -1,331 +1,260 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>kakaoTV ─ 톡이나 할까</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 06:16:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422824221?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422824221?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7408a7319dd24beb769ad2d9523b3a20d1a7d996" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[가요계 이별 관상 3인방, 그 안에서 섹시를 담당하는 정열♥]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422824115?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422824115?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F38177252c8165135d1e5de8473add24b06fa604b" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[수요는 많지만 공급은 없다는 안경남 재질의 권정열]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422824013?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422824013?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F84bdafdf7309e6b8772dac4190cb9abb511c9ab0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[십센치 - 스토커 LIVE🎶]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422822876?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422822876?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1cf77c3803d8c7e7a4646d90a646266321e3465e" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[57회. 십센치 권정열]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422815460?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422815460?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b5d0d96fef0097519fa519af27f83b4593efa2f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA["당첨금 13.5억" 생방송으로 로또 1등 인증한 최현우]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422645953?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422645953?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cbddc4248f5f25d2b783d379f4ddb844d86ca60" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[해리포터 호그와트 세계관 덕분에 매직샵 매출 급등한 썰]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422645879?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422645879?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6df2076a7da96e36129ea780131e6189ba738eee" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[※기절초풍주의※ 국내원탑 마술사 최현우의 대충격 마술ㄷㄷ (feat. 샤이니)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422645792?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422645792?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff78c51689589cee280b4525430f93d241eed6634" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[56회. 마술사 최현우]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422628383?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422628383?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>29:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F71788289957a162fe8ebe600473ecaeedecdb414" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA["마음을 채우는 '우리 지은이' 콘서트처럼 츄도 할 수 있어요!"]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422473597?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473597?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf23cbd7c242ef4f5dbc391a9770a9abf456ebb0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[고민을 말 못하는 게 고민일때는 츄쌤을 찾아가세요]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422473536?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473536?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb3bf43beadafc694749007419cf042361a1479f9" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[츄가 선보이는 '벚꽃잎 떨어지는 몸짓'에 김이나 깜놀!]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422473476?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422473476?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff3f9f0e9465f621aab807da6a9b0c2e07ef62c84" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[55회. 츄석특집 (with 이달의 소녀 츄)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422471150?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422471150?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1874fc24a9504bc4ce86a56cf6328c927fe47f71" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[🎧톡이나 문학전집📖]]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422321315?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422321315?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc2ee4b4ce9c909b8c42801faae71343d65db6beb" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[본격 월급 노예의 소중함을 깨닫게 해주는 영상(?!)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422309952?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422309952?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fff7780f29d78750c5da2fc36fbcdc1654a77be6f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[오상진 아나운서와의 결혼이 일탈이라면 저도 하겠습니다 그 일탈]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422309869?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422309869?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc046abefa9dbbc3cf717c4b0c63ced286df264b1" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[명곡 제조기 김이나 vs 9시 뉴스 앵커 김이나]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422309761?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422309761?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd0232654fa7aec236f3cd3c217b80628a4778d2d" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[54회. 아나운서 김소영]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422296816?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422296816?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F22d4bb97b03928782658269178d680a1356eb7a3" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[머리 기르면 여신일까봐 인간계에 머무르려고 숏컷한다는 그녀]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422128018?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422128018?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F23181d300267cc7da0d8fdb829b1dda1d64c4265" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[더는 운동 못할 것 같았던 그때, 김희진 선수를 일으킨 한마디]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422128017?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422128017?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F29aa9d2bf4ec02e6fc0075e999c9f4d5e1aab49a" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[김희진 선수 레전드 짤에 숨겨진 비밀 (노렸네 노렸어)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422128014?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422128014?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:22]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb0fa05fd9bcc365ce3164b27064ebf69b4e46a06" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[53회. 배구선수 김희진]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/422124287?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/422124287?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>31:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffd328d7542890f4a857a972027304c1feabacc75" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[차트 지박령 임영웅님께 압도적 감사를!]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421938714?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421938714?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F603f1b686c5cb099b76597d011e51196cf484b39" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신이 김이나에게 방송하라고 뽐뿌한 이유]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421938711?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421938711?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F40cfc7b11f5bc54a2c14a000ba22c8a399016247" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA["톡해서 뭐가 좋니?" 특별 MC 윤종신의 돌직구 질문]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421938631?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421938631?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe19c2e49ac8efebb1d5f8506a631856c258aaf3c" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[52회. 톡해서 좋니? (feat. 윤종신)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421932628?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421932628?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7965709c13aa10dbff2803dd1e37c75d7ff27e9b" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[맫몬 OPPA들이 맘 먹고 여성관객만 저격한 이유]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421746670?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421746670?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fac041288850955e5a3e9cdcaefcdaf432f0bf99b" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[하고싶은 거 그만 못해!! 과몰입한 팬들 덕에 댓글창보다 하루가 간다삐야!]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421746523?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421746523?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc8b1ec2d1d9272492568b7c5fed7d1874769091a" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[실물 보니까 왜 그랬는지 알겠는데.. 그래도 킹받아ㅠ]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421746419?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421746419?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdfdbf8141b065f3d2c5eb05bc2b600f718009ed8" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[51회. 곽범과 이창호]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421745060?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421745060?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F740760181c0fbcb7b7359c8bee5698cb362f21fe" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[유정에게 행복 그 자체였던 레전드 예능 촬영 후기♥ (Feat. 1박2일)]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421565262?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421565262?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe8fd1b16b9ec1de6a9a9e8c3d490c68367a6a7b1" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[(실제상황) 박보검에 빙의한 김이나와 멜로 연기하는 김유정!]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421565210?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421565210?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff07195dcc7fba799fde3cd25a9922081568a1c50" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[김유정 실물을 본 랜선이모 김이나의 주접력 넘치는 후기]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421565130?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421565130?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F086623ae0aa825ea5e855c134e7896a791920986" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[50회. 김유정]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421564881?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421564881?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0c3bb42bd11a02bb4c5b80b1e6a288a006802ca4" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[49회. 죽음의 실무자 편]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421395399?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421395399?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>27:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2463540977ecdf2fcf9c8d06c4086707be0f9b1f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[그가 원하는 마지막 삶을 살 수 있도록..]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421381906?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421381906?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb1048c820d4d556ecf6c196508ba304008988093" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[의뢰인을 방해한 이유 "구해달라는 다른 표현이라 생각합니다"]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421381774?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421381774?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5fefef9aa3a9ddbda2fce6cb7100b0ad938325dd" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[장례지도사에게 밝히는 이나의 장례 계획!!?]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421381675?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421381675?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fce537ed2badcd8abad3a50d9b3275b17ef25c802" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA["가까이서 뵈니 진짜 최고의 동그라미십니다!!" 김이나도 감탄시켜버린 주호민 작가]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421231447?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421231447?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cca1e6c802fea641bf2f6ce405f7aaa5d1effda" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[주호민이 느낌적인 느낌으로 알게 된 차기작]]></title>
-            <link>https://tv.kakao.com/channel/3647846/cliplink/421218242?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3647846/cliplink/421218242?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 06:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3b91c65006eab69df8d24e988781deb496b8aefd" length="0" type="image/q75/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+    <title>TED Talks 한국어</title>
+    <updated>2021-10-07T07:14:49.691Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal)]]></title>
+        <id>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</id>
+        <link href="https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko"/>
+        <updated>2021-10-07T07:13:35.984Z</updated>
+        <content type="html"><![CDATA[Alex Rosenthal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구에 동력을 공급할 미개발 에너지원]]></title>
+        <id>https://www.ted.com/talks/jamie_c_beard_the_untapped_energy_source_that_could_power_the_planet?language=ko</id>
+        <link href="https://www.ted.com/talks/jamie_c_beard_the_untapped_energy_source_that_could_power_the_planet?language=ko"/>
+        <updated>2021-10-07T07:13:35.984Z</updated>
+        <content type="html"><![CDATA[Jamie C. Beard]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분에게 숨겨진 쌍둥이가 있을 수 있습니다 - 케일라 맨델 쉬츠]]></title>
+        <id>https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko</id>
+        <link href="https://www.ted.com/talks/kayla_mandel_sheets_you_could_have_a_secret_twin_but_not_the_way_you_think?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Kayla Mandel Sheets]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구에 나타나는 의문의 붉은 빛과 원인 - 조이 피어렛(Zoe Pierrat)]]></title>
+        <id>https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=ko</id>
+        <link href="https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Zoe Pierrat]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트]]></title>
+        <id>https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko</id>
+        <link href="https://www.ted.com/talks/susan_graham_a_new_way_to_restore_earth_s_biodiversity_from_the_air?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Susan Graham]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSG는 무엇이며, 정말 우리 몸에 안 좋을까요? - 사라 E. 트레이시(Sarah E. Tracy)]]></title>
+        <id>https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko</id>
+        <link href="https://www.ted.com/talks/sarah_e_tracy_what_is_msg_and_is_it_actually_bad_for_you?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Sarah E. Tracy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든 것은 DNA로 덮여 있나요? (그리고 우리는 이 것을 가지고 무엇을 할 수 있나요?) - 헬렌 몰론 & 안나 파파도풀로스]]></title>
+        <id>https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything?language=ko</id>
+        <link href="https://www.ted.com/talks/helene_morlon_and_anna_papadopoulou_how_we_can_detect_pretty_much_anything?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Hélène Morlon and Anna Papadopoulou]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 바이러스 백신을 단기간에 만들 수 있었던 비결 - 케이틀린 새들러, 엘리자베스 웨인(Kaitlyn Sadtler and Elizabeth Wayne)]]></title>
+        <id>https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly?language=ko</id>
+        <link href="https://www.ted.com/talks/kaitlyn_sadtler_and_elizabeth_wayne_how_the_covid_19_vaccines_were_created_so_quickly?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Kaitlyn Sadtler and Elizabeth Wayne]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디스말 대습지의 비밀의 공동체 - 댄 세이어스(Dan Sayers)]]></title>
+        <id>https://www.ted.com/talks/dan_sayers_the_secret_society_of_the_great_dismal_swamp?language=ko</id>
+        <link href="https://www.ted.com/talks/dan_sayers_the_secret_society_of_the_great_dismal_swamp?language=ko"/>
+        <updated>2021-10-07T07:13:35.988Z</updated>
+        <content type="html"><![CDATA[Dan Sayers]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대 거미 수수께끼를 풀 수 있나요? - 단 핀클(Dan Finkel)]]></title>
+        <id>https://www.ted.com/talks/dan_finkel_can_you_solve_the_giant_spider_riddle?language=ko</id>
+        <link href="https://www.ted.com/talks/dan_finkel_can_you_solve_the_giant_spider_riddle?language=ko"/>
+        <updated>2021-10-07T07:13:35.993Z</updated>
+        <content type="html"><![CDATA[Dan Finkel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국의 오염을 추적하고 끝내기 위한 실시간 지도]]></title>
+        <id>https://www.ted.com/talks/ma_jun_an_interactive_map_to_track_and_end_pollution_in_china?language=ko</id>
+        <link href="https://www.ted.com/talks/ma_jun_an_interactive_map_to_track_and_end_pollution_in_china?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[Ma Jun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거의 모든 것을 증명할 수 있는 방법 - 제임스 A.스미스(James A. Smith)]]></title>
+        <id>https://www.ted.com/talks/james_a_smith_the_method_that_can_prove_almost_anything?language=ko</id>
+        <link href="https://www.ted.com/talks/james_a_smith_the_method_that_can_prove_almost_anything?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[James A. Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의학에 혁명을 일으킬 수 있는 작은 지방 공]]></title>
+        <id>https://www.ted.com/talks/kathryn_a_whitehead_the_tiny_balls_of_fat_that_could_revolutionize_medicine?language=ko</id>
+        <link href="https://www.ted.com/talks/kathryn_a_whitehead_the_tiny_balls_of_fat_that_could_revolutionize_medicine?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[Kathryn A. Whitehead]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밖으로 몰아 비난하지 말고, 안으로 들여 포용하세요.]]></title>
+        <id>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</id>
+        <link href="https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[Loretta J. Ross]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mRNA 백신 혁명을 이끄는 부부 과학자가  전하는 메세지]]></title>
+        <id>https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko</id>
+        <link href="https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[Uğur Şahin and Özlem Türeci]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이슬란드의 초강력 지하 화산들 - Jean-Baptiste P. Koehl (장 바티스트 코엘)]]></title>
+        <id>https://www.ted.com/talks/jean_baptiste_p_koehl_iceland_s_superpowered_underground_volcanoes?language=ko</id>
+        <link href="https://www.ted.com/talks/jean_baptiste_p_koehl_iceland_s_superpowered_underground_volcanoes?language=ko"/>
+        <updated>2021-10-07T07:13:36.002Z</updated>
+        <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄소배출 제로의 세상을 만들기 위한 세 가지 규칙]]></title>
+        <id>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</id>
+        <link href="https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko"/>
+        <updated>2021-10-07T07:13:36.003Z</updated>
+        <content type="html"><![CDATA[Nigel Topping]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고대 올림픽의 기원 |아마드 디'안고어 (Armand D'Angour)]]></title>
+        <id>https://www.ted.com/talks/armand_d_angour_the_ancient_origins_of_the_olympics?language=ko</id>
+        <link href="https://www.ted.com/talks/armand_d_angour_the_ancient_origins_of_the_olympics?language=ko"/>
+        <updated>2021-10-07T07:13:36.005Z</updated>
+        <content type="html"><![CDATA[Armand D'Angour]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨 왕국의 흥망성쇠 - 앤드류 맥도널드(Andrew McDonald)]]></title>
+        <id>https://www.ted.com/talks/andrew_mcdonald_the_rise_and_fall_of_the_kingdom_of_man?language=ko</id>
+        <link href="https://www.ted.com/talks/andrew_mcdonald_the_rise_and_fall_of_the_kingdom_of_man?language=ko"/>
+        <updated>2021-10-07T07:13:36.007Z</updated>
+        <content type="html"><![CDATA[Andrew McDonald]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수학의 중심에 있는 역설: 괴델의 불완전성 정리 - 마커스 드 사토이]]></title>
+        <id>https://www.ted.com/talks/marcus_du_sautoy_the_paradox_at_the_heart_of_mathematics_godel_s_incompleteness_theorem?language=ko</id>
+        <link href="https://www.ted.com/talks/marcus_du_sautoy_the_paradox_at_the_heart_of_mathematics_godel_s_incompleteness_theorem?language=ko"/>
+        <updated>2021-10-07T07:13:36.016Z</updated>
+        <content type="html"><![CDATA[Marcus du Sautoy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 COP26이 친환경 미래를 만들기 위한 최고의 기회일까요?]]></title>
+        <id>https://www.ted.com/talks/alok_sharma_why_cop26_is_our_best_chance_for_a_greener_future?language=ko</id>
+        <link href="https://www.ted.com/talks/alok_sharma_why_cop26_is_our_best_chance_for_a_greener_future?language=ko"/>
+        <updated>2021-10-07T07:13:36.018Z</updated>
+        <content type="html"><![CDATA[Alok Sharma]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부는 어떻게 허공에서 돈을 만들어내는 걸까요?- 조나단 스미스(Jonathan Smith)]]></title>
+        <id>https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko</id>
+        <link href="https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko"/>
+        <updated>2021-10-07T07:13:36.018Z</updated>
+        <content type="html"><![CDATA[Jonathan Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완경과 직장 내 성 불평등의 연관성]]></title>
+        <id>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</id>
+        <link href="https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko"/>
+        <updated>2021-10-07T07:13:36.020Z</updated>
+        <content type="html"><![CDATA[Andrea Berchowitz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라우마에 대한 다큐멘터리와 치료를 위한 공간을 만드는 것]]></title>
+        <id>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</id>
+        <link href="https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko"/>
+        <updated>2021-10-07T07:13:36.025Z</updated>
+        <content type="html"><![CDATA[Almudena Toral]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역사상 최고로 악랄했던 왕]]></title>
+        <id>https://www.ted.com/talks/georges_nzongola_ntalaja_history_s_deadliest_king?language=ko</id>
+        <link href="https://www.ted.com/talks/georges_nzongola_ntalaja_history_s_deadliest_king?language=ko"/>
+        <updated>2021-10-07T07:13:36.027Z</updated>
+        <content type="html"><![CDATA[Georges Nzongola-Ntalaja]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클렌즈는 여러분의 몸을 해독할 수 없습니다 - 하지만 이건 가능합니다]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will?language=ko"/>
+        <updated>2021-10-07T07:13:36.029Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주에 갈 때 우리는 무엇을 챙기고, 무엇을 남기고 와야 할까요?]]></title>
+        <id>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</id>
+        <link href="https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko"/>
+        <updated>2021-10-07T07:13:36.031Z</updated>
+        <content type="html"><![CDATA[Jorge Mañes Rubio]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목재로 고층 건물을 만들 수 있을까요? - 스테판 알(Stefan Al)]]></title>
+        <id>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</id>
+        <link href="https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko"/>
+        <updated>2021-10-07T07:13:36.032Z</updated>
+        <content type="html"><![CDATA[Stefan Al]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정상적인 불안감과 불안장애는 어떻게 다를까요?]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko"/>
+        <updated>2021-10-07T07:13:36.034Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실의 "외계인" 턱 - Darien Satterfield]]></title>
+        <id>https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko</id>
+        <link href="https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko"/>
+        <updated>2021-10-07T07:13:36.036Z</updated>
+        <content type="html"><![CDATA[Darien Satterfield]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 한 사람이 나치로부터 2,000명이 넘는 아이들을 구했을까요? - 이슬트 길레스피 (Iseult Gillespie)]]></title>
+        <id>https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko</id>
+        <link href="https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko"/>
+        <updated>2021-10-07T07:13:36.037Z</updated>
+        <content type="html"><![CDATA[Iseult Gillespie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽음을 되돌리기 위해 풀어야 하는 수수께끼 - 쉬라반 S K(Shravan S K)]]></title>
+        <id>https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle?language=ko</id>
+        <link href="https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle?language=ko"/>
+        <updated>2021-10-07T07:13:36.039Z</updated>
+        <content type="html"><![CDATA[Shravan S K]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 도롱뇽들은 서로 잡아먹습니다 (하지만 죽지는 않아요) - 루이스 잠브라노(Luis Zambrano)]]></title>
+        <id>https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko</id>
+        <link href="https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko"/>
+        <updated>2021-10-07T07:13:36.041Z</updated>
+        <content type="html"><![CDATA[Luis Zambrano]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 인도는 두개의 국가로 나뉘게 되었을까? - 하이만티 로이(Haimanti Roy)]]></title>
+        <id>https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko</id>
+        <link href="https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko"/>
+        <updated>2021-10-07T07:13:36.043Z</updated>
+        <content type="html"><![CDATA[Haimanti Roy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정말 면역력을 높일 수 있나요? 여기 진실이 있습니다]]></title>
+        <id>https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko</id>
+        <link href="https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko"/>
+        <updated>2021-10-07T07:13:36.045Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[난민의 인권을 보호하기 위한 새로운 접근법]]></title>
+        <id>https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko</id>
+        <link href="https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko"/>
+        <updated>2021-10-07T07:13:36.047Z</updated>
+        <content type="html"><![CDATA[Itamar Mann]]></content>
+    </entry>
+</feed>
