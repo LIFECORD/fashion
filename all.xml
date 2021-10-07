@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 02:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[난 뒤를 파보는 걸 좋아해. 앞에서 보이는 게 다가 아니잖아. 잘 나가는 카페를 봐도 머릿 속으론 손익부터 계산해보지. 한달 매출은 얼마일지, 유지 비용은 얼마나 들지, 어림하면서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2021/10/06/fanceshaugen/</link>
+            <guid>https://newspeppermint.com/2021/10/06/fanceshaugen/</guid>
+            <pubDate>Thu, 07 Oct 2021 03:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 10월 7일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</link>
             <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
@@ -160,13 +167,6 @@
             <guid>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</guid>
             <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 24일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뇌과학자들, 설명할 수 없는 현상을 발견하다(2/2) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/19/drift2/</link>
-            <guid>https://newspeppermint.com/2021/08/19/drift2/</guid>
-            <pubDate>Fri, 01 Oct 2021 00:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 20일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
