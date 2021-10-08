@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 00:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/jeram3</link>
+            <guid>https://articles.dotface.kr/jeram3</guid>
+            <pubDate>Fri, 08 Oct 2021 02:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 3편]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“살려고 군대 밖으로 나왔는데, 온 세상이 군대 같았어요" (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/jeram2</link>
+            <guid>https://articles.dotface.kr/jeram2</guid>
+            <pubDate>Fri, 08 Oct 2021 02:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 2편]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2008년 9월 23일, 나는 군 정신병원에 갇혔다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/jeram1</link>
+            <guid>https://articles.dotface.kr/jeram1</guid>
+            <pubDate>Fri, 08 Oct 2021 02:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 1편]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[추석 이후, 쿠팡에서 퇴근한 아들이 눈을 뜨지 않았다 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/coupang-death</link>
@@ -55,27 +76,6 @@
             <guid>https://articles.dotface.kr/anorecticdrug</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탈시설 지원법이 생기면 뭐가 달라질까 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife10</link>
-            <guid>https://articles.dotface.kr/righttolife10</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[국회의원 장혜영, 최혜영에게 물었습니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[발달장애인을 위한 ‘통역’ 같은 거죠 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife9</link>
-            <guid>https://articles.dotface.kr/righttolife9</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[수어, 점자처럼 발달장애인을 위한 소통 수단을 만듭니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[당신 곁에 내가 살기 위해 필요한 것들 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/righttolife8</link>
-            <guid>https://articles.dotface.kr/righttolife8</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누데이크 : 세상 본 적 없는 ‘초현실 디저트’를 기획하다 (LongBlack)]]></title>

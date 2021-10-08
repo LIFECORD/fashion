@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-10-08T00:45:33.496Z</updated>
+    <updated>2021-10-08T02:38:06.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면]]></title>
+        <id>https://articles.dotface.kr/jeram3</id>
+        <link href="https://articles.dotface.kr/jeram3"/>
+        <updated>2021-10-08T02:36:06.974Z</updated>
+        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 3편]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“살려고 군대 밖으로 나왔는데, 온 세상이 군대 같았어요"]]></title>
+        <id>https://articles.dotface.kr/jeram2</id>
+        <link href="https://articles.dotface.kr/jeram2"/>
+        <updated>2021-10-08T02:36:06.974Z</updated>
+        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 2편]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2008년 9월 23일, 나는 군 정신병원에 갇혔다]]></title>
+        <id>https://articles.dotface.kr/jeram1</id>
+        <link href="https://articles.dotface.kr/jeram1"/>
+        <updated>2021-10-08T02:36:06.974Z</updated>
+        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 1편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 이후, 쿠팡에서 퇴근한 아들이 눈을 뜨지 않았다]]></title>
         <id>https://articles.dotface.kr/coupang-death</id>
@@ -53,26 +74,5 @@
         <link href="https://articles.dotface.kr/anorecticdrug"/>
         <updated>2021-10-07T09:09:52.574Z</updated>
         <content type="html"><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈시설 지원법이 생기면 뭐가 달라질까]]></title>
-        <id>https://articles.dotface.kr/righttolife10</id>
-        <link href="https://articles.dotface.kr/righttolife10"/>
-        <updated>2021-10-07T09:09:52.577Z</updated>
-        <content type="html"><![CDATA[국회의원 장혜영, 최혜영에게 물었습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발달장애인을 위한 ‘통역’ 같은 거죠]]></title>
-        <id>https://articles.dotface.kr/righttolife9</id>
-        <link href="https://articles.dotface.kr/righttolife9"/>
-        <updated>2021-10-07T09:09:52.577Z</updated>
-        <content type="html"><![CDATA[수어, 점자처럼 발달장애인을 위한 소통 수단을 만듭니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신 곁에 내가 살기 위해 필요한 것들]]></title>
-        <id>https://articles.dotface.kr/righttolife8</id>
-        <link href="https://articles.dotface.kr/righttolife8"/>
-        <updated>2021-10-07T09:09:52.579Z</updated>
-        <content type="html"><![CDATA[장애인 유진화 씨, 이동훈 씨 이야기]]></content>
     </entry>
 </feed>
