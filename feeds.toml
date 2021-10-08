@@ -6,6 +6,7 @@ titleSelector = "div.css-1jg502e"
 linkSelector = "a.css-yvles8-MainSection"
 contentSelector = "div.css-jc8v6j"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [longblack]
 title = "LongBlack"
@@ -16,6 +17,7 @@ linkSelector = "a"
 contentSelector = "p.today-note-desc"
 imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [newspeppermint]
 title = "뉴스페퍼민트"
@@ -35,6 +37,7 @@ titleSelector = "h4[class='f-w:700 h9 m5']"
 linkSelector = "h4[class='f-w:700 h9 m5'] a"
 contentSelector = "h4.h12.talk-link__speaker"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [kakaotv_eanakim]
 title = "kakaoTV ─ 톡이나 할까"
@@ -45,6 +48,7 @@ linkSelector = "a.link_contents"
 contentSelector = "span.mark_play"
 imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [parkjy0217]
 title = "동아사이언스 ─ 박진영 심리학 칼럼니스트"
@@ -54,6 +58,7 @@ titleSelector = "dd span.tit"
 linkSelector = "a"
 contentSelector = "span.cont"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [parkjy_naver]
 title = "동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스"
@@ -63,7 +68,10 @@ titleSelector = "dl.cnt dt.t a"
 linkSelector = "dl > dt > a"
 contentSelector = "dd.c"
 imageSelector = "div.thumb a img"
+dateSelector = "dl > dd.s > em"
+dateFormat = "yyyy.MM.dd"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [parkjy_daum]
 title = "다음 뉴스 ─ 박진영의 사회심리학"
@@ -72,31 +80,7 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a"
 contentSelector = "p.desc_thumb"
+dateSelector = "span.info_thumb"
+dateFormat = "yyyy.MM.dd"
 waitUntil = "networkidle"
-
-[daum_khan_quarterlyalone]
-title = "다음 뉴스 ─ 경향신문 ─ 이진송의 아니 근데"
-url = "https://news.daum.net/series/5140981"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a.link_thumb"
-contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
-
-[daum_hani_tintin]
-title = "다음 뉴스 ─ 한겨레S ─ 이승한의 술탄 오브 더 티브이"
-url = "https://entertain.daum.net/news/series/3306"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a.link_thumb"
-contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
-
-[daum_khan_plusratioquamvis]
-title = "다음 뉴스 ─ 경향신문 ─ 위근우의 리플레이"
-url = "https://news.daum.net/series/5024350"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a.link_thumb"
-contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
+onFail = "stale"
