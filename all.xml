@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 07:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 08:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 24일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko</link>
+            <guid>https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko</guid>
+            <pubDate>Sat, 09 Oct 2021 08:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[Devin Shuman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[난민의 인권을 보호하기 위한 새로운 접근법 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko</link>
-            <guid>https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Itamar Mann]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개 (kakaoTV ─ 톡이나 할까)]]></title>

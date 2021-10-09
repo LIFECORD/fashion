@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-10-09T07:14:46.064Z</updated>
+    <updated>2021-10-09T08:15:50.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman)]]></title>
+        <id>https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko</id>
+        <link href="https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko"/>
+        <updated>2021-10-09T08:14:16.528Z</updated>
+        <content type="html"><![CDATA[Devin Shuman]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal)]]></title>
         <id>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko"/>
         <updated>2021-10-07T07:13:36.045Z</updated>
         <content type="html"><![CDATA[Jen Gunter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난민의 인권을 보호하기 위한 새로운 접근법]]></title>
-        <id>https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko</id>
-        <link href="https://www.ted.com/talks/itamar_mann_a_new_approach_to_defending_the_human_rights_of_migrants?language=ko"/>
-        <updated>2021-10-07T07:13:36.047Z</updated>
-        <content type="html"><![CDATA[Itamar Mann]]></content>
     </entry>
 </feed>
