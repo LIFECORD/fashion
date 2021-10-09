@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 04:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 05:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 오늘 할 일의 70%라도 해냈다면 성공했다고 기뻐하자]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26545290&amp;oid=584&amp;aid=0000016278&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26545290&amp;oid=584&amp;aid=0000016278&amp;ptype=021</guid>
+            <pubDate>Sat, 09 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[목표를 현실적인 수준으로 설정해야만 만족이라는 것을 느끼는 것이 가능하다. 게티이미지뱅크 제공 눈코 뜰 새 없이 바쁜 나날을 보낸다는 말을 실감…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/09/16278.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 시시각각 더 많은 사고력과 정확한 판단이 필요한 때]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26544639&amp;oid=584&amp;aid=0000016166&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:14:08 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 장기화로 많은 이들이 지속적인 우울과 무기력을 호소하고 있다. 이런 때일수록 마음에 새겨야 할 사항들이 있다. 연합뉴스 제공 신종코로나…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/23/14341.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]무료함은 때로 과감한 도전 정신을 낳는다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534345&amp;oid=584&amp;aid=0000014250&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26534345&amp;oid=584&amp;aid=0000014250&amp;ptype=021</guid>
-            <pubDate>Thu, 07 Oct 2021 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[지루함이란 감정이 위험을 감당하는 용기가 될 때가 있다. 게티이미지뱅크 제공 무료함은 흥미로운 감정이다. 종일 할 일이 없어서 가만히 있거나 전혀…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/15/14250.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
