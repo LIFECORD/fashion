@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 09:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 10:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -971,6 +971,13 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/23/14341.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오늘 할 일의 70%라도 해냈다면 성공했다고 기뻐하자 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20211009134013705</link>
+            <guid>https://v.daum.net/v/20211009134013705</guid>
+            <pubDate>Sat, 09 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[눈코&nbsp;뜰 새 없이 바쁜 나날을 보낸다는 말을 실감하고 있는 요즘이다. 일을 하나 마무리 지었다는 성취감을 느낄 겨를도 없이 또 다른 일이 밀려오고 데드라인 한 두 시간 전에 까먹은 일이 있었다는 사실을 깨닫는 등 밥은 어떻게 먹고 숨은 어떻게 쉬고 있는지 알 수 없는 시간들을 보내고 있다.&nbsp; 살다보면 일이 없는 때가 있는 반면 일이 한꺼번에 몰아칠 때도]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시시각각 더 많은 사고력과 정확한 판단이 필요한 때 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
             <link>https://v.daum.net/v/20211002060033949</link>
             <guid>https://v.daum.net/v/20211002060033949</guid>
@@ -1046,13 +1053,6 @@
             <guid>https://v.daum.net/v/20210710060031102</guid>
             <pubDate>Sun, 26 Sep 2021 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는 얘기였다.&nbsp;이유는 간단하다. 사람이라면 누구나 겪을 수 밖에 없는 실수나 실패에 대해서도 스스로에게 실망하고 마는 것은 ‘보통 사람들이라면 몰라도 나는 이것보다 더 나은 존재여야 한다’는 믿음이 어딘가에 자리하고 있는 것이기 때문라는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[목표하는 순간 더 멀어지는 것들 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20210703090027699</link>
-            <guid>https://v.daum.net/v/20210703090027699</guid>
-            <pubDate>Sun, 26 Sep 2021 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 싶을 때가 있다. 날이 더워지면 몸도 지치고 작은 일에도 금새 짜증을 내는 등 스트레스 거리가 증폭되므로, 특히 요즘같이 덥고 눅눅한 날이 지속될 때면 스트레스 관리의 필요성을 느낀다.&nbsp; 그런 의미에서 우선 하루 10분 씩 꼬박꼬박]]></content:encoded>
         </item>
     </channel>
 </rss>
