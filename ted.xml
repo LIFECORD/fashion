@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-10-10T06:16:03.338Z</updated>
+    <updated>2021-10-10T07:14:33.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.ted.com/talks/zoe_pierrat_earth_s_mysterious_red_glow_explained?language=ko"/>
         <updated>2021-10-07T07:13:35.988Z</updated>
         <content type="html"><![CDATA[Zoe Pierrat]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 말을... 언어로 만들까요? - 마틴 힐퍼트 (Martin Hilpert)]]></title>
+        <id>https://www.ted.com/talks/martin_hilpert_what_makes_a_language_a_language?language=ko</id>
+        <link href="https://www.ted.com/talks/martin_hilpert_what_makes_a_language_a_language?language=ko"/>
+        <updated>2021-10-10T07:12:53.606Z</updated>
+        <content type="html"><![CDATA[Martin Hilpert]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지구의 생물 다양성을 복원시키는 새로운 방법 - 공중 지원 프로젝트]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko"/>
         <updated>2021-10-07T07:13:36.043Z</updated>
         <content type="html"><![CDATA[Haimanti Roy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 면역력을 높일 수 있나요? 여기 진실이 있습니다]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_can_you_actually_boost_your_immune_system_here_s_the_truth?language=ko"/>
-        <updated>2021-10-07T07:13:36.045Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
