@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-10-11T05:12:28.010Z</updated>
+    <updated>2021-10-11T06:17:29.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko"/>
         <updated>2021-10-07T07:13:35.984Z</updated>
         <content type="html"><![CDATA[Alex Rosenthal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계에서 가장 유명한 교향곡의 비밀 - 하나코 사와다(Hanako Sawada)]]></title>
+        <id>https://www.ted.com/talks/hanako_sawada_the_secrets_of_the_world_s_most_famous_symphony?language=ko</id>
+        <link href="https://www.ted.com/talks/hanako_sawada_the_secrets_of_the_world_s_most_famous_symphony?language=ko"/>
+        <updated>2021-10-11T06:15:48.775Z</updated>
+        <content type="html"><![CDATA[Hanako Sawada]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지구에 동력을 공급할 미개발 에너지원]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko"/>
         <updated>2021-10-07T07:13:36.041Z</updated>
         <content type="html"><![CDATA[Luis Zambrano]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 인도는 두개의 국가로 나뉘게 되었을까? - 하이만티 로이(Haimanti Roy)]]></title>
-        <id>https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko</id>
-        <link href="https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko"/>
-        <updated>2021-10-07T07:13:36.043Z</updated>
-        <content type="html"><![CDATA[Haimanti Roy]]></content>
     </entry>
 </feed>

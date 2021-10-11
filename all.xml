@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,13 @@
             <guid>https://www.ted.com/talks/alex_rosenthal_can_you_solve_the_rogue_submarine_riddle_difficulty_level_master?language=ko</guid>
             <pubDate>Thu, 23 Sep 2021 15:21:41 GMT</pubDate>
             <content:encoded><![CDATA[Alex Rosenthal]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계에서 가장 유명한 교향곡의 비밀 - 하나코 사와다(Hanako Sawada) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/hanako_sawada_the_secrets_of_the_world_s_most_famous_symphony?language=ko</link>
+            <guid>https://www.ted.com/talks/hanako_sawada_the_secrets_of_the_world_s_most_famous_symphony?language=ko</guid>
+            <pubDate>Mon, 11 Oct 2021 06:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[Hanako Sawada]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지구에 동력을 공급할 미개발 에너지원 (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Luis Zambrano]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[왜 인도는 두개의 국가로 나뉘게 되었을까? - 하이만티 로이(Haimanti Roy) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko</link>
-            <guid>https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Haimanti Roy]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개 (kakaoTV ─ 톡이나 할까)]]></title>
