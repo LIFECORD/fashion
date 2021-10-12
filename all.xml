@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 08:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 09:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,13 @@
             <guid>https://www.ted.com/talks/devin_shuman_the_genes_you_don_t_get_from_your_parents_but_can_t_live_without?language=ko</guid>
             <pubDate>Sat, 09 Oct 2021 08:14:16 GMT</pubDate>
             <content:encoded><![CDATA[Devin Shuman]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFT는 어떻게 미래의 인터넷을 만들까요 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/kayvon_tehranian_how_nfts_are_building_the_internet_of_the_future?language=ko</link>
+            <guid>https://www.ted.com/talks/kayvon_tehranian_how_nfts_are_building_the_internet_of_the_future?language=ko</guid>
+            <pubDate>Tue, 12 Oct 2021 09:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[Kayvon Tehranian]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[악당 잠수함 수수께끼를 풀 수 있나요? (난이도: 고급) - 알렉스 로젠탈(Alex Rosenthal) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Shravan S K]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 도롱뇽들은 서로 잡아먹습니다 (하지만 죽지는 않아요) - 루이스 잠브라노(Luis Zambrano) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko</link>
-            <guid>https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Luis Zambrano]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[관상만으로 MBTI를 맞춰버린 소개팅녀! "혹시.. 우리 궁합은 어때요?" (kakaoTV ─ 톡이나 할까)]]></title>
