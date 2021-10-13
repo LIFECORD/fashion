@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 00:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[해외 여행을 할 때 전 꼭 동네 서점부터 갑니다. 책을 읽는 사람들, 조용한 발걸음, 은은한 책 냄새. 아늑한 분위기에 취해 스르르 잠들고 싶기도 해요. &nbsp; &nbsp; &nbsp; &nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</link>
+            <guid>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</guid>
+            <pubDate>Wed, 13 Oct 2021 00:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 10월 13일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/10/06/fanceshaugen/</link>
             <guid>https://newspeppermint.com/2021/10/06/fanceshaugen/</guid>
@@ -160,13 +167,6 @@
             <guid>https://newspeppermint.com/2021/08/24/usimpeachement/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 25일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넥스트 테슬라로 가는 길 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</link>
-            <guid>https://newspeppermint.com/2021/08/23/how-to-be-the-next-tesla/</guid>
-            <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 24일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman) (TED Talks 한국어)]]></title>
