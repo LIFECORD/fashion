@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 15:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[교보문고 : 국내 최대 서점의 고민, 회계장부로 읽다 (LongBlack)]]></title>
-            <link>https://www.longblack.co/note/68</link>
-            <guid>https://www.longblack.co/note/68</guid>
-            <pubDate>Wed, 13 Oct 2021 15:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[어제 B가 소개한 북앤베드 재밌더라. 책으로 경험을 파는 회사라는 거잖아. 내친 김에 책 시장 좀 더 들여다볼까? 여기 잘은 몰라도 책 좀 읽는 사람들이 모인 것 같아서 말이야.<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[웨원그룹 : 텐센트가 세운 중국 최대 웹소설 기업, IP 제국의 꿈 (LongBlack)]]></title>
+            <link>https://www.longblack.co/note/64</link>
+            <guid>https://www.longblack.co/note/64</guid>
+            <pubDate>Thu, 14 Oct 2021 15:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[어제 교보문고 회계장부 분석, 넘넘 재밌지 않았어요? 저 고태순 회계사님 팬이 돼가고 있어요! 아니 그런데, 교보문고도 IP* 사업을 미래 먹거리로 보고 있다니, 충격! 요즘 다들<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라 (뉴스페퍼민트)]]></title>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/08/29/m-interoception/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 30일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사랑과 독립은 공존 할 수 있을까요? - 타냐 부시콧 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/tanya_boucicaut_can_love_and_independence_coexist?language=ko</link>
+            <guid>https://www.ted.com/talks/tanya_boucicaut_can_love_and_independence_coexist?language=ko</guid>
+            <pubDate>Thu, 14 Oct 2021 15:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[Tanya Boucicaut]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Iseult Gillespie]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[죽음을 되돌리기 위해 풀어야 하는 수수께끼 - 쉬라반 S K(Shravan S K) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle?language=ko</link>
-            <guid>https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Shravan S K]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[관상만으로 MBTI를 맞춰버린 소개팅녀! "혹시.. 우리 궁합은 어때요?" (kakaoTV ─ 톡이나 할까)]]></title>
