@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-10-14T03:14:24.398Z</updated>
+    <updated>2021-10-14T04:16:35.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라]]></title>
+        <id>https://newspeppermint.com/2021/10/13/uschildcare/</id>
+        <link href="https://newspeppermint.com/2021/10/13/uschildcare/"/>
+        <updated>2021-10-14T04:14:34.239Z</updated>
+        <content type="html"><![CDATA[2021년 10월 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가?]]></title>
         <id>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/08/29/m-interoception/"/>
         <updated>2021-10-07T21:10:06.121Z</updated>
         <content type="html"><![CDATA[2021년 8월 30일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄핵이 연례 행사가 되지 않으려면]]></title>
-        <id>https://newspeppermint.com/2021/08/24/usimpeachement/</id>
-        <link href="https://newspeppermint.com/2021/08/24/usimpeachement/"/>
-        <updated>2021-10-07T21:10:06.122Z</updated>
-        <content type="html"><![CDATA[2021년 8월 25일]]></content>
     </entry>
 </feed>

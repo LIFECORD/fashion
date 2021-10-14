@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 03:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 04:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[어제 B가 소개한 북앤베드 재밌더라. 책으로 경험을 파는 회사라는 거잖아. 내친 김에 책 시장 좀 더 들여다볼까? 여기 잘은 몰라도 책 좀 읽는 사람들이 모인 것 같아서 말이야.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2021/10/13/uschildcare/</link>
+            <guid>https://newspeppermint.com/2021/10/13/uschildcare/</guid>
+            <pubDate>Thu, 14 Oct 2021 04:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 10월 14일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</link>
             <guid>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</guid>
@@ -160,13 +167,6 @@
             <guid>https://newspeppermint.com/2021/08/29/m-interoception/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 30일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탄핵이 연례 행사가 되지 않으려면 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/08/24/usimpeachement/</link>
-            <guid>https://newspeppermint.com/2021/08/24/usimpeachement/</guid>
-            <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 8월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman) (TED Talks 한국어)]]></title>
