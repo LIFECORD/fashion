@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-10-15T05:14:30.038Z</updated>
+    <updated>2021-10-15T06:17:16.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[처음부터 잘 만들지 그랬어? 휠체어도 다닐 수 있게!]]></title>
+        <id>https://articles.dotface.kr/wheelchairview2</id>
+        <link href="https://articles.dotface.kr/wheelchairview2"/>
+        <updated>2021-10-15T06:13:48.152Z</updated>
+        <content type="html"><![CDATA[휠체어를 위한 지하철 환승지도를 만드는 무의 홍윤희 대표, 유지민 활동가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면]]></title>
         <id>https://articles.dotface.kr/jeram3</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/anorecticdrug2"/>
         <updated>2021-10-07T09:09:52.574Z</updated>
         <content type="html"><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약사가 설명해주는 식욕억제제의 부작용]]></title>
-        <id>https://articles.dotface.kr/anorecticdrug</id>
-        <link href="https://articles.dotface.kr/anorecticdrug"/>
-        <updated>2021-10-07T09:09:52.574Z</updated>
-        <content type="html"><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content>
     </entry>
 </feed>

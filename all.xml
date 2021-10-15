@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[처음부터 잘 만들지 그랬어? 휠체어도 다닐 수 있게! (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/wheelchairview2</link>
+            <guid>https://articles.dotface.kr/wheelchairview2</guid>
+            <pubDate>Fri, 15 Oct 2021 06:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[휠체어를 위한 지하철 환승지도를 만드는 무의 홍윤희 대표, 유지민 활동가]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/jeram3</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/anorecticdrug2</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[약사가 설명해주는 식욕억제제의 부작용 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/anorecticdrug</link>
-            <guid>https://articles.dotface.kr/anorecticdrug</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[연간 133만 명이 식욕억제제를 구매한다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웨원그룹 : 텐센트가 세운 중국 최대 웹소설 기업, IP 제국의 꿈 (LongBlack)]]></title>
