@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 번째 트랜스젠더 군인, 변희수 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/transinarmy</link>
+            <guid>https://articles.dotface.kr/transinarmy</guid>
+            <pubDate>Fri, 15 Oct 2021 10:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[전역 취소 판결문의 진짜 의미를 자세히 설명할게요]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[처음부터 잘 만들지 그랬어? 휠체어도 다닐 수 있게! (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/wheelchairview2</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/gasworker</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/anorecticdrug2</link>
-            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웨원그룹 : 텐센트가 세운 중국 최대 웹소설 기업, IP 제국의 꿈 (LongBlack)]]></title>
