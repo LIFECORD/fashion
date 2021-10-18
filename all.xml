@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 05:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://articles.dotface.kr/transinarmy</guid>
             <pubDate>Fri, 15 Oct 2021 10:12:17 GMT</pubDate>
             <content:encoded><![CDATA[이번 판결의 의미를 해설해드립니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[처음부터 잘 만들지 그랬어? 휠체어도 다닐 수 있게! (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/wheelchairview2</link>
-            <guid>https://articles.dotface.kr/wheelchairview2</guid>
-            <pubDate>Fri, 15 Oct 2021 06:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[휠체어를 위한 지하철 환승지도를 만드는 무의 홍윤희 대표, 유지민 활동가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면 (닷페이스 ─ 아티클)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://articles.dotface.kr/gasworker</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/anorecticdrug2</link>
+            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
+            <pubDate>Mon, 18 Oct 2021 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트렌드 리포트 : 쿠팡·그립·올리브영, 2022 커머스를 말하다 (LongBlack)]]></title>
