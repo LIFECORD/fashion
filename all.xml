@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 23:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 00:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,13 @@
             <guid>https://www.ted.com/talks/tanya_boucicaut_can_love_and_independence_coexist?language=ko</guid>
             <pubDate>Thu, 14 Oct 2021 15:13:58 GMT</pubDate>
             <content:encoded><![CDATA[Tanya Boucicaut]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[패망한 쿠시 왕국에 일어난 일 - 제프 엠벌링(Geoff Emberling) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/geoff_emberling_what_happened_to_the_lost_kingdom_of_kush?language=ko</link>
+            <guid>https://www.ted.com/talks/geoff_emberling_what_happened_to_the_lost_kingdom_of_kush?language=ko</guid>
+            <pubDate>Wed, 20 Oct 2021 00:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[Geoff Emberling]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Darien Satterfield]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 한 사람이 나치로부터 2,000명이 넘는 아이들을 구했을까요? - 이슬트 길레스피 (Iseult Gillespie) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko</link>
-            <guid>https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Iseult Gillespie]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 사람들이 '춤'에 미친 이유, 모두 '뇌' 때문이었다?! (kakaoTV ─ 톡이나 할까)]]></title>

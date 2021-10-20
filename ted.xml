@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-10-19T23:13:38.275Z</updated>
+    <updated>2021-10-20T00:41:19.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.ted.com/talks/tanya_boucicaut_can_love_and_independence_coexist?language=ko"/>
         <updated>2021-10-14T15:13:58.360Z</updated>
         <content type="html"><![CDATA[Tanya Boucicaut]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패망한 쿠시 왕국에 일어난 일 - 제프 엠벌링(Geoff Emberling)]]></title>
+        <id>https://www.ted.com/talks/geoff_emberling_what_happened_to_the_lost_kingdom_of_kush?language=ko</id>
+        <link href="https://www.ted.com/talks/geoff_emberling_what_happened_to_the_lost_kingdom_of_kush?language=ko"/>
+        <updated>2021-10-20T00:40:35.359Z</updated>
+        <content type="html"><![CDATA[Geoff Emberling]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(없이는 살 수 없지만) 부모로부터 물려받지 않은 유전자 - 데빈 슈만 (Devin Shuman)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko"/>
         <updated>2021-10-07T07:13:36.036Z</updated>
         <content type="html"><![CDATA[Darien Satterfield]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 한 사람이 나치로부터 2,000명이 넘는 아이들을 구했을까요? - 이슬트 길레스피 (Iseult Gillespie)]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_how_one_person_saved_over_2_000_children_from_the_nazis?language=ko"/>
-        <updated>2021-10-07T07:13:36.037Z</updated>
-        <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
 </feed>
