@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 00:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>https://articles.dotface.kr/transinarmy</guid>
             <pubDate>Fri, 15 Oct 2021 10:12:17 GMT</pubDate>
             <content:encoded><![CDATA[이번 판결의 의미를 해설해드립니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[처음부터 잘 만들지 그랬어? 휠체어도 다닐 수 있게! (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/wheelchairview2</link>
+            <guid>https://articles.dotface.kr/wheelchairview2</guid>
+            <pubDate>Wed, 20 Oct 2021 02:00:24 GMT</pubDate>
+            <content:encoded><![CDATA[휠체어를 위한 지하철 환승지도를 만드는 무의 홍윤희 대표, 유지민 활동가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[휠체어를 타고 밥 먹고, 커피 마시고, 노래방에 갈 수 있을까? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/wheelchairview1</link>
+            <guid>https://articles.dotface.kr/wheelchairview1</guid>
+            <pubDate>Wed, 20 Oct 2021 02:00:24 GMT</pubDate>
+            <content:encoded><![CDATA[휠체어 특공대와 함께 미아사거리역 주변을 돌아보았다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면 (닷페이스 ─ 아티클)]]></title>
@@ -62,20 +76,6 @@
             <guid>https://articles.dotface.kr/icepack</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[주민센터 갖다주면 뜻밖에 선물이?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오늘도 가스 점검 나왔습니다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/gasworker</link>
-            <guid>https://articles.dotface.kr/gasworker</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[할 말 많은 가스 점검원 노동 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘먹토’와 다이어트, 까놓고 얘기해 볼까 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/anorecticdrug2</link>
-            <guid>https://articles.dotface.kr/anorecticdrug2</guid>
-            <pubDate>Mon, 18 Oct 2021 06:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[식이장애 전문 상담사와 나눈 솔직한 대화]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트렌드 리포트 : 컬리·프레시지·GFFG, 2022 F&B를 말하다 (LongBlack)]]></title>
