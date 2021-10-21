@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/08/29/m-interoception/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 8월 30일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사막을 태양 전지판으로 덮으면 어떨까요? - 댄 콰틀러(Dan Kwartler) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</link>
+            <guid>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</guid>
+            <pubDate>Thu, 21 Oct 2021 03:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[Dan Kwartler]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사랑과 독립은 공존 할 수 있을까요? - 타냐 부시콧 (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현실의 "외계인" 턱 - Darien Satterfield (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko</link>
-            <guid>https://www.ted.com/talks/darien_satterfield_real_life_alien_jaws?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Darien Satterfield]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 사람들이 '춤'에 미친 이유, 모두 '뇌' 때문이었다?! (kakaoTV ─ 톡이나 할까)]]></title>
