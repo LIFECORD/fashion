@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-10-22T02:09:13.828Z</updated>
+    <updated>2021-10-22T03:13:15.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[청소년의 정신건강과 인스타그램]]></title>
-        <id>https://newspeppermint.com/2021/10/21/npc_instagrammentalhealth/</id>
-        <link href="https://newspeppermint.com/2021/10/21/npc_instagrammentalhealth/"/>
-        <updated>2021-10-21T20:12:22.997Z</updated>
+        <title type="html"><![CDATA[내가 죽고 싶었을 때, 내 아버지가 해준 말 한마디]]></title>
+        <id>https://newspeppermint.com/2021/10/21/suicidalthoughts/</id>
+        <link href="https://newspeppermint.com/2021/10/21/suicidalthoughts/"/>
+        <updated>2021-10-22T03:12:20.342Z</updated>
         <content type="html"><![CDATA[2021년 10월 22일]]></content>
     </entry>
     <entry>
