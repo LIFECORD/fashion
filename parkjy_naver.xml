@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 20:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 21:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 모든 생명은 결국 하나라는 믿음]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26546392&amp;oid=584&amp;aid=0000016452&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26546392&amp;oid=584&amp;aid=0000016452&amp;ptype=021</guid>
+            <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[픽사베이 제공 '인간은 죽으면 어떻게 될까'라는 질문에 대해 죽으면 흙이 될테고 그 흙에서 새로운 생명들이 자라날 테니, 죽음은 삶과 맞닿아 있고 …]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/23/16452.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]스스로 만들어 내는 스트레스]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26545941&amp;oid=584&amp;aid=0000016364&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 고백하자면 필자는 미루기의 달인이다. 내일의 일은 내일의 내가 할 거라거나 어차피 마감이 가까워지면 글을 쓰게 되어 있다는 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/05/14534.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]그때로 돌아가도 후회할 선택을 할 가능성이 높다]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535221&amp;oid=584&amp;aid=0000014431&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535221&amp;oid=584&amp;aid=0000014431&amp;ptype=021</guid>
-            <pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 꼬리뼈를 다쳤다. 일주일 전쯤 침대에서 내려오다가 하필 미끄러운 플라스틱 포장재 같은 것을 밟고 빙판에서 미끄러지듯 순식간…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/05/29/14431.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
