@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-10-22T16:19:19.729Z</updated>
+    <updated>2021-10-22T17:18:52.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[내가 죽고 싶었을 때, 내 아버지가 해준 말 한마디]]></title>
+        <title type="html"><![CDATA[내가 죽고 싶었을 때, 아버지가 내게 해준 말 한마디]]></title>
         <id>https://newspeppermint.com/2021/10/21/suicidalthoughts/</id>
         <link href="https://newspeppermint.com/2021/10/21/suicidalthoughts/"/>
         <updated>2021-10-22T03:12:20.342Z</updated>

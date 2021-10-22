@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 16:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <content:encoded><![CDATA[일에 대해 누구보다 치열하게 고민해왔다고 자부합니다. 얼마 전부터 저를 사로잡은 단어는 ‘감각’이에요. 지난 10여년 동안 쌓아 온 저의 경력, 그 끝에 무엇이 남게 되는가를 되풀<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내가 죽고 싶었을 때, 내 아버지가 해준 말 한마디 (뉴스페퍼민트)]]></title>
+            <title><![CDATA[내가 죽고 싶었을 때, 아버지가 내게 해준 말 한마디 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/10/21/suicidalthoughts/</link>
             <guid>https://newspeppermint.com/2021/10/21/suicidalthoughts/</guid>
             <pubDate>Fri, 22 Oct 2021 03:12:20 GMT</pubDate>
