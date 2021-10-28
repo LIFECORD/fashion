@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-10-28T22:12:25.967Z</updated>
+    <updated>2021-10-28T23:13:43.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 친구가 될 수 없는 이유(2/2)]]></title>
+        <id>https://newspeppermint.com/2021/10/28/m-friends2/</id>
+        <link href="https://newspeppermint.com/2021/10/28/m-friends2/"/>
+        <updated>2021-10-28T23:11:50.612Z</updated>
+        <content type="html"><![CDATA[2021년 10월 29일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 친구가 될 수 없는 이유(1/2)]]></title>
+        <id>https://newspeppermint.com/2021/10/28/m-friends1/</id>
+        <link href="https://newspeppermint.com/2021/10/28/m-friends1/"/>
+        <updated>2021-10-28T23:11:50.613Z</updated>
+        <content type="html"><![CDATA[2021년 10월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 죽고 싶었을 때, 아버지가 내게 해준 말 한마디]]></title>
         <id>https://newspeppermint.com/2021/10/21/suicidalthoughts/</id>
@@ -74,19 +88,5 @@
         <link href="https://newspeppermint.com/2021/09/10/uncertainty/"/>
         <updated>2021-10-07T21:10:06.119Z</updated>
         <content type="html"><![CDATA[2021년 9월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 넘게 말 못 하던 환자, 뇌와 컴퓨터를 연결해 말하기에 성공하다]]></title>
-        <id>https://newspeppermint.com/2021/09/06/brain-implant-lets-man-speak/</id>
-        <link href="https://newspeppermint.com/2021/09/06/brain-implant-lets-man-speak/"/>
-        <updated>2021-10-07T21:10:06.119Z</updated>
-        <content type="html"><![CDATA[2021년 9월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센서스 결과와 선거구 재획정]]></title>
-        <id>https://newspeppermint.com/2021/08/30/censusredistricting/</id>
-        <link href="https://newspeppermint.com/2021/08/30/censusredistricting/"/>
-        <updated>2021-10-07T21:10:06.120Z</updated>
-        <content type="html"><![CDATA[2021년 8월 31일]]></content>
     </entry>
 </feed>
