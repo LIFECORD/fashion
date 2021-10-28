@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘도 성교육 제대로 안 하나? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/sexualityeducation</link>
+            <guid>https://articles.dotface.kr/sexualityeducation</guid>
+            <pubDate>Thu, 28 Oct 2021 08:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[인권과 성평등에 기반한 성교육을 하는 곳이 있다는데]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[변희수 하사의 강제 전역, 법원이 부당하다고 판결한 이유 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/transinarmy</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/careworker</guid>
             <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
             <content:encoded><![CDATA[할 말 많은 요양보호사 노동 이야기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이스팩이라고 쓰고 미세플라스틱 폭탄이라고 읽는다 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/icepack</link>
-            <guid>https://articles.dotface.kr/icepack</guid>
-            <pubDate>Thu, 16 Sep 2021 21:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[주민센터 갖다주면 뜻밖에 선물이?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CJ ENM : 스튜디오드래곤과 티빙 넘어 SM엔터를 노리는 이유 (LongBlack)]]></title>
