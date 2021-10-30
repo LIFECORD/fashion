@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 00:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]불안이 만들어내는 착각]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</guid>
+            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['불안'은 부족함을 확대하는 돋보기와 같아서 크고 생생하게 느껴지지만 실제와 다를 때가 많다. 게티이미지뱅크 제공 할 일이 잔뜩 쌓여 있을 때면 쉴…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/10/30/16536.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 모든 생명은 결국 하나라는 믿음]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26546392&amp;oid=584&amp;aid=0000016452&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[왜 우리는 사소한 일에 화를 낼까? 분노 '버튼'을 쉽게 누르는 데는 몇 가지 특징이 있다. 게티이미지뱅크 제공 부정적인 정서 특히 ‘화’…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/12/14656.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]우리는 왜 '미루기의 달인'이 되어가는가]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535795&amp;oid=584&amp;aid=0000014534&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26535795&amp;oid=584&amp;aid=0000014534&amp;ptype=021</guid>
-            <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 고백하자면 필자는 미루기의 달인이다. 내일의 일은 내일의 내가 할 거라거나 어차피 마감이 가까워지면 글을 쓰게 되어 있다는 …]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/05/14534.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

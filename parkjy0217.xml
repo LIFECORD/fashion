@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-10-29T23:13:42.124Z</updated>
+    <updated>2021-10-30T00:37:35.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]불안이 만들어내는 착각]]></title>
+        <id>https://www.dongascience.com/news.php?idx=50224</id>
+        <link href="https://www.dongascience.com/news.php?idx=50224"/>
+        <updated>2021-10-30T00:37:12.842Z</updated>
+        <content type="html"><![CDATA[할 일이 잔뜩 쌓여 있을 때면 쉴 때도 마음 언저리가 불안해서 쉬는 것 같지 않을 때가 있다. 물론 불안하다고 해서 지금 일을 할 것은 아니지만 제대로 놀자니 왠지 찔려서 논 것도 아니고 일한 것도 아닌 애매한 휴식을 취하게 될 때가 적지 않다. 바쁘기 때문에 주어진 휴식시간 만큼은 마음 편히 아무 생각 없이 쉬면 좋을 텐데, 소중한 휴식 시간에도 마음은 여전히 쉬지 못한다는 것은 참 안타까운 일이다. 쉬는 것에 대해 죄책감을 느끼는 것도 안타까운 일이지만 어떤 사람들은 이상하게도 끊임없이 일을 하고 있으면서도 죄책감을 느낀다. 주...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 모든 생명은 결국 하나라는 믿음]]></title>
         <id>https://www.dongascience.com/news.php?idx=50104</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=48842"/>
         <updated>2021-10-07T10:14:52.817Z</updated>
         <content type="html"><![CDATA[직장 내 괴롭힘을 연구하는 연구자로부터 “어른이 더 하면 더 했지 덜 하지 않다”는 이야기를 들은 적이 있다. 어느 정도 나이가 들면 악의적으로 타인을 괴롭히는 일에 에너지를 쓰지 않을 정도의 성숙함은 자동으로 갖추게 될 것 같지만 그렇지 않다는 것이다. 그래도 사람이 크면 전반적으로 더 좋아질 거라는 믿음이 있던터라 내심 실망했던 기억이 있다. 생각해보면 진짜 나쁜 짓은 아이보다 어른이 많이 저지른다. 나쁜 짓인 줄 뻔히 알면서, 누군가를 못 살게 만들겠다는 악의를 가지고, 하지만 겉으로는 티나지 않게 뒤에서 교묘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
-        <id>https://www.dongascience.com/news.php?idx=48713</id>
-        <link href="https://www.dongascience.com/news.php?idx=48713"/>
-        <updated>2021-10-07T10:14:52.819Z</updated>
-        <content type="html"><![CDATA['프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를 합한 말로 인터넷상에서 ‘이런 거 보기가 불편하지 않냐’고 지적하면서 다른 사람의 공조를 이끌어내는 이들을 뜻하는 말이다. 이 단어가 시사하는 것처럼 우리는 의문을 제기하는 사람들을 고운 시선으로 바라보지 않는 편이다. 특히 사회적 차별처럼 누구나 가해자가 될 수 있는 이슈에 대해서는 문제를 제기하는 사람을 향해 너무 예민하게 굴지 말라고 화를 내며 의견을 묵살하곤 한다. ...]]></content>
     </entry>
 </feed>
