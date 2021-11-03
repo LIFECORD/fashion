@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 15:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 16:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/91</link>
             <guid>https://www.longblack.co/note/91</guid>
             <pubDate>Wed, 03 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[요 며칠 제 마음에 박힌 말이 하나 있어요.&nbsp;“그 문제가 어렵기 때문에 내가 존재하는 겁니다. 그 문제가 쉬웠다면 내가 필요 없습니다.”&amp;nbs<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[요 며칠 제 마음에 박힌 말이 하나 있어요.&nbsp;“그 문제가 어렵기 때문에 내가 존재하는 겁니다. 그 문제가 쉬웠다면 내가 필요 없습니다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[닉 클레그 “페이스북 혼자서는 문제를 풀 수 없습니다” (뉴스페퍼민트)]]></title>
