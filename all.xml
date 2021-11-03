@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/09/16/globalcitiesafterpandemic/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 9월 17일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아기들에게서 알게된 비디오 게임을 더 잘하는 방법 - 브라이언 크리스티안 (Brian Christian) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</link>
+            <guid>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</guid>
+            <pubDate>Wed, 03 Nov 2021 03:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[Brian Christian]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사막을 태양 전지판으로 덮으면 어떨까요? - 댄 콰틀러(Dan Kwartler) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Stefan Al]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정상적인 불안감과 불안장애는 어떻게 다를까요? (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko</link>
-            <guid>https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[61회. 임창정 (kakaoTV ─ 톡이나 할까)]]></title>

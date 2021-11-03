@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-11-03T02:28:03.551Z</updated>
+    <updated>2021-11-03T03:15:55.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아기들에게서 알게된 비디오 게임을 더 잘하는 방법 - 브라이언 크리스티안 (Brian Christian)]]></title>
+        <id>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</id>
+        <link href="https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko"/>
+        <updated>2021-11-03T03:14:09.188Z</updated>
+        <content type="html"><![CDATA[Brian Christian]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사막을 태양 전지판으로 덮으면 어떨까요? - 댄 콰틀러(Dan Kwartler)]]></title>
         <id>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko"/>
         <updated>2021-10-07T07:13:36.032Z</updated>
         <content type="html"><![CDATA[Stefan Al]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상적인 불안감과 불안장애는 어떻게 다를까요?]]></title>
-        <id>https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko</id>
-        <link href="https://www.ted.com/talks/jen_gunter_what_s_normal_anxiety_and_what_s_an_anxiety_disorder?language=ko"/>
-        <updated>2021-10-07T07:13:36.034Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
     </entry>
 </feed>
