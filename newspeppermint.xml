@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-11-04T22:13:38.484Z</updated>
+    <updated>2021-11-04T23:13:54.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체 부족 사태가 불러온 자동차 기업과 테크 기업 간 협업]]></title>
+        <id>https://newspeppermint.com/2021/11/04/semiconductorcartech/</id>
+        <link href="https://newspeppermint.com/2021/11/04/semiconductorcartech/"/>
+        <updated>2021-11-04T23:12:18.475Z</updated>
+        <content type="html"><![CDATA[2021년 11월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닉 클레그 “페이스북 혼자서는 문제를 풀 수 없습니다”]]></title>
         <id>https://newspeppermint.com/2021/11/01/wsjclegg/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/09/23/industrial-policy-is-back/"/>
         <updated>2021-10-07T21:10:06.119Z</updated>
         <content type="html"><![CDATA[2021년 9월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬데믹 이후 도시의 모습은 어떻게 바뀔까?]]></title>
-        <id>https://newspeppermint.com/2021/09/16/globalcitiesafterpandemic/</id>
-        <link href="https://newspeppermint.com/2021/09/16/globalcitiesafterpandemic/"/>
-        <updated>2021-10-07T21:10:06.119Z</updated>
-        <content type="html"><![CDATA[2021년 9월 17일]]></content>
     </entry>
 </feed>
