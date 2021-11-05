@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 20:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 21:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547971&amp;oid=584&amp;aid=0000016638&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547971&amp;oid=584&amp;aid=0000016638&amp;ptype=021</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비행기 사고 등 극한 상황에서 나와 타인의 경계가 모호해지고, 타인의 안전이 곧 내 안전인 것처럼 느껴지는 현상이 있다. 게티이미지뱅크 제공 인간…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/06/16638.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]불안이 만들어내는 착각]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547025&amp;oid=584&amp;aid=0000016536&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 많은 고민과 고심 끝에 무엇을 한다든가, 어떤 일을 시작할 때의 장점과 단점을 열 가지씩 써 가면서 철저하게 분석을 하거나, 그…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/19/14746.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]누군가 내 분노의 버튼을 누른다면]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26536367&amp;oid=584&amp;aid=0000014656&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26536367&amp;oid=584&amp;aid=0000014656&amp;ptype=021</guid>
-            <pubDate>Sat, 12 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[왜 우리는 사소한 일에 화를 낼까? 분노 '버튼'을 쉽게 누르는 데는 몇 가지 특징이 있다. 게티이미지뱅크 제공 부정적인 정서 특히 ‘화’…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/12/14656.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

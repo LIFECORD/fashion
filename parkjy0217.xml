@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-11-05T20:14:07.377Z</updated>
+    <updated>2021-11-05T21:12:20.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
+        <id>https://www.dongascience.com/news.php?idx=50373</id>
+        <link href="https://www.dongascience.com/news.php?idx=50373"/>
+        <updated>2021-11-05T21:12:00.818Z</updated>
+        <content type="html"><![CDATA[인간은 기본적으로 이기적인 존재라는 시각을 어렵지 않게 접할 수 있다. 영화나 드라마 등에서도 특히 재난이 터지면 다들 자기만 살겠다고 먼저 도망가는 장면들이 흔히 나타난다. 많은 사람들이 자신은 그렇게까지 이기적이지는 않지만 다른 사람들은 대부분 이기적이라고 여기기도 한다. 이기심을 자신의 안전과 안녕을 우선시하는 것이라고 정의한다면 인간이 이기적인 존재인 것은 당연한 것 같기도 하다. 하지만 보다 중요한 사실은 인간에게 있어 이기심이 이타심과 꼭 반대편에 놓여있는 것은 아니라는 것이다. 그러니까 이기적인 동시에 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학]불안이 만들어내는 착각]]></title>
         <id>https://www.dongascience.com/news.php?idx=50224</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=48996"/>
         <updated>2021-10-07T10:14:52.816Z</updated>
         <content type="html"><![CDATA[어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야 하냐는 질문을 받는다면 좋은 답을 내놓을 수 없을 것 같아서 기대가 크다. 아직 수업은 갈 길이 멀지만 벌써 중요한 몇 가지를 배울 수 있었다. ①집중할 수 있는 시간 고르기 대충 아침에 아니면 저녁에 더 힘이 넘친다고 생각하는 것이 아니라 실제로 내 생각이 가장 반짝거리는 구체적 시간대를 고르는 것이다. 예컨대 오전 6~8시, 오전 8~10시 같은 아침 시간대나 오후 12~2시 같은 점심 시간대, 오후 8~10시 같은 시간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]어른이 더 하면 더 했지 덜 하지 않다]]></title>
-        <id>https://www.dongascience.com/news.php?idx=48842</id>
-        <link href="https://www.dongascience.com/news.php?idx=48842"/>
-        <updated>2021-10-07T10:14:52.817Z</updated>
-        <content type="html"><![CDATA[직장 내 괴롭힘을 연구하는 연구자로부터 “어른이 더 하면 더 했지 덜 하지 않다”는 이야기를 들은 적이 있다. 어느 정도 나이가 들면 악의적으로 타인을 괴롭히는 일에 에너지를 쓰지 않을 정도의 성숙함은 자동으로 갖추게 될 것 같지만 그렇지 않다는 것이다. 그래도 사람이 크면 전반적으로 더 좋아질 거라는 믿음이 있던터라 내심 실망했던 기억이 있다. 생각해보면 진짜 나쁜 짓은 아이보다 어른이 많이 저지른다. 나쁜 짓인 줄 뻔히 알면서, 누군가를 못 살게 만들겠다는 악의를 가지고, 하지만 겉으로는 티나지 않게 뒤에서 교묘...]]></content>
     </entry>
 </feed>

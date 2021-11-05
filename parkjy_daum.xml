@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 박진영의 사회심리학</title>
-    <updated>2021-11-05T20:14:07.381Z</updated>
+    <updated>2021-11-05T21:12:20.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
+        <id>https://v.daum.net/v/20211106060044560</id>
+        <link href="https://v.daum.net/v/20211106060044560"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인간은 기본적으로 이기적인 존재라는 시각을 어렵지 않게 접할 수 있다. 영화나 드라마 등에서도 특히 재난이 터지면 다들 자기만 살겠다고 먼저 도망가는 장면들이 흔히 나타난다. 많은 사람들이 자신은 그렇게까지 이기적이지는 않지만&nbsp;다른 사람들은 대부분 이기적이라고 여기기도 한다.&nbsp; 이기심을 자신의 안전과 안녕을 우선시하는 것이라고 정의한다면 인간이 이기적인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불안이 만들어내는 착각]]></title>
         <id>https://v.daum.net/v/20211030091013675</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210814104012703"/>
         <updated>2021-10-07T07:14:19.909Z</updated>
         <content type="html"><![CDATA['프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를 합한 말로 인터넷상에서 ‘이런 거 보기가 불편하지 않냐’고 지적하면서 다른 사람의 공조를 이끌어내는 이들을 뜻하는 말이다. 이 단어가 시사하는 것처럼 우리는 의문을 제기하는 사람들을 고운 시선으로 바라보지 않는 편이다. 특히 사회적 차별처럼 누구나 가해자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정한 위로와 조언의 조건]]></title>
-        <id>https://v.daum.net/v/20210807060035898</id>
-        <link href="https://v.daum.net/v/20210807060035898"/>
-        <updated>2021-10-07T07:14:19.910Z</updated>
-        <content type="html"><![CDATA[조언이나 도움이 의외로 실질적인&nbsp;도움이 별로 되지 않음을 보여주는 연구들이 있다. 이런 상황이 벌어지는&nbsp;이유에 대해 학자들은 우선&nbsp;상대가 ‘요청한’ 조언인가 여부가 중요하게 작용한다고 보고 있다.&nbsp; 먼저 청하지 않았는데 도움이나 조언이 주어지는 상황에서는 “나를 무능하다고 생각하나” 같은 부정적인 메시지를 받게 되므로 그&nbsp;대상인 사람은 자신감의 하락을 겪]]></content>
     </entry>
 </feed>
