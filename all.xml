@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 23:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 00:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/97</link>
             <guid>https://www.longblack.co/note/97</guid>
             <pubDate>Tue, 09 Nov 2021 15:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 여드름 심하신 분? 저요… 요즘 계속 마스크 쓰고 다니잖아요. 그래서 턱드름이 장난 아니에요. 저 같은 사람이 많아서 마스크네Maskne라는 신조어도 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[혹시 여드름 심하신 분? 저요… 요즘 계속 마스크 쓰고 다니잖아요. 그래서 턱드름이 장난 아니에요. 저 같은 사람이 많아서 마스크네Maskne라<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[반도체 부족 사태가 불러온 자동차 기업과 테크 기업 간 협업 (뉴스페퍼민트)]]></title>
