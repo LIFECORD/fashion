@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-11-12T20:15:59.986Z</updated>
+    <updated>2021-11-12T21:12:43.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학]서로의 내면을 열었을 때]]></title>
+        <id>https://www.dongascience.com/news.php?idx=50485</id>
+        <link href="https://www.dongascience.com/news.php?idx=50485"/>
+        <updated>2021-11-12T21:12:21.828Z</updated>
+        <content type="html"><![CDATA[누군가와 친해지는 과정은 곧 속을 열어서 보여주는 과정이다. 처음에는 오늘 날씨, 직업, 사는 곳 같은 피상적인 이야기를 하지만 만남이 이어지면 점점 속 깊은 이야기를 하게 된다. 지금 어떤 생각과 감정을 느끼고 있는지 같은 내적 정보를 교류할 때 비로소 심리적 거리감이 줄어들기 시작한다. 겉으로 드러나는 피상적인 정보들은 진짜 '나'에 대한 정보를 주지 않는 반면 나의 생각, 감정, 취향, 가치관이야 말로 내가 어떤 사람인지 알려주기 때문이다. 반대로 여러 번 만나더라도 내적 교류가 일어나지 않아서 서로 어떤 생각을 하고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
         <id>https://www.dongascience.com/news.php?idx=50373</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=49138"/>
         <updated>2021-10-07T10:14:52.815Z</updated>
         <content type="html"><![CDATA[안타깝지만 모든 아이들이 사랑받고 크는 것은 아니다. 조금이라도 따듯한 시선을 얻기 위해 매 순간 자신의 가치를 증명하려 애쓰는 아이들이 있다. 예컨대 보수적인 집안에서 딸로 태어나 사랑보다 차별에 먼저 익숙해지고 그럼에도 양육자의 칭찬 한 마디가 고파서 '좋은 성적' 같이 뛰어난 성과를 보이는 데 집착하게 된 경우, 또 어린 나이에도 불구하고 양육자의 감정 상태나 양육자가 자신에게 원하는 바를 면밀히 파악해서 착한 아이가 되는 데 집착하게 된 경우(나이에 비해 성숙하다거나 일찍 철이 들었다는 말을 듣는 아이들), 그러...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜]]></title>
-        <id>https://www.dongascience.com/news.php?idx=48996</id>
-        <link href="https://www.dongascience.com/news.php?idx=48996"/>
-        <updated>2021-10-07T10:14:52.816Z</updated>
-        <content type="html"><![CDATA[어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야 하냐는 질문을 받는다면 좋은 답을 내놓을 수 없을 것 같아서 기대가 크다. 아직 수업은 갈 길이 멀지만 벌써 중요한 몇 가지를 배울 수 있었다. ①집중할 수 있는 시간 고르기 대충 아침에 아니면 저녁에 더 힘이 넘친다고 생각하는 것이 아니라 실제로 내 생각이 가장 반짝거리는 구체적 시간대를 고르는 것이다. 예컨대 오전 6~8시, 오전 8~10시 같은 아침 시간대나 오후 12~2시 같은 점심 시간대, 오후 8~10시 같은 시간...]]></content>
     </entry>
 </feed>

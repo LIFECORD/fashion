@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 박진영의 사회심리학</title>
-    <updated>2021-11-12T20:15:59.943Z</updated>
+    <updated>2021-11-12T21:12:43.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서로의 내면을 열었을 때]]></title>
+        <id>https://v.daum.net/v/20211113060013040</id>
+        <link href="https://v.daum.net/v/20211113060013040"/>
+        <updated>2021-11-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[누군가와 친해지는 과정은 곧 속을 열어서 보여주는 과정이다. 처음에는 오늘 날씨, 직업, 사는 곳 같은 피상적인 이야기를 하지만 만남이 이어지면 점점 속 깊은 이야기를 하게 된다. 지금 어떤 생각과 감정을 느끼고 있는지 같은 내적 정보를 교류할 때 비로소 심리적 거리감이 줄어들기 시작한다. 겉으로 드러나는 피상적인 정보들은 진짜 '나'에 대한 정보를 주지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
         <id>https://v.daum.net/v/20211106060044560</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210821060022094"/>
         <updated>2021-10-07T07:14:19.907Z</updated>
         <content type="html"><![CDATA[직장 내 괴롭힘을 연구하는 연구자로부터 “어른이 더 하면 더 했지 덜 하지 않다”는 이야기를 들은 적이 있다. 어느 정도 나이가 들면 악의적으로 타인을 괴롭히는 일에 에너지를 쓰지 않을 정도의 성숙함은 자동으로 갖추게 될 것 같지만 그렇지 않다는 것이다. 그래도 사람이 크면 전반적으로 더 좋아질 거라는 믿음이 있던터라&nbsp;내심 실망했던 기억이 있다.&nbsp; 생각해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까만 양을 색출하자는 진짜 까만 양들의 심리]]></title>
-        <id>https://v.daum.net/v/20210814104012703</id>
-        <link href="https://v.daum.net/v/20210814104012703"/>
-        <updated>2021-10-07T07:14:19.909Z</updated>
-        <content type="html"><![CDATA['프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를 합한 말로 인터넷상에서 ‘이런 거 보기가 불편하지 않냐’고 지적하면서 다른 사람의 공조를 이끌어내는 이들을 뜻하는 말이다. 이 단어가 시사하는 것처럼 우리는 의문을 제기하는 사람들을 고운 시선으로 바라보지 않는 편이다. 특히 사회적 차별처럼 누구나 가해자]]></content>
     </entry>
 </feed>

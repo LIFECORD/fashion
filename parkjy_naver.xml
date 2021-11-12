@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 21:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학]서로의 내면을 열었을 때]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26548779&amp;oid=584&amp;aid=0000016709&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26548779&amp;oid=584&amp;aid=0000016709&amp;ptype=021</guid>
+            <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[함께 울고 웃는 등 내적 경험을 공유한 사람들이 단순히 사는 지역이나 나이, 인종, 소득수준이 같은 사람보다 서로 더 큰 호감도를 느끼는 것으로 나…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/13/16709.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26547971&amp;oid=584&amp;aid=0000016638&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 하루하루를 보내기가 참 버겁다고 생각했던 적이 있다. ‘사는 건 왜 이렇게 힘들까? 그래, 산다는 건 원래 힘든 거지’…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/26/14836.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 생각없이 해야 잘 되는 일]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</guid>
-            <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 많은 고민과 고심 끝에 무엇을 한다든가, 어떤 일을 시작할 때의 장점과 단점을 열 가지씩 써 가면서 철저하게 분석을 하거나, 그…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/19/14746.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

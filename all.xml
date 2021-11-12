@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 20:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 21:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -741,6 +741,13 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F29aa9d2bf4ec02e6fc0075e999c9f4d5e1aab49a" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[박진영의 사회심리학]서로의 내면을 열었을 때 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
+            <link>https://www.dongascience.com/news.php?idx=50485</link>
+            <guid>https://www.dongascience.com/news.php?idx=50485</guid>
+            <pubDate>Fri, 12 Nov 2021 21:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[누군가와 친해지는 과정은 곧 속을 열어서 보여주는 과정이다. 처음에는 오늘 날씨, 직업, 사는 곳 같은 피상적인 이야기를 하지만 만남이 이어지면 점점 속 깊은 이야기를 하게 된다. 지금 어떤 생각과 감정을 느끼고 있는지 같은 내적 정보를 교류할 때 비로소 심리적 거리감이 줄어들기 시작한다. 겉으로 드러나는 피상적인 정보들은 진짜 '나'에 대한 정보를 주지 않는 반면 나의 생각, 감정, 취향, 가치관이야 말로 내가 어떤 사람인지 알려주기 때문이다. 반대로 여러 번 만나더라도 내적 교류가 일어나지 않아서 서로 어떤 생각을 하고 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
             <link>https://www.dongascience.com/news.php?idx=50373</link>
             <guid>https://www.dongascience.com/news.php?idx=50373</guid>
@@ -804,11 +811,12 @@
             <content:encoded><![CDATA[안타깝지만 모든 아이들이 사랑받고 크는 것은 아니다. 조금이라도 따듯한 시선을 얻기 위해 매 순간 자신의 가치를 증명하려 애쓰는 아이들이 있다. 예컨대 보수적인 집안에서 딸로 태어나 사랑보다 차별에 먼저 익숙해지고 그럼에도 양육자의 칭찬 한 마디가 고파서 '좋은 성적' 같이 뛰어난 성과를 보이는 데 집착하게 된 경우, 또 어린 나이에도 불구하고 양육자의 감정 상태나 양육자가 자신에게 원하는 바를 면밀히 파악해서 착한 아이가 되는 데 집착하게 된 경우(나이에 비해 성숙하다거나 일찍 철이 들었다는 말을 듣는 아이들), 그러...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 글쓰기 세미나에서 배운 삶의 지혜 (동아사이언스 ─ 박진영 심리학 칼럼니스트)]]></title>
-            <link>https://www.dongascience.com/news.php?idx=48996</link>
-            <guid>https://www.dongascience.com/news.php?idx=48996</guid>
-            <pubDate>Sat, 25 Sep 2021 09:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[어찌저찌 기회가 닿아 글쓰기 세미나를 듣게 됐다. 글 쓰는 일을 나름 오래 하고 있지만 막상 글을 잘 쓰기 위해서는 어떻게 해야 하냐는 질문을 받는다면 좋은 답을 내놓을 수 없을 것 같아서 기대가 크다. 아직 수업은 갈 길이 멀지만 벌써 중요한 몇 가지를 배울 수 있었다. ①집중할 수 있는 시간 고르기 대충 아침에 아니면 저녁에 더 힘이 넘친다고 생각하는 것이 아니라 실제로 내 생각이 가장 반짝거리는 구체적 시간대를 고르는 것이다. 예컨대 오전 6~8시, 오전 8~10시 같은 아침 시간대나 오후 12~2시 같은 점심 시간대, 오후 8~10시 같은 시간...]]></content:encoded>
+            <title><![CDATA[[박진영의 사회심리학]서로의 내면을 열었을 때 (동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스)]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26548779&amp;oid=584&amp;aid=0000016709&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26548779&amp;oid=584&amp;aid=0000016709&amp;ptype=021</guid>
+            <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[함께 울고 웃는 등 내적 경험을 공유한 사람들이 단순히 사는 지역이나 나이, 인종, 소득수준이 같은 사람보다 서로 더 큰 호감도를 느끼는 것으로 나…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/13/16709.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 죽음의 문턱에서도 인간은 유대감을 형성한다 (동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스)]]></title>
@@ -963,12 +971,11 @@
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/26/14836.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박진영의 사회심리학] 생각없이 해야 잘 되는 일 (동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스)]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537009&amp;oid=584&amp;aid=0000014746&amp;ptype=021</guid>
-            <pubDate>Thu, 09 Sep 2021 18:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 많은 고민과 고심 끝에 무엇을 한다든가, 어떤 일을 시작할 때의 장점과 단점을 열 가지씩 써 가면서 철저하게 분석을 하거나, 그…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/19/14746.jpg?type=nf112_70" length="0" type="image/jpg"/>
+            <title><![CDATA[서로의 내면을 열었을 때 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
+            <link>https://v.daum.net/v/20211113060013040</link>
+            <guid>https://v.daum.net/v/20211113060013040</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[누군가와 친해지는 과정은 곧 속을 열어서 보여주는 과정이다. 처음에는 오늘 날씨, 직업, 사는 곳 같은 피상적인 이야기를 하지만 만남이 이어지면 점점 속 깊은 이야기를 하게 된다. 지금 어떤 생각과 감정을 느끼고 있는지 같은 내적 정보를 교류할 때 비로소 심리적 거리감이 줄어들기 시작한다. 겉으로 드러나는 피상적인 정보들은 진짜 '나'에 대한 정보를 주지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[죽음의 문턱에서도 인간은 유대감을 형성한다 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
@@ -1046,13 +1053,6 @@
             <guid>https://v.daum.net/v/20210821060022094</guid>
             <pubDate>Sun, 26 Sep 2021 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[직장 내 괴롭힘을 연구하는 연구자로부터 “어른이 더 하면 더 했지 덜 하지 않다”는 이야기를 들은 적이 있다. 어느 정도 나이가 들면 악의적으로 타인을 괴롭히는 일에 에너지를 쓰지 않을 정도의 성숙함은 자동으로 갖추게 될 것 같지만 그렇지 않다는 것이다. 그래도 사람이 크면 전반적으로 더 좋아질 거라는 믿음이 있던터라&nbsp;내심 실망했던 기억이 있다.&nbsp; 생각해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[까만 양을 색출하자는 진짜 까만 양들의 심리 (다음 뉴스 ─ 박진영의 사회심리학)]]></title>
-            <link>https://v.daum.net/v/20210814104012703</link>
-            <guid>https://v.daum.net/v/20210814104012703</guid>
-            <pubDate>Sun, 26 Sep 2021 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA['프로불편러'는 전문가를 의미하는 접두사 ‘pro’와 ‘불편’ 그리고 사람을 뜻하는 접미사 ‘-er’를 합한 말로 인터넷상에서 ‘이런 거 보기가 불편하지 않냐’고 지적하면서 다른 사람의 공조를 이끌어내는 이들을 뜻하는 말이다. 이 단어가 시사하는 것처럼 우리는 의문을 제기하는 사람들을 고운 시선으로 바라보지 않는 편이다. 특히 사회적 차별처럼 누구나 가해자]]></content:encoded>
         </item>
     </channel>
 </rss>
