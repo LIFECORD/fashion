@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-11-16T01:57:03.283Z</updated>
+    <updated>2021-11-16T02:28:29.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친구를 위해서 무엇을 해줄 수 있을까]]></title>
+        <id>https://articles.dotface.kr/transgendersand6</id>
+        <link href="https://articles.dotface.kr/transgendersand6"/>
+        <updated>2021-11-16T02:26:31.780Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [미래 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차별 얘기도 필요해요, 사랑 얘긴 더 필요하고요]]></title>
+        <id>https://articles.dotface.kr/transgendersand5</id>
+        <link href="https://articles.dotface.kr/transgendersand5"/>
+        <updated>2021-11-16T02:26:31.784Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [연애 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곧 새로운 주민등록증이 생길 거야]]></title>
+        <id>https://articles.dotface.kr/transgendersand4</id>
+        <link href="https://articles.dotface.kr/transgendersand4"/>
+        <updated>2021-11-16T02:26:31.784Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [일상 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트친소: 트랜스젠더의 (믿음직한) 친구를 소개합니다]]></title>
+        <id>https://articles.dotface.kr/transgendersand3</id>
+        <link href="https://articles.dotface.kr/transgendersand3"/>
+        <updated>2021-11-16T02:26:31.785Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [앨라이 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성별을 바꿀 수 있다고? 어떻게?]]></title>
+        <id>https://articles.dotface.kr/transgendersand2</id>
+        <link href="https://articles.dotface.kr/transgendersand2"/>
+        <updated>2021-11-16T02:26:31.789Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [회복 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남자인지 여자인지 그걸 누가 결정하는데?]]></title>
+        <id>https://articles.dotface.kr/transgendersand1</id>
+        <link href="https://articles.dotface.kr/transgendersand1"/>
+        <updated>2021-11-16T02:26:31.789Z</updated>
+        <content type="html"><![CDATA[트랜스젠더와 동행하기 [성별 편]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘도 성교육 제대로 안 하나?]]></title>
         <id>https://articles.dotface.kr/sexualityeducation</id>
@@ -32,47 +74,5 @@
         <link href="https://articles.dotface.kr/wheelchairview1"/>
         <updated>2021-10-20T02:00:24.657Z</updated>
         <content type="html"><![CDATA[휠체어 특공대와 함께 미아사거리역 주변을 돌아보았다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각자 작은 불빛을 켜서, 서로의 안전한 등대가 될 수 있다면]]></title>
-        <id>https://articles.dotface.kr/jeram3</id>
-        <link href="https://articles.dotface.kr/jeram3"/>
-        <updated>2021-10-08T02:36:06.974Z</updated>
-        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 3편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“살려고 군대 밖으로 나왔는데, 온 세상이 군대 같았어요"]]></title>
-        <id>https://articles.dotface.kr/jeram2</id>
-        <link href="https://articles.dotface.kr/jeram2"/>
-        <updated>2021-10-08T02:36:06.974Z</updated>
-        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 2편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2008년 9월 23일, 나는 군 정신병원에 갇혔다]]></title>
-        <id>https://articles.dotface.kr/jeram1</id>
-        <link href="https://articles.dotface.kr/jeram1"/>
-        <updated>2021-10-08T02:36:06.974Z</updated>
-        <content type="html"><![CDATA[1998년부터 2021년까지, 군대 내 성소수자 생존기 1편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 이후, 쿠팡에서 퇴근한 아들이 눈을 뜨지 않았다]]></title>
-        <id>https://articles.dotface.kr/coupang-death</id>
-        <link href="https://articles.dotface.kr/coupang-death"/>
-        <updated>2021-10-07T09:09:52.558Z</updated>
-        <content type="html"><![CDATA[고 장덕준 씨의 부모님이 1년 째 계속 싸우는 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 존재는 농담이 아니다]]></title>
-        <id>https://articles.dotface.kr/equalityact4</id>
-        <link href="https://articles.dotface.kr/equalityact4"/>
-        <updated>2021-10-07T09:09:52.563Z</updated>
-        <content type="html"><![CDATA[한 연극인이 차별금지법에 대해 목소리를 높이기까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필수 노동자라면서 존중해주진 않아요]]></title>
-        <id>https://articles.dotface.kr/careworker</id>
-        <link href="https://articles.dotface.kr/careworker"/>
-        <updated>2021-10-07T09:09:52.563Z</updated>
-        <content type="html"><![CDATA[할 말 많은 요양보호사 노동 이야기]]></content>
     </entry>
 </feed>
