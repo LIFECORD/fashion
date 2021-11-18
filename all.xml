@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 9월 25일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왜 어떤 사람들은 그렇게 심하게 코를 골까요? - 알레이나 본(Alayna Vaughan) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/alayna_vaughan_why_do_some_people_snore_so_loudly?language=ko</link>
+            <guid>https://www.ted.com/talks/alayna_vaughan_why_do_some_people_snore_so_loudly?language=ko</guid>
+            <pubDate>Thu, 18 Nov 2021 02:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[Alayna Vaughan]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아기들에게서 알게된 비디오 게임을 더 잘하는 방법 - 브라이언 크리스티안 (Brian Christian) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</guid>
             <pubDate>Tue, 28 Sep 2021 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[Jorge Mañes Rubio]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[목재로 고층 건물을 만들 수 있을까요? - 스테판 알(Stefan Al) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</link>
-            <guid>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Stefan Al]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>

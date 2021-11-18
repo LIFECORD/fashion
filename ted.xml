@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-11-18T01:57:19.011Z</updated>
+    <updated>2021-11-18T02:28:38.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 어떤 사람들은 그렇게 심하게 코를 골까요? - 알레이나 본(Alayna Vaughan)]]></title>
+        <id>https://www.ted.com/talks/alayna_vaughan_why_do_some_people_snore_so_loudly?language=ko</id>
+        <link href="https://www.ted.com/talks/alayna_vaughan_why_do_some_people_snore_so_loudly?language=ko"/>
+        <updated>2021-11-18T02:27:52.077Z</updated>
+        <content type="html"><![CDATA[Alayna Vaughan]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아기들에게서 알게된 비디오 게임을 더 잘하는 방법 - 브라이언 크리스티안 (Brian Christian)]]></title>
         <id>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</id>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko"/>
         <updated>2021-10-07T07:13:36.031Z</updated>
         <content type="html"><![CDATA[Jorge Mañes Rubio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목재로 고층 건물을 만들 수 있을까요? - 스테판 알(Stefan Al)]]></title>
-        <id>https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko</id>
-        <link href="https://www.ted.com/talks/stefan_al_could_we_build_a_wooden_skyscraper?language=ko"/>
-        <updated>2021-10-07T07:13:36.032Z</updated>
-        <content type="html"><![CDATA[Stefan Al]]></content>
     </entry>
 </feed>
