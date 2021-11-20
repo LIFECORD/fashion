@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 06:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 누군가 좋게 바라봐주는 것만으로도 좋은 사람이 된다]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26549481&amp;oid=584&amp;aid=0000016791&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26549481&amp;oid=584&amp;aid=0000016791&amp;ptype=021</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[픽사베이 제공 행복한 사람들은 비슷한 모습으로 행복하지만 불행한 사람들은 제각기 다른 이유로 불행하다는 말이 있다. 그럼에도 예컨대 커플들의 경…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/11/20/16791.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학]서로의 내면을 열었을 때]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26548779&amp;oid=584&amp;aid=0000016709&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[게티이미지뱅크 제공 산다는 것은 곧 해결해야 할 일, 즉 과제들의 연속이고 과제란 곧 스트레스 반응의 다른 말이므로 산다는 것은 곧 스트레스인가 …]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/03/14944.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학] 나는 왜 힘들까?]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537495&amp;oid=584&amp;aid=0000014836&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26537495&amp;oid=584&amp;aid=0000014836&amp;ptype=021</guid>
-            <pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 하루하루를 보내기가 참 버겁다고 생각했던 적이 있다. ‘사는 건 왜 이렇게 힘들까? 그래, 산다는 건 원래 힘든 거지’…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/06/26/14836.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
