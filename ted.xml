@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-11-20T19:12:22.476Z</updated>
+    <updated>2021-11-20T20:15:21.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://www.ted.com/talks/tanya_boucicaut_can_love_and_independence_coexist?language=ko"/>
         <updated>2021-10-14T15:13:58.360Z</updated>
         <content type="html"><![CDATA[Tanya Boucicaut]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20년 후에 어디에서 살 수 있을까요? - 캐롤 파르봇코 & 인그리드 보아스(Carol Farbotko and Ingrid Boas)]]></title>
+        <id>https://www.ted.com/talks/carol_farbotko_and_ingrid_boas_where_will_you_be_able_to_live_in_20_years?language=ko</id>
+        <link href="https://www.ted.com/talks/carol_farbotko_and_ingrid_boas_where_will_you_be_able_to_live_in_20_years?language=ko"/>
+        <updated>2021-11-20T20:13:45.517Z</updated>
+        <content type="html"><![CDATA[Carol Farbotko and Ingrid Boas]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패망한 쿠시 왕국에 일어난 일 - 제프 엠벌링(Geoff Emberling)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko"/>
         <updated>2021-10-07T07:13:36.025Z</updated>
         <content type="html"><![CDATA[Almudena Toral]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역사상 최고로 악랄했던 왕]]></title>
-        <id>https://www.ted.com/talks/georges_nzongola_ntalaja_history_s_deadliest_king?language=ko</id>
-        <link href="https://www.ted.com/talks/georges_nzongola_ntalaja_history_s_deadliest_king?language=ko"/>
-        <updated>2021-10-07T07:13:36.027Z</updated>
-        <content type="html"><![CDATA[Georges Nzongola-Ntalaja]]></content>
     </entry>
 </feed>
