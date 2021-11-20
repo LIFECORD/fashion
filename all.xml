@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 18:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 19:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,20 @@
             <guid>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 9월 25일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어떤 항목에 표시해야 할까요? (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/mona_chalabi_which_box_do_i_check?language=ko</link>
+            <guid>https://www.ted.com/talks/mona_chalabi_which_box_do_i_check?language=ko</guid>
+            <pubDate>Sat, 20 Nov 2021 19:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[Mona Chalabi]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 나은 수면이 더 나은 성생활을 의미하는 이유 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/matt_walker_why_better_sleep_means_a_better_sex_life?language=ko</link>
+            <guid>https://www.ted.com/talks/matt_walker_why_better_sleep_means_a_better_sex_life?language=ko</guid>
+            <pubDate>Sat, 20 Nov 2021 19:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[Matt Walker]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왜 어떤 사람들은 그렇게 심하게 코를 골까요? - 알레이나 본(Alayna Vaughan) (TED Talks 한국어)]]></title>
@@ -405,20 +419,6 @@
             <guid>https://www.ted.com/talks/georges_nzongola_ntalaja_history_s_deadliest_king?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Georges Nzongola-Ntalaja]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클렌즈는 여러분의 몸을 해독할 수 없습니다 - 하지만 이건 가능합니다 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will?language=ko</link>
-            <guid>https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Jen Gunter]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우주에 갈 때 우리는 무엇을 챙기고, 무엇을 남기고 와야 할까요? (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</link>
-            <guid>https://www.ted.com/talks/jorge_manes_rubio_what_should_humans_take_to_space_and_leave_behind?language=ko</guid>
-            <pubDate>Tue, 28 Sep 2021 04:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[Jorge Mañes Rubio]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
