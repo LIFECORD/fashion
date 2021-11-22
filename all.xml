@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 21:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 22:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,6 +202,13 @@
             <guid>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</guid>
             <pubDate>Thu, 21 Oct 2021 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[Dan Kwartler]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화석 연료 산업계의 고약한 속임수 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/tzeporah_berman_the_bad_math_of_the_fossil_fuel_industry?language=ko</link>
+            <guid>https://www.ted.com/talks/tzeporah_berman_the_bad_math_of_the_fossil_fuel_industry?language=ko</guid>
+            <pubDate>Mon, 22 Nov 2021 22:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[Tzeporah Berman]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사랑과 독립은 공존 할 수 있을까요? - 타냐 부시콧 (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</guid>
             <pubDate>Mon, 20 Sep 2021 08:23:19 GMT</pubDate>
             <content:encoded><![CDATA[Andrea Berchowitz]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트라우마에 대한 다큐멘터리와 치료를 위한 공간을 만드는 것 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</link>
-            <guid>https://www.ted.com/talks/almudena_toral_documentary_films_that_explore_trauma_and_make_space_for_healing?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Almudena Toral]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
