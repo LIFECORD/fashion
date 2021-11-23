@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,11 @@
             <content:encoded><![CDATA[트랜스젠더와 동행하기 [일상 편]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매거진 <B> : 브랜드에 대한 10년의 기록, 브랜드가 되었다 (LongBlack)]]></title>
-            <link>https://www.longblack.co/note/112</link>
-            <guid>https://www.longblack.co/note/112</guid>
-            <pubDate>Mon, 22 Nov 2021 15:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[매거진 &lt;B&gt;가 10주년을 맞았습니다. 10주년 전시회가 열리고 있는 남산 자락의 복합 문화공간 피크닉Piknic을 올라가면서 프라이탁<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스타벅스 :  1위 커피샵이 돈을 벌고 굴리는 법, 재무제표로 읽다 (LongBlack)]]></title>
+            <link>https://www.longblack.co/note/114</link>
+            <guid>https://www.longblack.co/note/114</guid>
+            <pubDate>Tue, 23 Nov 2021 15:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[또 돌아왔어. 스타벅스Starbucks 다이어리 시즌 말이야. 나 또 e-프리퀀시(쿠폰) 모으기 시작했잖아. 그 핑계로 한동<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다” (뉴스페퍼민트)]]></title>
