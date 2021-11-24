@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-11-24T00:39:50.034Z</updated>
+    <updated>2021-11-24T01:58:41.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어른이 되니까, 죄인이 되었다]]></title>
+        <id>https://articles.dotface.kr/unregistered5</id>
+        <link href="https://articles.dotface.kr/unregistered5"/>
+        <updated>2021-11-24T01:55:11.083Z</updated>
+        <content type="html"><![CDATA[한 번도 가본 적 없던 어머니의 나라에서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인이랑 뭐가 다르냐고 묻고 싶어요]]></title>
+        <id>https://articles.dotface.kr/unregistered4</id>
+        <link href="https://articles.dotface.kr/unregistered4"/>
+        <updated>2021-11-24T01:55:11.084Z</updated>
+        <content type="html"><![CDATA[신분증 하나를 만들기 위한 고달픈 여정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 한국에서 살 자격이 없는 건가요?]]></title>
+        <id>https://articles.dotface.kr/unregistered3</id>
+        <link href="https://articles.dotface.kr/unregistered3"/>
+        <updated>2021-11-24T01:55:11.098Z</updated>
+        <content type="html"><![CDATA[스무 살 달리아의 불안, 좌절, 미래와 꿈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 사람은 집이 1670채라는데, 대통령 후보는 어떻게 생각해?]]></title>
         <id>https://articles.dotface.kr/housing2022-6</id>
@@ -41,38 +62,17 @@
         <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [유형 편]]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령이 바뀌면 내 집이 생길까?]]></title>
-        <id>https://articles.dotface.kr/housing2022-1</id>
-        <link href="https://articles.dotface.kr/housing2022-1"/>
-        <updated>2021-11-21T12:17:22.850Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [시작 편]]]></content>
+        <title type="html"><![CDATA[이 아이들은 스무 살이 되면 한국에서 쫓겨납니다]]></title>
+        <id>https://articles.dotface.kr/unregistered2</id>
+        <link href="https://articles.dotface.kr/unregistered2"/>
+        <updated>2021-11-24T01:55:11.108Z</updated>
+        <content type="html"><![CDATA[당신이 알아야 할 미등록 이주 아동에 대한 최소한의 지식 [졸업 이후 편]]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령 누구 뽑아야 됨? 당신의 선택, 우리가 도울게요]]></title>
-        <id>https://articles.dotface.kr/vote2022</id>
-        <link href="https://articles.dotface.kr/vote2022"/>
-        <updated>2021-11-21T12:17:22.851Z</updated>
-        <content type="html"><![CDATA[2022년 대선 캐비닛, 지금부터 시작합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구를 위해서 무엇을 해줄 수 있을까]]></title>
-        <id>https://articles.dotface.kr/transgendersand6</id>
-        <link href="https://articles.dotface.kr/transgendersand6"/>
-        <updated>2021-11-16T02:26:31.780Z</updated>
-        <content type="html"><![CDATA[트랜스젠더와 동행하기 [미래 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차별 얘기도 필요해요, 사랑 얘긴 더 필요하고요]]></title>
-        <id>https://articles.dotface.kr/transgendersand5</id>
-        <link href="https://articles.dotface.kr/transgendersand5"/>
-        <updated>2021-11-16T02:26:31.784Z</updated>
-        <content type="html"><![CDATA[트랜스젠더와 동행하기 [연애 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 새로운 주민등록증이 생길 거야]]></title>
-        <id>https://articles.dotface.kr/transgendersand4</id>
-        <link href="https://articles.dotface.kr/transgendersand4"/>
-        <updated>2021-11-16T02:26:31.784Z</updated>
-        <content type="html"><![CDATA[트랜스젠더와 동행하기 [일상 편]]]></content>
+        <title type="html"><![CDATA[핸드폰도, QR코드도 만들 수 없는 아이들]]></title>
+        <id>https://articles.dotface.kr/unregistered1</id>
+        <link href="https://articles.dotface.kr/unregistered1"/>
+        <updated>2021-11-24T01:55:11.109Z</updated>
+        <content type="html"><![CDATA[당신이 알아야 할 미등록 이주 아동에 대한 최소한의 지식 [기초 편]]]></content>
     </entry>
 </feed>
