@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,13 @@
             <content:encoded><![CDATA[Brian Christian]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어째서 2,500년 된 이 난파선은 이렇게 보존이 잘 되었을까요? - 헬렌 파(Helen Farr) & 존 아담스(Jon Adams) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko</link>
+            <guid>https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko</guid>
+            <pubDate>Wed, 24 Nov 2021 03:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[Helen Farr and Jon Adams]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사막을 태양 전지판으로 덮으면 어떨까요? - 댄 콰틀러(Dan Kwartler) (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</link>
             <guid>https://www.ted.com/talks/dan_kwartler_why_don_t_we_cover_the_desert_with_solar_panels?language=ko</guid>
@@ -372,6 +379,13 @@
             <content:encoded><![CDATA[Jean-Baptiste P. Koehl]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[독있는 며느리발톱, 오리 부리와 가시털이 난 생식기: 지구 상 가장 이상한 생물, 오리너구리의 1년 - 길라드 비노(Gilad Bino) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko</link>
+            <guid>https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko</guid>
+            <pubDate>Wed, 24 Nov 2021 03:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[Gilad Bino]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탄소배출 제로의 세상을 만들기 위한 세 가지 규칙 (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</link>
             <guid>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</guid>
@@ -405,20 +419,6 @@
             <guid>https://www.ted.com/talks/alok_sharma_why_cop26_is_our_best_chance_for_a_greener_future?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Alok Sharma]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정부는 어떻게 허공에서 돈을 만들어내는 걸까요?- 조나단 스미스(Jonathan Smith) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko</link>
-            <guid>https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Jonathan Smith]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[완경과 직장 내 성 불평등의 연관성 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</link>
-            <guid>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</guid>
-            <pubDate>Mon, 20 Sep 2021 08:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[Andrea Berchowitz]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>

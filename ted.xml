@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-11-24T02:29:04.359Z</updated>
+    <updated>2021-11-24T03:14:23.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko"/>
         <updated>2021-11-03T03:14:09.188Z</updated>
         <content type="html"><![CDATA[Brian Christian]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어째서 2,500년 된 이 난파선은 이렇게 보존이 잘 되었을까요? - 헬렌 파(Helen Farr) & 존 아담스(Jon Adams)]]></title>
+        <id>https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko</id>
+        <link href="https://www.ted.com/talks/helen_farr_and_jon_adams_why_is_this_2_500_year_old_shipwreck_so_well_preserved?language=ko"/>
+        <updated>2021-11-24T03:13:44.240Z</updated>
+        <content type="html"><![CDATA[Helen Farr and Jon Adams]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사막을 태양 전지판으로 덮으면 어떨까요? - 댄 콰틀러(Dan Kwartler)]]></title>
@@ -209,6 +216,13 @@
         <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[독있는 며느리발톱, 오리 부리와 가시털이 난 생식기: 지구 상 가장 이상한 생물, 오리너구리의 1년 - 길라드 비노(Gilad Bino)]]></title>
+        <id>https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko</id>
+        <link href="https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko"/>
+        <updated>2021-11-24T03:13:44.263Z</updated>
+        <content type="html"><![CDATA[Gilad Bino]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[탄소배출 제로의 세상을 만들기 위한 세 가지 규칙]]></title>
         <id>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</id>
         <link href="https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko"/>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/alok_sharma_why_cop26_is_our_best_chance_for_a_greener_future?language=ko"/>
         <updated>2021-10-07T07:13:36.018Z</updated>
         <content type="html"><![CDATA[Alok Sharma]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부는 어떻게 허공에서 돈을 만들어내는 걸까요?- 조나단 스미스(Jonathan Smith)]]></title>
-        <id>https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko</id>
-        <link href="https://www.ted.com/talks/jonathan_smith_how_do_governments_create_money_out_of_thin_air?language=ko"/>
-        <updated>2021-10-07T07:13:36.018Z</updated>
-        <content type="html"><![CDATA[Jonathan Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완경과 직장 내 성 불평등의 연관성]]></title>
-        <id>https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko</id>
-        <link href="https://www.ted.com/talks/andrea_berchowitz_the_link_between_menopause_and_gender_inequity_at_work?language=ko"/>
-        <updated>2021-10-07T07:13:36.020Z</updated>
-        <content type="html"><![CDATA[Andrea Berchowitz]]></content>
     </entry>
 </feed>
