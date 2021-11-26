@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dongascience.com/journalist.php?email=parkjy0217%40gmail.com</id>
     <title>동아사이언스 ─ 박진영 심리학 칼럼니스트</title>
-    <updated>2021-11-26T20:15:16.245Z</updated>
+    <updated>2021-11-26T21:12:16.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dongascience.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 울음은 도움 요청계의 만능키]]></title>
+        <id>https://www.dongascience.com/news.php?idx=50768</id>
+        <link href="https://www.dongascience.com/news.php?idx=50768"/>
+        <updated>2021-11-26T21:11:57.224Z</updated>
+        <content type="html"><![CDATA[현재까지 진행된 여러 연구에 따르면 여러 동물들 중 인간만이 슬픔, 분노, 좌절, 등 감정적 이유로 눈물을 흘리는 정서적 울음을 보인다. 왜 인간에게 이런 울음의 기능이 부여됐는지는 오랫동안 과학계의 미스터리였다. 한 가지 가설은 울음에는 스트레스를 줄여주는 해소 기능, 또는 진정 작용이 있다는 것이다. 하지만 실제 연구들에 의하면 울고 난 후 스트레스가 줄어들거나 고통이 감소하는 현상은 잘 나타나지 않았다. 스트레스 호르몬인 코르티졸 수치에 별다른 변화가 관찰되지 않거나 또는 되려 울면 심박이 증가하고 울고 난 후 울기 전에...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박진영의 사회심리학] 누군가 좋게 바라봐주는 것만으로도 좋은 사람이 된다]]></title>
         <id>https://www.dongascience.com/news.php?idx=50647</id>
@@ -67,12 +74,5 @@
         <link href="https://www.dongascience.com/news.php?idx=49383"/>
         <updated>2021-10-07T10:14:52.813Z</updated>
         <content type="html"><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 대상으로 조사한 결과 여러 사회적 관계 중 ‘친척’들과 함께 하는 자리가 가장 불편하고 응답했다는 조사 결과도 있다. 여기에 제사나 명절 음식 차리기, 여성에게 과하게 편중된 명절 노동, 개인의 삶을 누구든 참견할 수 있는 공공재처럼 여기며 사생활을 존중하지 않는 집단주의적 문화, 선을 넘는 것이 친밀감의 표현이라는 사고방식 등 한국만의 특수한 문화적 특성들이 스트레스를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학]삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
-        <id>https://www.dongascience.com/news.php?idx=49260</id>
-        <link href="https://www.dongascience.com/news.php?idx=49260"/>
-        <updated>2021-10-07T10:14:52.814Z</updated>
-        <content type="html"><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 깨달았다. 이전에 살던 도시에는 도심에 큰 공연장이 있었는데 역시 언제든 가면 된다고 생각하고서는 가본 적이 없었고, 갑자기 떠나게 되어서야 크게 후회한 적이 있었다. 나중에 다시 그 도시를 들러서야 이렇게 아름다운 곳이었냐며 뒤늦게 도시를 구경하고는 왜 정작 그곳에서 살 때는 그 아름다움을 누리지 못했는지 후회 막심이었다. 그런 후회에 힘입어 어제 처음으로 영화관에 들렀다. 역시...]]></content>
     </entry>
 </feed>
