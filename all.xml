@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 14:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,11 +78,16 @@
             <content:encoded><![CDATA[당신이 알아야 할 미등록 이주 아동에 대한 최소한의 지식 [기초 편]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[007 프랜차이즈 : 제임스 본드는 마블과 싸울 수 있을까? (LongBlack)]]></title>
-            <link>https://www.longblack.co/note/116</link>
-            <guid>https://www.longblack.co/note/116</guid>
-            <pubDate>Fri, 26 Nov 2021 15:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;노 타임 투 다이No time to die&gt;. 빌리 아일리시Billie Eilish&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[롱블랙 선데이 에디션 (LongBlack)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 27 Nov 2021 15:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[“결국 틈새를 찾을 수 밖에 없거든요. 틈새 하나를 겨우 찾아서 정을 딱 박고 있는 힘껏 때려야 합니다. 시작이 날카로우면 사용자들은 다르다고 느껴요.”
+
+선데이 에디션을 처음 소개하는 아침, 이창우 닷슬래시대시 대표의 노트를 다시 꺼내봅니다.
+
+틈새를 찾아내는 감각은 결국 다양한 경험에서 시작됩니다.
+느긋한 일요일, 근처 카페에서 커피 한잔 마시며 지난 롱블랙 노트를 뒤적여 보면 어떨까요?<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다” (뉴스페퍼민트)]]></title>
