@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-11-29T22:14:46.844Z</updated>
+    <updated>2021-11-29T23:14:16.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 책 소개 ] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책]]></title>
+        <id>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</id>
+        <link href="https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/"/>
+        <updated>2021-11-29T23:12:29.182Z</updated>
+        <content type="html"><![CDATA[2021년 11월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다”]]></title>
         <id>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/10/05/appstoregameantitrust/"/>
         <updated>2021-10-07T21:10:06.116Z</updated>
         <content type="html"><![CDATA[2021년 10월 6일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴퓨터에 파일을 보관하는 방식과 세대 차이]]></title>
-        <id>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</id>
-        <link href="https://newspeppermint.com/2021/09/24/googlegenerationcomputer/"/>
-        <updated>2021-10-07T21:10:06.116Z</updated>
-        <content type="html"><![CDATA[2021년 9월 25일]]></content>
     </entry>
 </feed>

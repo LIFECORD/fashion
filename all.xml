@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 22:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 23:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[버질 아블로Virgil Abloh. 오프화이트Off-White의 창립자, 루이비통<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[ 책 소개 ] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</link>
+            <guid>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</guid>
+            <pubDate>Mon, 29 Nov 2021 23:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 11월 30일]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</link>
             <guid>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</guid>
@@ -160,13 +167,6 @@
             <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 6일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컴퓨터에 파일을 보관하는 방식과 세대 차이 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</link>
-            <guid>https://newspeppermint.com/2021/09/24/googlegenerationcomputer/</guid>
-            <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어떤 항목에 표시해야 할까요? (TED Talks 한국어)]]></title>
