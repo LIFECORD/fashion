@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 20:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 21:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,6 +202,13 @@
             <guid>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</guid>
             <pubDate>Wed, 03 Nov 2021 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[Brian Christian]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여러분의 사업 성공을 도와줄 세 가지 법칙 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/julissa_prado_3_rules_to_help_you_build_a_successful_business?language=ko</link>
+            <guid>https://www.ted.com/talks/julissa_prado_3_rules_to_help_you_build_a_successful_business?language=ko</guid>
+            <pubDate>Tue, 30 Nov 2021 21:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[Julissa Prado]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계를 두 번 변화시킨 자동차 - 다니엘 스펄링 & 길 탈(Daniel Sperling and Gil Tal) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/armand_d_angour_the_ancient_origins_of_the_olympics?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Armand D'Angour]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맨 왕국의 흥망성쇠 - 앤드류 맥도널드(Andrew McDonald) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/andrew_mcdonald_the_rise_and_fall_of_the_kingdom_of_man?language=ko</link>
-            <guid>https://www.ted.com/talks/andrew_mcdonald_the_rise_and_fall_of_the_kingdom_of_man?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Andrew McDonald]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
