@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 20:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 21:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <content:encoded><![CDATA[피터 슈라이어Peter Schreyer. 자동차에 조금이라도 관심있는 분들이라면 익숙한 이름일 겁니다. BMW의 크리스 뱅글<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[ 책 소개 ] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
+            <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</link>
             <guid>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</guid>
             <pubDate>Mon, 29 Nov 2021 23:12:29 GMT</pubDate>
