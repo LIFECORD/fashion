@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-12-01T07:15:19.603Z</updated>
+    <updated>2021-12-01T08:16:33.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주4일제가 기후 위기랑 관계가 있다고?]]></title>
+        <id>https://articles.dotface.kr/climate2022-3</id>
+        <link href="https://articles.dotface.kr/climate2022-3"/>
+        <updated>2021-12-01T08:14:13.133Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [숨은 약속 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령이 기후 위기를 해결할 수 있다고?]]></title>
+        <id>https://articles.dotface.kr/climate2022-2</id>
+        <link href="https://articles.dotface.kr/climate2022-2"/>
+        <updated>2021-12-01T08:14:13.133Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛 기후 위기 공약 [검증 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래의 대통령, 기후 위기 '잘알'인가요?]]></title>
+        <id>https://articles.dotface.kr/climate2022-1</id>
+        <link href="https://articles.dotface.kr/climate2022-1"/>
+        <updated>2021-12-01T08:14:13.134Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [시작 편]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어른이 되니까, 죄인이 되었다]]></title>
         <id>https://articles.dotface.kr/unregistered5</id>
@@ -53,26 +74,5 @@
         <link href="https://articles.dotface.kr/housing2022-3"/>
         <updated>2021-11-23T07:12:22.071Z</updated>
         <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [사람 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보가 약속한 그 집, 어떻게 생겼대?]]></title>
-        <id>https://articles.dotface.kr/housing2022-2</id>
-        <link href="https://articles.dotface.kr/housing2022-2"/>
-        <updated>2021-11-23T07:12:22.073Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [유형 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 아이들은 스무 살이 되면 한국에서 쫓겨납니다]]></title>
-        <id>https://articles.dotface.kr/unregistered2</id>
-        <link href="https://articles.dotface.kr/unregistered2"/>
-        <updated>2021-11-24T01:55:11.108Z</updated>
-        <content type="html"><![CDATA[당신이 알아야 할 미등록 이주 아동에 대한 최소한의 지식 [졸업 이후 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핸드폰도, QR코드도 만들 수 없는 아이들]]></title>
-        <id>https://articles.dotface.kr/unregistered1</id>
-        <link href="https://articles.dotface.kr/unregistered1"/>
-        <updated>2021-11-24T01:55:11.109Z</updated>
-        <content type="html"><![CDATA[당신이 알아야 할 미등록 이주 아동에 대한 최소한의 지식 [기초 편]]]></content>
     </entry>
 </feed>
