@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 16:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,7 @@
             <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [위치 편]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[츠타야 쉐어 라운지 : 라이프스타일 전문가들이 제안하는 '워크 스타일' (LongBlack)]]></title>
+            <title><![CDATA[츠타야 쉐어라운지 : 라이프스타일 전문가들이 제안하는 '워크 스타일' (LongBlack)]]></title>
             <link>https://www.longblack.co/note/120</link>
             <guid>https://www.longblack.co/note/120</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:57 GMT</pubDate>
