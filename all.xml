@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 15:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 16:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/120</link>
             <guid>https://www.longblack.co/note/120</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 가 봤어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 츠<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 알게 됐어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
