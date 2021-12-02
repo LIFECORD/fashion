@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓰레기 못 줄이면 기후 위기 대응 못 해 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/climate2022-5</link>
+            <guid>https://articles.dotface.kr/climate2022-5</guid>
+            <pubDate>Thu, 02 Dec 2021 06:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [쓰레기와 자원 순환 편]]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대선 후보의 기후 공약, 제 점수는요 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/climate2022-4</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/housing2022-5</guid>
             <pubDate>Tue, 23 Nov 2021 07:12:22 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [위치 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대통령 후보가 약속한 내집 마련, 얼마면 돼? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/housing2022-4</link>
-            <guid>https://articles.dotface.kr/housing2022-4</guid>
-            <pubDate>Tue, 23 Nov 2021 07:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [가격 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피터 슈라이어 : 자동차 디자인 40년 거장, 좋은 디자인을 말하다 (LongBlack)]]></title>
