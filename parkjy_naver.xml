@@ -4,9 +4,17 @@
         <title>동아사이언스 박진영 심리학 칼럼니스트 ─ 네이버 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 20:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 21:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박진영의 사회심리학] 정말 잃기만 한 시간이었을까]]></title>
+            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26550520&amp;oid=584&amp;aid=0000016958&amp;ptype=021</link>
+            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26550520&amp;oid=584&amp;aid=0000016958&amp;ptype=021</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신종 코로나바이러스 감염증(COVID-19·코로나19) 상황을 재평가해본 사람들은 그렇게 하지 않은 사람들에 비해 똑같은 절망적인 사진을 봐도 부정적…]]></content:encoded>
+            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/12/04/16958.jpg?type=nf112_70" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박진영의 사회심리학] 울음은 도움 요청계의 만능키]]></title>
             <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26549924&amp;oid=584&amp;aid=0000016874&amp;ptype=021</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[픽사베이 제공 소셜네트워크서비스(SNS) 사용이 많아지면서 피로감을 호소하는 하소연들이 심심치 않게 들린다. SNS에서 다른 친구들이 무슨 이야기…]]></content:encoded>
             <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/17/15141.jpg?type=nf112_70" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박진영의 사회심리학]좌절과 실망이 습관인 사람에게]]></title>
-            <link>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538717&amp;oid=584&amp;aid=0000015044&amp;ptype=021</link>
-            <guid>https://news.naver.com/main/hotissue/read.naver?mid=hot&amp;sid1=110&amp;cid=1077376&amp;iid=26538717&amp;oid=584&amp;aid=0000015044&amp;ptype=021</guid>
-            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[게티이미지뱅크 제공 존경하는 선생님으로부터 이런 이야기를 들은 적이 있다. 자신에 대해 쉽게 실망하는 버릇 또한 어떤 면에서는 자의식 과잉이라는…]]></content:encoded>
-            <enclosure url="https://imgnews.pstatic.net/image/origin/584/2021/07/10/15044.jpg?type=nf112_70" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
