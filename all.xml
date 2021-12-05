@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 13:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 17:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,11 @@
             <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [위치 편]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (LongBlack)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 04 Dec 2021 15:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[L의 가슴을 울린 지난주 롱블랙의 문장
-
-“자신의 스튜디오에 앉아서 다트를 던지며 그게 과녁에 명중하기만 기다리지 마세요. 여러분이 실제로 다트판까지 걸어가면, 직접 다트를 과녁에 꽂을 수 있어요.”
-11월 30일 노트 &lt;버질 아블로 : 당신의 모든 것을 편집하라<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[그린먼데이 : ‘미트 러버’ 홍콩을 바꾸고 있는 대체육 회사 (LongBlack)]]></title>
+            <link>https://www.longblack.co/note/119</link>
+            <guid>https://www.longblack.co/note/119</guid>
+            <pubDate>Sun, 05 Dec 2021 17:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[월요일이네요! 제가 하루 한 끼 채식하는 날입니다. 별 거 없고 샐러드 듬뿍 먹어요. 저처럼 일주일에 하루나 한 끼 채식하는 분들 있죠? 이걸<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
