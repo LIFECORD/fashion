@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-12-07T13:25:41.430Z</updated>
+    <updated>2021-12-07T14:16:12.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성은 언제까지 살아 있음에 감사해야 하나요?]]></title>
+        <id>https://articles.dotface.kr/vaw2022-1</id>
+        <link href="https://articles.dotface.kr/vaw2022-1"/>
+        <updated>2021-12-07T14:13:20.544Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [시작 편]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기 못 줄이면 기후 위기 대응 못 해]]></title>
         <id>https://articles.dotface.kr/climate2022-5</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/housing2022-6"/>
         <updated>2021-11-23T07:12:22.057Z</updated>
         <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [다주택자 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 많은 집을 어디에 짓겠다는 건지]]></title>
-        <id>https://articles.dotface.kr/housing2022-5</id>
-        <link href="https://articles.dotface.kr/housing2022-5"/>
-        <updated>2021-11-23T07:12:22.058Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [위치 편]]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 13:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 14:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성은 언제까지 살아 있음에 감사해야 하나요? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/vaw2022-1</link>
+            <guid>https://articles.dotface.kr/vaw2022-1</guid>
+            <pubDate>Tue, 07 Dec 2021 14:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [시작 편]]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[쓰레기 못 줄이면 기후 위기 대응 못 해 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/climate2022-5</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/housing2022-6</guid>
             <pubDate>Tue, 23 Nov 2021 07:12:22 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [다주택자 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그 많은 집을 어디에 짓겠다는 건지 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/housing2022-5</link>
-            <guid>https://articles.dotface.kr/housing2022-5</guid>
-            <pubDate>Tue, 23 Nov 2021 07:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [위치 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팀홀튼 : 스타벅스보다 사랑받는 캐나다 국민 커피 브랜드 (LongBlack)]]></title>
