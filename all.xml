@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 19:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 20:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 6일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자연의 요새: 선인장은 어떻게 수분을 유지하고 포식자를 쫓아내는가 - 루카스 C. 마유레(Lucas C. Majure) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/lucas_c_majure_nature_s_fortress_how_cacti_keep_water_in_and_predators_out?language=ko</link>
+            <guid>https://www.ted.com/talks/lucas_c_majure_nature_s_fortress_how_cacti_keep_water_in_and_predators_out?language=ko</guid>
+            <pubDate>Tue, 07 Dec 2021 20:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[Lucas C. Majure]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어떤 항목에 표시해야 할까요? (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Nigel Topping]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고대 올림픽의 기원 |아마드 디'안고어 (Armand D'Angour) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/armand_d_angour_the_ancient_origins_of_the_olympics?language=ko</link>
-            <guid>https://www.ted.com/talks/armand_d_angour_the_ancient_origins_of_the_olympics?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Armand D'Angour]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
