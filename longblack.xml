@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>LongBlack</title>
-    <updated>2021-12-09T11:12:43.411Z</updated>
+    <updated>2021-12-09T15:15:37.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[박재현 : 날 것의 감각, 1년 만에 신용산 골목을 접수하다]]></title>
-        <id>https://www.longblack.co/note/126</id>
-        <link href="https://www.longblack.co/note/126"/>
-        <updated>2021-12-08T17:20:43.538Z</updated>
-        <content type="html"><![CDATA[고층 빌딩이 늘어선 신용산역 대로에서 서쪽으로 10분 정도 걸으면, 주택가 골목이 나옵니다. 세월이 멈춘 듯 낮은 주택과 낡은 빌라들이 모인 오래된 골목입니다. 슈퍼마켓도 잘 안 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[휴먼레이스 : 퍼렐 윌리엄스가 만든 젠더리스 스킨케어 브랜드]]></title>
+        <id>https://www.longblack.co/note/127</id>
+        <link href="https://www.longblack.co/note/127"/>
+        <updated>2021-12-09T15:12:56.931Z</updated>
+        <content type="html"><![CDATA[좋아하는 팝가수 있으세요? 저는 퍼렐 윌리엄스Pharell Williams를 좋아해요. 이 말 하나면 제가 왜 퍼렐 윌리엄스를 좋아하는지 아실 거예요.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
