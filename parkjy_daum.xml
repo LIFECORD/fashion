@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/943444</id>
     <title>다음 뉴스 ─ 박진영의 사회심리학</title>
-    <updated>2021-12-10T20:15:42.416Z</updated>
+    <updated>2021-12-10T21:12:15.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[규범이 촘촘한 문화 가진 국가, 코로나19 피해 적다]]></title>
+        <id>https://v.daum.net/v/20211211060012928</id>
+        <link href="https://v.daum.net/v/20211211060012928"/>
+        <updated>2021-12-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[서로 다른 문화권을 구분하는 방법에는 여러가지가 있다. 개인주의와 집단주의 성향에 따라 문화권을 나누는 것이 한 가지 대표적인 방법이다. 이 외에도 사회적 규범이 강력하게 작용하고 구성원들의 행동을 촘촘하게 규제하는지, 아니면 규범에서 벗어나는 행동에 대해 관용적인지 여부에 따라 빡빡한(타이트한) 또는 느슨한 문화권으로 나눌 수 있다.&nbsp; 심리학자 미셸 겔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정말 잃기만 한 시간이었을까]]></title>
         <id>https://v.daum.net/v/20211204060033934</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210918060024179"/>
         <updated>2021-10-07T07:14:19.900Z</updated>
         <content type="html"><![CDATA[사랑과 관심을 하하호호 나누며 행복해야 할 명절이지만 안타깝게도 많은 사람들에게 명절은 일년 중 가장 스트레스가 많은 날이다. 한국 대학생들을 대상으로 조사한 결과 여러 사회적 관계 중 ‘친척’들과 함께 하는 자리가 가장 불편하고 응답했다는 조사 결과도&nbsp;있다. 여기에 제사나 명절 음식 차리기, 여성에게 과하게 편중된 명절 노동, 개인의 삶을 누구든 참견할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삶에서 실제로 가치가 높고 희소한 것들을 알아보는 법]]></title>
-        <id>https://v.daum.net/v/20210911103012768</id>
-        <link href="https://v.daum.net/v/20210911103012768"/>
-        <updated>2021-10-07T07:14:19.904Z</updated>
-        <content type="html"><![CDATA[집에서 걸어갈 거리에 영화관이 있다. 가까우니까 아무 때나 가면 된다고 생각하고서는 이사 온지 1년 반이 지나도록 한 번도 간 적이 없다는 사실을 깨달았다. 이전에 살던 도시에는 도심에 큰 공연장이 있었는데 역시 언제든 가면 된다고 생각하고서는 가본 적이 없었고, 갑자기 떠나게 되어서야 크게 후회한 적이 있었다. 나중에 다시 그 도시를 들러서야 이렇게 아름]]></content>
     </entry>
 </feed>
