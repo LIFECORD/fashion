@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>LongBlack</title>
-    <updated>2021-12-10T14:13:34.602Z</updated>
+    <updated>2021-12-10T16:19:13.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[휴먼레이스 : 퍼렐 윌리엄스가 만든 젠더리스 스킨케어 브랜드]]></title>
-        <id>https://www.longblack.co/note/127</id>
-        <link href="https://www.longblack.co/note/127"/>
-        <updated>2021-12-09T15:12:56.931Z</updated>
-        <content type="html"><![CDATA[좋아하는 팝가수 있으세요? 저는 퍼렐 윌리엄스Pharell Williams를 좋아해요. 이 말 하나면 제가 왜 퍼렐 윌리엄스를 좋아하는지 아실 거예요.<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[테일러 스위프트 : 2010년대 최고의 가수가 미움을 받는 이유]]></title>
+        <id>https://www.longblack.co/note/128</id>
+        <link href="https://www.longblack.co/note/128"/>
+        <updated>2021-12-10T16:17:19.402Z</updated>
+        <content type="html"><![CDATA[미국의 유명한 여자 가수, 하면 누가 떠올라요? 아리아나 그란데, 빌리 아일리시? 세월도 야속하지! 제 고삼 시절 MP3엔 항상 테일러 스위프트 노래가 있었어요. 지금 제 아이폰 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
