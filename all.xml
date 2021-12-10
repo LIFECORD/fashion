@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 16:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,13 @@
             <guid>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</guid>
             <pubDate>Thu, 07 Oct 2021 21:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 6일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TED Salon: 다시 상상하기 - 피치 리브(Peachy Liv) (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/peachy_liv_how_to_protect_your_mental_well_being_online_from_a_gen_zer?language=ko</link>
+            <guid>https://www.ted.com/talks/peachy_liv_how_to_protect_your_mental_well_being_online_from_a_gen_zer?language=ko</guid>
+            <pubDate>Fri, 10 Dec 2021 17:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[Peachy Liv]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[자연의 요새: 선인장은 어떻게 수분을 유지하고 포식자를 쫓아내는가 - 루카스 C. 마유레(Lucas C. Majure) (TED Talks 한국어)]]></title>
@@ -412,13 +419,6 @@
             <guid>https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko</guid>
             <pubDate>Wed, 24 Nov 2021 03:13:44 GMT</pubDate>
             <content:encoded><![CDATA[Gilad Bino]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탄소배출 제로의 세상을 만들기 위한 세 가지 규칙 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</link>
-            <guid>https://www.ted.com/talks/nigel_topping_3_rules_for_a_zero_carbon_world?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Nigel Topping]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
