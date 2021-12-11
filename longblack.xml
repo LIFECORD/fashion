@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>LongBlack</title>
-    <updated>2021-12-11T05:13:15.187Z</updated>
+    <updated>2021-12-11T06:18:09.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/128</id>
         <link href="https://www.longblack.co/note/128"/>
         <updated>2021-12-10T16:17:19.402Z</updated>
-        <content type="html"><![CDATA[미국의 유명한 여자 가수, 하면 누가 떠올라요? 아리아나 그란데, 빌리 아일리시? 세월도 야속하지! 제 고삼 시절 MP3엔 항상 테일러 스위프트 노래가 있었어요. 지금 제 아이폰 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[미국의 유명한 여자 가수, 하면 누가 떠올라요? 아리아나 그란데, 빌리 아일리시? 세월도 야속하지! 제 고3 시절 MP3엔 항상 테일러 스위프트 노래가 있었어요. 지금 제 아이폰 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
