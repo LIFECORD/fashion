@@ -2,14 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>LongBlack</title>
-    <updated>2021-12-11T14:14:16.501Z</updated>
+    <updated>2021-12-11T15:13:52.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[테일러 스위프트 : 2010년대 최고의 가수가 미움을 받는 이유]]></title>
-        <id>https://www.longblack.co/note/128</id>
-        <link href="https://www.longblack.co/note/128"/>
-        <updated>2021-12-10T16:17:19.402Z</updated>
-        <content type="html"><![CDATA[미국의 유명한 여자 가수, 하면 누가 떠올라요? 아리아나 그란데, 빌리 아일리시? 세월도 야속하지! 제 고3 시절 MP3엔 항상 테일러 스위프트 노래가 있었어요. 지금 제 아이폰 <span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
+        <id>https://www.longblack.co/weekend</id>
+        <link href="https://www.longblack.co/weekend"/>
+        <updated>2021-12-11T15:11:54.606Z</updated>
+        <content type="html"><![CDATA[C가 다섯번 받아적은 지난주 롱블랙의 문장
+
+"우리는 직접 쓰고 싶은 제품, 진짜 좋아할 만한 브랜드를 만들고 싶었거든요. '내가 안 사고 친구한테 권하지 않을 거면 만들지도 말자'는 게 저희 모토예요."
+12월 8일 노트 &lt;아카이브앱크 : 당신이 만드는 브랜드,<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
