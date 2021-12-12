@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,11 @@
             <content:encoded><![CDATA[2022 대선 캐비닛, 주거 공약 살펴보기 [다주택자 편]]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (LongBlack)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 11 Dec 2021 15:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[C가 다섯번 받아적은 지난주 롱블랙의 문장
-
-"우리는 직접 쓰고 싶은 제품, 진짜 좋아할 만한 브랜드를 만들고 싶었거든요. '내가 안 사고 친구한테 권하지 않을 거면 만들지도 말자'는 게 저희 모토예요."
-12월 8일 노트 &lt;아카이브앱크 : 당신이 만드는 브랜드,<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[이욱정 : 창의성은 터치(touch)에서 나온다, ‘내 것’을 만드는 힘 (LongBlack)]]></title>
+            <link>https://www.longblack.co/note/131</link>
+            <guid>https://www.longblack.co/note/131</guid>
+            <pubDate>Sun, 12 Dec 2021 15:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;요리인류&gt;라는 다큐멘터리 보셨나요? 이 다큐멘터리에서 제가 좋아하는 장면이 있습니다.눈 쌓인 러시아의 한 시골 마을. 타마라 할머니가 주름진<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
