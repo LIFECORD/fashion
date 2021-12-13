@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 17:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 19:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -183,6 +183,20 @@
             <content:encoded><![CDATA[Nkosilathi Nyathi]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[멜라토닌은 무엇이고 숙면을 위해 복용해야 할까요? (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/matt_walker_what_is_melatonin_and_should_you_take_it_to_fall_asleep?language=ko</link>
+            <guid>https://www.ted.com/talks/matt_walker_what_is_melatonin_and_should_you_take_it_to_fall_asleep?language=ko</guid>
+            <pubDate>Mon, 13 Dec 2021 19:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Matt Walker]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일기 예보는 얼마나 정확할까요? (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/mona_chalabi_how_accurate_is_the_weather_forecast?language=ko</link>
+            <guid>https://www.ted.com/talks/mona_chalabi_how_accurate_is_the_weather_forecast?language=ko</guid>
+            <pubDate>Mon, 13 Dec 2021 19:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Mona Chalabi]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[자연의 요새: 선인장은 어떻게 수분을 유지하고 포식자를 쫓아내는가 - 루카스 C. 마유레(Lucas C. Majure) (TED Talks 한국어)]]></title>
             <link>https://www.ted.com/talks/lucas_c_majure_nature_s_fortress_how_cacti_keep_water_in_and_predators_out?language=ko</link>
             <guid>https://www.ted.com/talks/lucas_c_majure_nature_s_fortress_how_cacti_keep_water_in_and_predators_out?language=ko</guid>
@@ -223,6 +237,13 @@
             <guid>https://www.ted.com/talks/brian_christian_how_to_get_better_at_video_games_according_to_babies?language=ko</guid>
             <pubDate>Wed, 03 Nov 2021 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[Brian Christian]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리가 평균에 주목할 때 놓치는 것 (TED Talks 한국어)]]></title>
+            <link>https://www.ted.com/talks/mona_chalabi_what_we_miss_when_we_focus_on_the_average?language=ko</link>
+            <guid>https://www.ted.com/talks/mona_chalabi_what_we_miss_when_we_focus_on_the_average?language=ko</guid>
+            <pubDate>Mon, 13 Dec 2021 19:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Mona Chalabi]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여러분의 사업 성공을 도와줄 세 가지 법칙 (TED Talks 한국어)]]></title>
@@ -398,27 +419,6 @@
             <guid>https://www.ted.com/talks/kathryn_a_whitehead_the_tiny_balls_of_fat_that_could_revolutionize_medicine?language=ko</guid>
             <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
             <content:encoded><![CDATA[Kathryn A. Whitehead]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밖으로 몰아 비난하지 말고, 안으로 들여 포용하세요. (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</link>
-            <guid>https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in?language=ko</guid>
-            <pubDate>Tue, 05 Oct 2021 04:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[Loretta J. Ross]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[mRNA 백신 혁명을 이끄는 부부 과학자가  전하는 메세지 (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko</link>
-            <guid>https://www.ted.com/talks/ugur_sahin_and_ozlem_tureci_meet_the_scientist_couple_driving_an_mrna_vaccine_revolution?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Uğur Şahin and Özlem Türeci]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이슬란드의 초강력 지하 화산들 - Jean-Baptiste P. Koehl (장 바티스트 코엘) (TED Talks 한국어)]]></title>
-            <link>https://www.ted.com/talks/jean_baptiste_p_koehl_iceland_s_superpowered_underground_volcanoes?language=ko</link>
-            <guid>https://www.ted.com/talks/jean_baptiste_p_koehl_iceland_s_superpowered_underground_volcanoes?language=ko</guid>
-            <pubDate>Sat, 11 Sep 2021 20:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[Jean-Baptiste P. Koehl]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빛나는 이나를 위한 데이브레이크의 노래 선물🎁🎁 (kakaoTV ─ 톡이나 할까)]]></title>
