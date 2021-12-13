@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2021-12-13T14:14:37.902Z</updated>
+    <updated>2021-12-13T15:16:30.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.ted.com/talks/peachy_liv_how_to_protect_your_mental_well_being_online_from_a_gen_zer?language=ko"/>
         <updated>2021-12-10T17:21:53.048Z</updated>
         <content type="html"><![CDATA[Peachy Liv]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TED Salon: 다시 상상하기 - 니코실라티 니아티 (Nkosilathi Nyathi)]]></title>
+        <id>https://www.ted.com/talks/nkosilathi_nyathi_to_fight_climate_change_listen_to_young_people?language=ko</id>
+        <link href="https://www.ted.com/talks/nkosilathi_nyathi_to_fight_climate_change_listen_to_young_people?language=ko"/>
+        <updated>2021-12-13T15:15:41.006Z</updated>
+        <content type="html"><![CDATA[Nkosilathi Nyathi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자연의 요새: 선인장은 어떻게 수분을 유지하고 포식자를 쫓아내는가 - 루카스 C. 마유레(Lucas C. Majure)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/jean_baptiste_p_koehl_iceland_s_superpowered_underground_volcanoes?language=ko"/>
         <updated>2021-10-07T07:13:36.002Z</updated>
         <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독있는 며느리발톱, 오리 부리와 가시털이 난 생식기: 지구 상 가장 이상한 생물, 오리너구리의 1년 - 길라드 비노(Gilad Bino)]]></title>
-        <id>https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko</id>
-        <link href="https://www.ted.com/talks/gilad_bino_a_year_in_the_life_of_one_of_earth_s_weirdest_animals?language=ko"/>
-        <updated>2021-11-24T03:13:44.263Z</updated>
-        <content type="html"><![CDATA[Gilad Bino]]></content>
     </entry>
 </feed>
