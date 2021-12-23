@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/vaw2022-3</link>
+            <guid>https://articles.dotface.kr/vaw2022-3</guid>
+            <pubDate>Thu, 23 Dec 2021 08:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [디지털 성폭력 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차별금지법, 한다는 거야 만다는 거야 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/equalityact2022-2</link>
+            <guid>https://articles.dotface.kr/equalityact2022-2</guid>
+            <pubDate>Thu, 23 Dec 2021 08:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [차별금지법 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모두를 위한 대통령? 그럼 소수자는요? (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/equalityact2022-1</link>
+            <guid>https://articles.dotface.kr/equalityact2022-1</guid>
+            <pubDate>Thu, 23 Dec 2021 08:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [혐오 발언 편]]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[청소년부터 워킹맘까지, 대선 공약 속의 여성 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/vaw2022-5</link>
@@ -55,27 +76,6 @@
             <guid>https://articles.dotface.kr/climate2022-4</guid>
             <pubDate>Tue, 14 Dec 2021 19:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [평가 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주4일제가 기후 위기랑 관계가 있다고? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/climate2022-3</link>
-            <guid>https://articles.dotface.kr/climate2022-3</guid>
-            <pubDate>Tue, 14 Dec 2021 19:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [숨은 약속 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대통령이 기후 위기를 해결할 수 있다고? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/climate2022-2</link>
-            <guid>https://articles.dotface.kr/climate2022-2</guid>
-            <pubDate>Tue, 14 Dec 2021 19:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛 기후 위기 공약 [검증 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미래의 대통령, 기후 위기 '잘알'인가요? (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/climate2022-1</link>
-            <guid>https://articles.dotface.kr/climate2022-1</guid>
-            <pubDate>Tue, 14 Dec 2021 19:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [시작 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈 (뉴스페퍼민트)]]></title>
