@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 22:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 23:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 13일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[좋은 의도로 만든 정책이 엉뚱한 결과를 낳을 때 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</guid>
+            <pubDate>Thu, 23 Dec 2021 23:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfMjg3/MDAxNjQwMjk3MTk4NzI2.hryPjM0mkiIfto67hs703SiCgbi_206E1Uhtzt3y1u0g.VVbHccZheEDEPXz21N_ZW1f3Lu6aE9wmUdVRDzqFn4gg.PNG/Screen_Shot_2021-12-24_at_4.56.41_AM.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[트랜스젠더 운동 선수의 경우 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211222020115380VW</guid>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTE4/MDAxNjM2NDI3NjY5ODcx.gOd-cKheuXYDmfz-DOUOqDJ7sIsQMxy5FuSVupOioXog.NNHGBNu0QCBjt_jq4XmYxf0Bp_-wvU9zFXv_mpOhGEMg.JPEG/angus_deaton.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[회의를 회의하라 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211108015413724vy</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211108015413724vy</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfOTMg/MDAxNjM2MzAzOTQzOTEw.MrFhXbI5r6LY1dw7kE5IBW0q4WUJ1vZkiT_2ivh9OIIg.ppTohrwgFQ03S0NnR3tbKrgT2YXE9jS8umIApi7LzzYg.JPEG/austin-distel-rxpThOwuVgE-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
