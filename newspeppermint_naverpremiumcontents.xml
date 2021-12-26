@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 22:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 23:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워싱턴포스트가 꼽은 2021년에 일어난 좋은 일 21가지]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211227075713736PF</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211227075713736PF</guid>
+            <pubDate>Sun, 26 Dec 2021 23:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjdfMjkx/MDAxNjQwNTU5MzM4MTQ5.pi6jcK0NrNWfLwW7OartrvilanD0hgG_6nHLlqEx64cg.O9YF_Dsv7bQNwlV8836JSupsbXQ9rVvjCTQzaoXXE0cg.JPEG/cdc-kOS3uo80NTM-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좋은 의도에서 비롯된 정책이 좋지 않은 결과를 낳을 때]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/211224071041137KX</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTJfNzcg/MDAxNjM2NjYyODgxMTI3.JAOhsZTU6gA081t71QvLUv5oCbOfIfuiiP24O9UWUNUg.qRV1HfABQgWUPOKN5a_WLm8jy3ZGm5A66DxN8zlNS6wg.JPEG/alex-mccarthy-a6FHROHuQ9o-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절망의 죽음과 두 개의 미국]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211109121650810AU</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211109121650810AU</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTE4/MDAxNjM2NDI3NjY5ODcx.gOd-cKheuXYDmfz-DOUOqDJ7sIsQMxy5FuSVupOioXog.NNHGBNu0QCBjt_jq4XmYxf0Bp_-wvU9zFXv_mpOhGEMg.JPEG/angus_deaton.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
