@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 23:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 13일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전기차는 타이어도 달라야 한다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</guid>
+            <pubDate>Tue, 28 Dec 2021 23:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjlfMTEx/MDAxNjQwNzI1Njk4Mjc0.AXaFmx5CxAAPGsA1TavQzEY_BbH-yOMx6gP4mIOsjh8g.XQPo7yCO5YjywW6vwCj5T1OQldD1REu5oYTI1mpmas4g.JPEG/vincent-camacho-ikfUKWa-uQ0-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[워싱턴포스트가 꼽은 2021년에 일어난 좋은 일 21가지 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/211227075713736PF</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211227075713736PF</guid>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTVfMjQ5/MDAxNjM2OTIyNjUwMzAz.cmzSGFZYBt2bUkzAX1v4K_ZC_gQhDehxpCMt7l4jEasg.GruSrAnxqYSc3OLru_MbUCLNHU-lStlst9u0AeMjXuYg.PNG/Screen_Shot_2021-11-14_at_1.51.48_PM.png?type=nf220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[달리기 잘하는 비결: 딴 생각 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211112053712808al</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211112053712808al</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTJfNzcg/MDAxNjM2NjYyODgxMTI3.JAOhsZTU6gA081t71QvLUv5oCbOfIfuiiP24O9UWUNUg.qRV1HfABQgWUPOKN5a_WLm8jy3ZGm5A66DxN8zlNS6wg.JPEG/alex-mccarthy-a6FHROHuQ9o-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
