@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 23:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 00:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[2021년 10월 13일]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021 뉴욕타임스 부고 기사 모음 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</guid>
+            <pubDate>Fri, 31 Dec 2021 00:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMzFfNTEg/MDAxNjQwOTA3NTI2NDY0.K6iC8x-_b8vO41UU4e-XwLR9hr9Y9Jq28SW3d_CeHDAg.laDcAEdB2eWFPZy-YyLJqrg9W10pnH56y0Iws1xvd54g.PNG/Screen_Shot_2021-12-31_at_7.54.23_AM.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[전기차는 타이어도 달라야 한다 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</link>
             <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211229060941508gW</guid>
@@ -312,14 +320,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjI3/MDAxNjM3MDkxNjk4MDM2.twA7eBWepPfm3ZHxVBKj8T0-9ElOw8-NpRqJyz-5mb0g.HSEn7ZXa4WPqKPAK5GaFPoWf-mnguCroCKyaBGpoVq4g.JPEG/Daron_Acemoglu-1-e1597850550502.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플이 쏘아올린 '앱 추적 투명성'이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211115054645496Zh</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211115054645496Zh</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTVfMjQ5/MDAxNjM2OTIyNjUwMzAz.cmzSGFZYBt2bUkzAX1v4K_ZC_gQhDehxpCMt7l4jEasg.GruSrAnxqYSc3OLru_MbUCLNHU-lStlst9u0AeMjXuYg.PNG/Screen_Shot_2021-11-14_at_1.51.48_PM.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
