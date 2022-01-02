@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 22:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 23:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체중 관리에 관해 우리가 모르는 사실]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220103064754027hL</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220103064754027hL</guid>
+            <pubDate>Sun, 02 Jan 2022 23:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTQ3/MDAxNjQxMTU5ODEzNjA4.s44VA5MFyKO_QCMbGz8kg-fVPzi7eCkiUaQMWB3VDu8g.q77tbLaqjxzFk27j5usuKveCkF1oNNNKomWCKv9dx8og.PNG/Screen_Shot_2022-01-03_at_6.34.42_AM.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2021 뉴욕타임스 부고 기사 모음]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/211231083929125Ay</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTlfMTkw/MDAxNjM3MjY2Mjc5MDY3.GkVEcucLOdT6eu_QjENqqOMTEPHVp-3WiQFMq1UeVf0g.vPjQDKgh-3KsynXzNGByLadsY4pCDOx817vmzYBnEkMg.JPEG/sj-YDvfndOs4IQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮은 일자리는 다 어디로 갔을까?]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211117044456034rr</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211117044456034rr</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjI3/MDAxNjM3MDkxNjk4MDM2.twA7eBWepPfm3ZHxVBKj8T0-9ElOw8-NpRqJyz-5mb0g.HSEn7ZXa4WPqKPAK5GaFPoWf-mnguCroCKyaBGpoVq4g.JPEG/Daron_Acemoglu-1-e1597850550502.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
