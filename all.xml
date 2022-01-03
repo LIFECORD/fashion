@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["음식이 아니라 폭력입니다" 갑자기 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/extremely1</link>
+            <guid>https://articles.dotface.kr/extremely1</guid>
+            <pubDate>Mon, 03 Jan 2022 02:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[기후 대통령을 자처하는데, 믿어도 될까요? (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/simsangjeong4</link>
@@ -34,13 +41,6 @@
             <guid>https://articles.dotface.kr/simsangjeong1</guid>
             <pubDate>Thu, 30 Dec 2021 01:59:18 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편1]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["음식이 아니라 폭력입니다" 갑자기 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/extremely1</link>
-            <guid>https://articles.dotface.kr/extremely1</guid>
-            <pubDate>Mon, 03 Jan 2022 02:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구? (닷페이스 ─ 아티클)]]></title>
