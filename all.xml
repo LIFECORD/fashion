@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 00:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://articles.dotface.kr/simsangjeong1</guid>
             <pubDate>Thu, 30 Dec 2021 01:59:18 GMT</pubDate>
             <content:encoded><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편1]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["음식이 아니라 폭력입니다" 갑자기 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/extremely1</link>
+            <guid>https://articles.dotface.kr/extremely1</guid>
+            <pubDate>Mon, 03 Jan 2022 02:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구? (닷페이스 ─ 아티클)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/vaw2022-4</guid>
             <pubDate>Tue, 28 Dec 2021 08:15:06 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혼까지 생각했어, 아이한테 엄마 성을 주려고 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/givennames</link>
-            <guid>https://articles.dotface.kr/givennames</guid>
-            <pubDate>Tue, 28 Dec 2021 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[아빠 성이 꼭 기본값이어야 하는 거야?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈 (뉴스페퍼민트)]]></title>
