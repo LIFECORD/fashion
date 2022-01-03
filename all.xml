@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 22:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 23:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://articles.dotface.kr/vaw2022-4</guid>
             <pubDate>Tue, 28 Dec 2021 08:15:06 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성큼 다가온 큰 정부 시대 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/01/03/%ec%84%b1%ed%81%bc-%eb%8b%a4%ea%b0%80%ec%98%a8-%ed%81%b0-%ec%a0%95%eb%b6%80-%ec%8b%9c%eb%8c%80/</link>
+            <guid>https://newspeppermint.com/2022/01/03/%ec%84%b1%ed%81%bc-%eb%8b%a4%ea%b0%80%ec%98%a8-%ed%81%b0-%ec%a0%95%eb%b6%80-%ec%8b%9c%eb%8c%80/</guid>
+            <pubDate>Mon, 03 Jan 2022 23:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 4일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈 (뉴스페퍼민트)]]></title>
@@ -153,13 +160,6 @@
             <guid>https://newspeppermint.com/2021/10/13/uschildcare/</guid>
             <pubDate>Thu, 23 Dec 2021 05:26:20 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 14일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</link>
-            <guid>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 10월 13일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[체중 관리에 관해 우리가 모르는 사실 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
