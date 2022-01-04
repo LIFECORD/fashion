@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 00:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,7 +92,7 @@
             <content:encoded><![CDATA[2021년 12월 18일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가? (뉴스페퍼민트)]]></title>
+            <title><![CDATA[팬데믹은 테크 산업을 어떻게 바꾸고 있는가? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</link>
             <guid>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</guid>
             <pubDate>Sun, 26 Dec 2021 12:18:00 GMT</pubDate>
