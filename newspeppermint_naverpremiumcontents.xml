@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 22:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 23:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 전 세계 주요 선거 일정 (1)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220104211222388eJ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220104211222388eJ</guid>
+            <pubDate>Tue, 04 Jan 2022 23:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDRfMTcz/MDAxNjQxMjk4MTkxMTU0.1kDzLPQiAVUwzAWCY-e0zkflkL2_DXK6Q3xyNLwL-pYg.Y2sWao27_UrBYrS03CJK84ClKY1jk311cREvESX8ia8g.JPEG/glen-carrie-wzKHNVTZmZo-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체중 관리에 관해 우리가 모르는 사실]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220103064754027hL</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
             <content:encoded><![CDATA[경제 공부방]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjJfMTAy/MDAxNjM3NTM0MTc0MjM4.2Nqhdbm79H5mPDg-QzODol2zu2FPQPrP6DcI2VJM-Jcg.7Y6_Sql75-IVO9dunZb9-rzrWqUeW9J1byVjlASP8Cwg.JPEG/tirole-15194-portrait-medium.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[의지력은 한정된 자원이 아니라 하나의 감정]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/211119051359923Cc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/211119051359923Cc</guid>
-            <pubDate>Thu, 23 Dec 2021 05:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTlfMTkw/MDAxNjM3MjY2Mjc5MDY3.GkVEcucLOdT6eu_QjENqqOMTEPHVp-3WiQFMq1UeVf0g.vPjQDKgh-3KsynXzNGByLadsY4pCDOx817vmzYBnEkMg.JPEG/sj-YDvfndOs4IQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
