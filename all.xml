@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다 (닷페이스 ─ 아티클)]]></title>
+            <link>https://articles.dotface.kr/extremely2</link>
+            <guid>https://articles.dotface.kr/extremely2</guid>
+            <pubDate>Thu, 06 Jan 2022 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA["음식이 아니라 폭력입니다" 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
             <link>https://articles.dotface.kr/extremely1</link>
@@ -69,13 +76,6 @@
             <guid>https://articles.dotface.kr/vaw2022-5</guid>
             <pubDate>Tue, 28 Dec 2021 08:15:06 GMT</pubDate>
             <content:encoded><![CDATA[2022 대선 캐비닛, 성평등과 여성 관련 공약]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이런 공약은 왜 없지? 성폭력 피해자에게 가장 절실한 정책 (닷페이스 ─ 아티클)]]></title>
-            <link>https://articles.dotface.kr/vaw2022-4</link>
-            <guid>https://articles.dotface.kr/vaw2022-4</guid>
-            <pubDate>Tue, 28 Dec 2021 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성큼 다가온 큰 정부 시대 (뉴스페퍼민트)]]></title>
