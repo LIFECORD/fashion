@@ -4,93 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 23:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 01:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[필진 칼럼] 미중 갈등 시대, 각국의 쉽지 않은 균형 잡기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/06/npc_pelosiinasia/</link>
-            <guid>https://newspeppermint.com/2022/10/06/npc_pelosiinasia/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 7일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/04/npc_datadecision/</link>
-            <guid>https://newspeppermint.com/2022/10/04/npc_datadecision/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 5일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 2022 미국 중간선거 관전 포인트: ‘라티노=민주당 텃밭’ 공식에 균열 갈까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/10/02/75368/</link>
-            <guid>https://newspeppermint.com/2022/10/02/75368/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 10월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전문 번역] 리사 헤인즐링 칼럼 “미국 정치를 집어삼킨 대법원” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/</link>
-            <guid>https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 30일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 유당불내증과 유당내성 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/27/npc_lactosetolerance/</link>
-            <guid>https://newspeppermint.com/2022/09/27/npc_lactosetolerance/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 28일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] NYT 칼럼니스트들의 고백 “내가 틀렸습니다” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/22/npc_iwaswrong/</link>
-            <guid>https://newspeppermint.com/2022/09/22/npc_iwaswrong/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 23일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 게임화(gamification)에 대처하는 법 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/20/npc_gamification/</link>
-            <guid>https://newspeppermint.com/2022/09/20/npc_gamification/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 현대 전쟁의 공급망 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</link>
-            <guid>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 19일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 질병을 앓는 이에게 공감하는 법에 관하여 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</link>
-            <guid>https://newspeppermint.com/2022/09/15/npc_cancerempathy/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</link>
-            <guid>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 13일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</link>
-            <guid>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 틱톡과 알고리듬 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/09/05/npc_tiktok/</link>
-            <guid>https://newspeppermint.com/2022/09/05/npc_tiktok/</guid>
-            <pubDate>Sat, 08 Oct 2022 23:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 9월 6일]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[악몽을 자꾸 꾸는 이유, 악몽을 피하는 법 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/221001071659343iv</link>
