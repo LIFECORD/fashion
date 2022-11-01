@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-01T14:21:58.947Z</updated>
+    <updated>2022-11-01T15:16:02.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 비행 에티켓 (2022년 판)]]></title>
+        <id>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</id>
+        <link href="https://newspeppermint.com/2022/10/30/npc_flyingetiquette/"/>
+        <updated>2022-11-01T15:15:54.768Z</updated>
+        <content type="html"><![CDATA[2022년 10월 31일]]></content>
+    </entry>
 </feed>
